@@ -1,0 +1,351 @@
+character,dialogue_count,scene_count,episode_count,arc_presence,average_sentiment
+katara,15067,875,59,"Fire, Earth, Water",0.05931099849029651
+sokka,18392,1009,59,"Fire, Earth, Water",0.05850078955346044
+zuko,9277,466,47,"Fire, Earth, Water",0.030078052812813626
+iroh,5276,198,36,"Fire, Earth, Water",0.15445303206245345
+aang,17947,1120,60,"Fire, Earth, Water",0.07300239571930503
+kanna,158,7,2,Water,0.09461309523809523
+village girl,9,3,1,Water,0.5104166666666666
+southern water tribe boy,12,2,2,Water,0.08333333333333333
+village boy,4,2,2,Water,0.0
+village kids,3,1,1,Water,0.0
+southern water tribe girl,7,1,1,Water,0.0
+firebender,11,3,2,"Fire, Water",0.0
+zhao,1619,63,7,Water,0.07295486574692184
+soldier,163,11,8,"Fire, Earth, Water",-0.004166666666666661
+gyatso,244,16,3,"Fire, Water",0.1
+fire sage,130,7,5,"Fire, Earth, Water",0.0
+oyaji,210,13,2,"Earth, Water",0.08370098039215686
+suki,1231,74,11,"Fire, Earth, Water",0.08412820838396494
+spectators,6,1,1,Water,0.15625
+little girl,15,3,2,Water,-0.22916666666666666
+fisherman,174,8,2,Water,0.05403814935064935
+painter,29,1,1,Water,0.3111111111111111
+fangirls,2,1,1,Water,0.0
+koko,31,6,2,"Earth, Water",-0.05714285714285714
+gate guard,60,4,1,Water,0.2359027777777778
+cabbage merchant,38,7,4,"Earth, Water",-0.07142857142857142
+bumi,972,50,4,"Fire, Earth, Water",0.12429438826320113
+guard,216,24,12,"Fire, Earth, Water",-0.023246287762416797
+chamberlain,19,1,1,Water,-0.052083333333333315
+haru,315,16,4,"Fire, Water",0.018965517241379314
+haru's mother,93,5,1,Water,-0.14583333333333334
+tax collector,28,3,1,Water,-0.09722222222222222
+old man,46,7,3,"Earth, Water",0.09375
+warden,723,32,3,"Fire, Water",0.09686499960734657
+tyro,235,11,3,"Fire, Water",0.09114583333333334
+prisoner,12,1,1,Water,0.0
+captain,146,9,4,"Earth, Water",0.015277777777777776
+old wanderer,167,6,1,Water,0.023636363636363636
+senlin village leader,134,5,2,Water,0.06937499999999999
+earthbender captain,97,5,1,Water,0.04230769230769231
+fire nation soldier,38,5,4,"Fire, Water",0.08333333333333333
+engineer,53,4,3,"Fire, Earth, Water",0.14444444444444446
+great fire sage,86,8,1,Water,0.0775
+shyu,331,10,1,Water,0.025388888888888888
+roku,1117,46,8,"Fire, Earth, Water",0.08305296425014735
+oh,111,9,2,Water,0.06521874999999999
+pirate captain,138,8,2,Water,0.1350907029478458
+pirate,14,2,1,Water,0.0
+eye-patch soldier,6,1,1,Water,0.0
+jet,1607,68,5,"Earth, Water",0.08885612746153787
+pipsqueak,79,8,4,"Fire, Water",0.14305555555555557
+the duke,53,8,4,"Fire, Water",0.15555555555555556
+smellerbee,225,16,5,"Earth, Water",0.04392316017316016
+old fire nation civilian,16,2,1,Water,0.0
+gan jin tribesman,180,3,1,Water,0.08162016369047619
+zhang leader,447,10,1,Water,-0.07048610466914038
+canyon guide,252,10,1,Water,-0.01719771241830065
+gan jin leader,331,9,1,Water,-0.020130262249827453
+gan jin man,6,1,1,Water,0.0
+merchant woman,19,1,1,Water,0.425
+shopkeeper,1,1,1,Water,0.5
+fisherman's wife,101,4,1,Water,-0.13246527777777775
+lieutenant jee,11,1,1,Water,0.2857142857142857
+jee,119,7,1,Water,-0.07056878306878306
+air nomad boy #1,35,4,1,Water,0.19166666666666665
+air nomad boy #2,24,2,1,Water,-0.15625
+tashi,83,5,1,Water,0.06976190476190476
+pasang,59,2,1,Water,0.1125
+bujing,49,1,1,Water,-0.09999999999999998
+elder soldier,19,1,1,Water,0.21818181818181817
+ozai,1006,31,10,"Fire, Earth, Water",0.07309467697047146
+shinu,116,3,2,"Fire, Water",0.015476190476190477
+scout #1,16,1,1,Water,0.5
+scout #2,14,1,1,Water,0.15625
+herbalist,203,4,2,Water,0.10729548229548229
+scribe,12,1,1,Water,0.0
+officer,11,2,1,Water,0.0
+calm man,173,6,1,Water,0.29237012987012984
+strange man,5,1,1,Water,0.0
+meng,170,9,1,Water,0.22937830687830685
+woman,36,2,1,Water,0.12777777777777777
+wu,341,15,1,Water,0.17153380102040816
+village woman,35,2,1,Water,0.0
+farmer,9,2,2,"Earth, Water",0.8125
+poi,4,2,1,Water,0.0
+ping,3,2,1,Water,0.0
+man,61,4,3,"Earth, Water",-0.10937499999999999
+man with red shoes,7,1,1,Water,0.0
+firebenders,3,1,1,Water,0.0
+june,253,20,2,"Fire, Water",0.04831236471861472
+hakoda,1064,45,8,"Fire, Earth, Water",0.13092588508172925
+bato,656,23,5,"Fire, Earth, Water",0.11842418546365911
+mother superior,79,5,1,Water,0.146875
+messenger,13,1,1,Water,0.3125
+aunt wu,6,1,1,Water,0.5
+mask dealer,7,1,1,Water,0.5
+shop keeper,6,1,1,Water,1.0
+puppet fire lord,11,1,1,Water,0.5208333333333333
+fire nation kids,4,1,1,Water,0.0
+malu,69,1,1,Water,-0.04020833333333333
+citizen,5,1,1,Water,0.0
+chey,210,9,1,Water,0.24451595031952175
+lin yee,27,4,1,Water,0.0
+guard captain,29,1,1,Water,-0.07795138888888889
+jeong jeong,561,13,2,"Fire, Water",0.105530515491453
+tribal man,4,1,1,Water,-0.2
+storyteller,81,5,1,Water,0.15698696145124716
+colonists,9,1,1,Water,0.0
+teo,374,26,4,"Fire, Water",0.16352825877825877
+mechanist,656,22,3,"Fire, Water",-0.012301841057421417
+qin,171,8,3,"Fire, Earth, Water",0.11452991452991454
+girl,2,1,1,Water,0.0
+li,249,12,6,"Fire, Earth, Water",0.10679012345679012
+arnook,364,11,3,Water,0.07951388888888888
+yue,564,26,5,"Fire, Water",0.04434705035530507
+pakku,559,19,6,"Fire, Earth, Water",0.18671689296689295
+yugoda,90,2,1,Water,0.20014880952380953
+crew member,14,2,2,"Fire, Water",0.5375
+hahn,134,5,2,Water,0.11838824755491423
+baboon spirit,17,2,1,Water,0.2333333333333333
+koh,182,4,1,Water,0.08034511784511783
+azula,3624,131,20,"Fire, Earth",0.10654312386375062
+fong,358,13,1,Earth,0.13905573593073595
+lo,126,11,5,"Fire, Earth",0.16534992784992786
+oracle,41,2,1,Earth,0.048828125
+chong,487,18,1,Earth,0.12509419592752924
+moku,33,5,1,Earth,0.075
+lily,40,4,1,Earth,0.1904761904761905
+commander,23,2,1,Earth,-0.3
+toph,5442,331,36,"Fire, Earth",0.04210799302197893
+song,153,6,1,Earth,0.09673611111111112
+song's mother,27,2,1,Earth,0.2
+guard one,25,2,1,Earth,0.08333333333333333
+guard two,14,1,1,Earth,0.0
+mai,843,46,12,"Fire, Earth",-0.0678921730369901
+michi,24,5,1,Earth,-0.27999999999999997
+resistance fighter,4,1,1,Earth,0.0
+yung,163,9,1,Earth,0.09833333333333334
+ty lee,715,36,9,"Fire, Earth",0.18159644717261905
+resistance fighter #1,17,1,1,Earth,0.45
+resistance fighter #2,5,1,1,Earth,0.0
+ukano,78,4,1,Earth,0.02268518518518518
+shuzumu,108,7,2,Earth,0.16892857142857143
+peasant girl,4,1,1,Earth,0.0
+broadsword man,40,3,1,Earth,0.0390625
+due,142,10,2,"Fire, Earth",-0.0487037037037037
+tho,157,11,2,"Fire, Earth",-0.00421626984126984
+princess yue,4,1,1,Earth,0.0
+huu,236,6,2,"Fire, Earth",0.0980753968253968
+mongke,64,5,2,Earth,-0.029166666666666664
+merchant,27,2,1,Earth,0.15892857142857142
+villagers,4,1,1,Earth,-0.19444444444444445
+villager,52,6,2,"Fire, Earth",0.19540816326530613
+tong,289,15,1,Earth,0.0030045199898141037
+villager #2,24,3,2,"Fire, Earth",0.425
+villager #3,16,3,2,"Fire, Earth",0.0
+scary prisoner,43,4,1,Earth,0.3053571428571428
+prisoner #2,1,1,1,Earth,0.0
+sensitive ruffian,12,2,1,Earth,-0.3
+kyoshi,134,5,2,"Fire, Earth",0.12037037037037036
+flyer distribution man,19,1,1,Earth,0.5
+yu,190,16,3,Earth,0.16976468950153165
+male student,73,3,1,Earth,0.11071428571428574
+male student #2,54,4,2,"Fire, Earth",0.255
+xin fu,290,24,4,Earth,0.0125
+the boulder,136,8,2,"Fire, Earth",-0.0369047619047619
+the hippo,3,1,1,Earth,-0.78125
+fire nation man,50,6,3,"Fire, Earth",0.08333333333333333
+audience,1,1,1,Earth,0.0
+lao,210,8,1,Earth,0.15220238095238098
+servant,54,4,2,"Fire, Earth",0.16333333333333333
+poppy,37,4,1,Earth,0.06249999999999997
+earth kingdom soldier,37,4,1,Earth,0.125
+store owner,33,2,1,Earth,0.0625
+gow,113,6,1,Earth,0.03888888888888889
+lee,136,13,1,Earth,0.026470588235294117
+gansu,105,7,1,Earth,0.05312499999999999
+sela,134,4,1,Earth,-0.005158730158730161
+ursa,286,17,3,"Fire, Earth",0.06237947658402205
+young ty lee,7,2,1,Earth,0.23125
+young mai,6,1,1,Earth,0.0
+azulon,58,2,1,Earth,0.06999999999999999
+old woman,5,1,1,Earth,0.0
+lu ten,4,1,1,Earth,0.0
+zei,422,16,1,Earth,0.17698522927689592
+wan shi tong,275,6,1,Earth,0.04641025641025641
+fung,105,6,1,Earth,0.14904761904761907
+man in the bar,1,1,1,Earth,0.0
+florist,23,3,1,Earth,0.13333333333333333
+white lotus member,19,1,1,Earth,0.0
+sha-mo,48,3,1,Earth,0.05833333333333333
+ghashiun,126,11,2,Earth,-0.018576388888888892
+than,68,5,1,Earth,0.3821428571428571
+ying,102,7,2,Earth,-0.15738636363636363
+ticket lady,126,4,1,Earth,-0.022676282051282044
+earthbender guard,12,1,1,Earth,0.0
+general sung,127,4,1,Earth,0.029453262786596116
+terra team leader,3,1,1,Earth,0.25
+ticket woman,32,1,1,Earth,0.17569444444444446
+terra team member,30,1,1,Earth,0.12777777777777777
+tea seller,11,1,1,Earth,0.390625
+second engineer,16,1,1,Earth,0.5729166666666667
+train conductor,6,1,1,Earth,0.0
+joo dee,471,16,2,Earth,0.06847570532915362
+pao,72,5,2,Earth,0.030612244897959183
+pet store owner,35,1,1,Earth,-0.5
+university student,41,2,1,Earth,0.0
+pong,57,1,1,Earth,-0.109375
+customer,40,3,1,Earth,0.375
+long feng,761,27,5,Earth,0.08824965493443755
+older guest,6,1,1,Earth,0.875
+younger guest,16,1,1,Earth,0.0625
+guest,12,2,1,Earth,0.0
+dai li agent,48,9,3,Earth,0.06831275720164609
+joo dee replacement,19,2,1,Earth,0.2375
+girl with umbrella,6,1,1,Earth,0.225
+star,17,1,1,Earth,0.225
+third girl,3,1,1,Earth,0.7
+shop owner,42,2,2,"Fire, Earth",0.08333333333333333
+boy's mother,4,1,1,Earth,0.5
+huge round angry face,16,2,1,Earth,-0.1
+tycho,49,4,1,Earth,0.1625
+kenji,94,4,1,Earth,0.04166666666666666
+guard #2,3,1,1,Earth,0.0
+young guest,9,1,1,Earth,0.0
+adult guest,7,1,1,Earth,-0.15555555555555556
+lady on stage,15,1,1,Earth,0.3833333333333333
+macmu-ling,50,1,1,Earth,0.21944444444444444
+ladies,3,1,1,Earth,0.0
+jin,200,10,1,Earth,0.24222689075630252
+waiter,11,1,1,Earth,-0.05
+sandbender #1,13,1,1,Earth,0.0
+sandbender #2,14,1,1,Earth,0.0
+merchant #1,26,3,1,Earth,0.021428571428571422
+merchant #2,32,4,1,Earth,0.057031250000000006
+trainer,140,6,1,Earth,-0.13044217687074827
+unnamed fire nation boy,15,3,1,Earth,0.0
+iio,10,1,1,Earth,0.0
+kyoshi warrior #1,23,2,1,Earth,-0.1
+kyoshi warrior #2,1,1,1,Earth,0.0
+pathik,1034,22,4,"Fire, Earth",0.23565618591934384
+quon,89,2,1,Earth,0.16064213564213561
+old sweepy,78,1,1,Earth,0.22083333333333333
+brainwasher,18,1,1,Earth,0.5666666666666667
+joo dees,18,1,1,Earth,0.5666666666666667
+longshot,13,1,1,Earth,0.0
+palace woman,1,1,1,Earth,0.0
+kuei,527,21,3,Earth,0.02745337301587302
+blue dragon,37,3,1,Earth,-0.075
+red dragon,24,1,1,Earth,-0.0059523809523809685
+general how,105,4,2,Earth,-0.0880952380952381
+agent,25,1,1,Earth,0.12916666666666665
+water tribe warrior,5,1,1,Earth,0.7
+warrior,9,1,1,Earth,0.0
+royal messenger,6,1,1,Earth,0.0
+captured agent,28,1,1,Earth,-0.014062499999999999
+head of the dai li,36,1,1,Earth,-0.007638888888888894
+how,4,1,1,Earth,0.0
+fire navy officer,99,2,1,Fire,0.15719246031746031
+male soldier,28,1,1,Fire,0.08333333333333333
+kwan,125,4,1,Fire,0.1335227272727273
+on ji,44,4,1,Fire,-0.01
+hide,55,3,1,Fire,0.025844155844155836
+shoji,51,4,1,Fire,-0.04791666666666666
+class,41,1,1,Fire,0.25
+music teacher,66,1,1,Fire,0.10416666666666667
+headmaster,150,6,1,Fire,0.0006547619047619025
+male student #1,28,3,1,Fire,0.16666666666666666
+male soldier #1,1,1,1,Fire,0.0
+female student #1,7,2,1,Fire,0.0
+student,2,1,1,Fire,0.0
+dock,205,7,1,Fire,0.042273351648351665
+xu,184,4,1,Fire,0.03174603174603175
+little boy,28,5,1,Fire,0.0
+dock/xu,33,2,1,Fire,-0.35714285714285715
+mung,90,4,1,Fire,0.09099567099567099
+female fire nation soldier,14,3,2,Fire,0.13333333333333333
+male fire nation soldier,17,3,2,Fire,-0.016666666666666666
+villager #1,2,1,1,Fire,0.0
+villager #4,8,1,1,Fire,0.0
+painted lady,2,1,1,Fire,0.0
+warden poon,118,6,3,Fire,-0.033163265306122444
+weapons store shopkeeper,31,1,1,Fire,0.51875
+fat,43,3,1,Fire,0.1464285714285714
+piandao,674,33,2,Fire,0.16690421658444912
+fire nation watchman #1,29,1,1,Fire,0.03125
+fire nation watchman #2,8,1,1,Fire,0.10416666666666667
+ember island teenager #1,17,4,1,Fire,0.3125
+ember island teenager #2,21,3,1,Fire,0.08333333333333333
+chan,133,8,1,Fire,0.1983287545787546
+ruon-jian,26,4,1,Fire,0.09166666666666667
+ember island teenager #3,22,2,1,Fire,0.3125
+sozin,455,19,1,Fire,0.08975566100566103
+ta min,6,1,1,Fire,0.25
+dealer,68,3,1,Fire,0.10578703703703703
+town authority,32,2,1,Fire,0.34285714285714286
+female guard,68,7,3,Fire,0.07121212121212121
+hama,956,34,1,Fire,0.06726804610733184
+ding,134,2,1,Fire,0.07069444444444443
+male prisoner #1,12,3,1,Fire,0.0
+female prisoner,19,1,1,Fire,0.010416666666666666
+male prisoner #2,4,1,1,Fire,0.0
+servant #1,25,3,1,Fire,-0.05
+servant #2,8,2,1,Fire,0.125
+momo,42,2,1,Fire,0.06428571428571428
+appa,33,1,1,Fire,-0.2976190476190476
+koala sheep,11,2,1,Fire,0.0
+big bad hippo,6,1,1,Fire,0.08750000000000002
+ming,33,2,1,Fire,0.11833333333333333
+fire nation captain,9,1,1,Fire,-0.46875
+sun warrior chief,339,12,1,Fire,0.022006172839506177
+ham ghao,32,3,1,Fire,0.03571428571428571
+sun warrior,15,1,1,Fire,0.0
+male guard,118,11,2,Fire,0.04640538033395176
+chit sang,245,15,2,Fire,0.013709727772227774
+bully guard,117,9,2,Fire,0.07775132275132274
+male guard #2,34,2,2,Fire,0.011111111111111108
+bodyguard,6,1,1,Fire,0.0
+bogyguard #2,4,1,1,Fire,0.5
+bodyguard #2,12,2,1,Fire,0.1
+door guard,26,1,1,Fire,0.02113095238095236
+tough prisoner,32,2,1,Fire,-0.3833333333333333
+gondola guard,16,1,1,Fire,0.06666666666666667
+gondola guard #2,11,1,1,Fire,0.0
+gondola guard #3,4,1,1,Fire,0.0
+gondola guard #4,7,1,1,Fire,0.0
+kya,78,3,1,Fire,-0.008333333333333333
+yon rha,148,11,1,Fire,-0.014843749999999989
+southern raiders commander,31,4,1,Fire,0.0
+yon rha's mother,44,1,1,Fire,-0.23611111111111108
+actress katara,199,13,1,Fire,0.06250465029761905
+actor sokka,153,13,1,Fire,0.0978515625
+actress aang,159,18,2,Fire,0.06682852965747704
+actor iroh,45,5,1,Fire,0.1125
+actor zuko,108,11,1,Fire,0.021428571428571432
+actor bumi,14,1,1,Fire,0.0
+blue spirit,15,1,1,Fire,0.0
+actor jet,21,2,1,Fire,-0.625
+actress yue,18,1,1,Fire,0.625
+actor toph,64,2,1,Fire,-0.003703703703703709
+actress azula,87,9,1,Fire,0.0078125
+young boy,12,1,1,Fire,0.15
+actor ozai,82,4,1,Fire,0.058680555555555555
+crowd,14,1,1,Fire,0.0
+kuruk,78,1,1,Fire,0.40303030303030296
+yangchen,90,1,1,Fire,0.16785714285714287
+lion turtle,78,4,2,Fire,0.19444444444444442
+banished servant,33,1,1,Fire,-0.05
+head of dai li,28,1,1,Fire,0.017142857142857137
+qin lee,10,1,1,Fire,0.0
