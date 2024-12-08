@@ -1,9 +1,9 @@
 character,dialogue_count,scene_count,episode_count,arc_presence,average_sentiment
-katara,15067,875,59,"Fire, Earth, Water",0.05931099849029651
-sokka,18392,1009,59,"Fire, Earth, Water",0.05850078955346044
-zuko,9277,466,47,"Fire, Earth, Water",0.030078052812813626
-iroh,5276,198,36,"Fire, Earth, Water",0.15445303206245345
-aang,17947,1120,60,"Fire, Earth, Water",0.07300239571930503
+katara,15067,875,59,"Fire, Water, Earth",0.05931099849029651
+sokka,18392,1009,59,"Fire, Water, Earth",0.05850078955346044
+zuko,9277,466,47,"Fire, Water, Earth",0.030078052812813626
+iroh,5276,198,36,"Fire, Water, Earth",0.15445303206245345
+aang,17947,1120,60,"Fire, Water, Earth",0.07300239571930503
 kanna,158,7,2,Water,0.09461309523809523
 village girl,9,3,1,Water,0.5104166666666666
 southern water tribe boy,12,2,2,Water,0.08333333333333333
@@ -12,46 +12,46 @@ village kids,3,1,1,Water,0.0
 southern water tribe girl,7,1,1,Water,0.0
 firebender,11,3,2,"Fire, Water",0.0
 zhao,1619,63,7,Water,0.07295486574692184
-soldier,163,11,8,"Fire, Earth, Water",-0.004166666666666661
+soldier,163,11,8,"Fire, Water, Earth",-0.004166666666666661
 gyatso,244,16,3,"Fire, Water",0.1
-fire sage,130,7,5,"Fire, Earth, Water",0.0
-oyaji,210,13,2,"Earth, Water",0.08370098039215686
-suki,1231,74,11,"Fire, Earth, Water",0.08412820838396494
+fire sage,130,7,5,"Fire, Water, Earth",0.0
+oyaji,210,13,2,"Water, Earth",0.08370098039215686
+suki,1231,74,11,"Fire, Water, Earth",0.08412820838396494
 spectators,6,1,1,Water,0.15625
 little girl,15,3,2,Water,-0.22916666666666666
 fisherman,174,8,2,Water,0.05403814935064935
 painter,29,1,1,Water,0.3111111111111111
 fangirls,2,1,1,Water,0.0
-koko,31,6,2,"Earth, Water",-0.05714285714285714
+koko,31,6,2,"Water, Earth",-0.05714285714285714
 gate guard,60,4,1,Water,0.2359027777777778
-cabbage merchant,38,7,4,"Earth, Water",-0.07142857142857142
-bumi,972,50,4,"Fire, Earth, Water",0.12429438826320113
-guard,216,24,12,"Fire, Earth, Water",-0.023246287762416797
+cabbage merchant,38,7,4,"Water, Earth",-0.07142857142857142
+bumi,972,50,4,"Fire, Water, Earth",0.12429438826320113
+guard,216,24,12,"Fire, Water, Earth",-0.023246287762416797
 chamberlain,19,1,1,Water,-0.052083333333333315
 haru,315,16,4,"Fire, Water",0.018965517241379314
 haru's mother,93,5,1,Water,-0.14583333333333334
 tax collector,28,3,1,Water,-0.09722222222222222
-old man,46,7,3,"Earth, Water",0.09375
+old man,46,7,3,"Water, Earth",0.09375
 warden,723,32,3,"Fire, Water",0.09686499960734657
 tyro,235,11,3,"Fire, Water",0.09114583333333334
 prisoner,12,1,1,Water,0.0
-captain,146,9,4,"Earth, Water",0.015277777777777776
+captain,146,9,4,"Water, Earth",0.015277777777777776
 old wanderer,167,6,1,Water,0.023636363636363636
 senlin village leader,134,5,2,Water,0.06937499999999999
 earthbender captain,97,5,1,Water,0.04230769230769231
 fire nation soldier,38,5,4,"Fire, Water",0.08333333333333333
-engineer,53,4,3,"Fire, Earth, Water",0.14444444444444446
+engineer,53,4,3,"Fire, Water, Earth",0.14444444444444446
 great fire sage,86,8,1,Water,0.0775
 shyu,331,10,1,Water,0.025388888888888888
-roku,1117,46,8,"Fire, Earth, Water",0.08305296425014735
+roku,1117,46,8,"Fire, Water, Earth",0.08305296425014735
 oh,111,9,2,Water,0.06521874999999999
 pirate captain,138,8,2,Water,0.1350907029478458
 pirate,14,2,1,Water,0.0
 eye-patch soldier,6,1,1,Water,0.0
-jet,1607,68,5,"Earth, Water",0.08885612746153787
+jet,1607,68,5,"Water, Earth",0.08885612746153787
 pipsqueak,79,8,4,"Fire, Water",0.14305555555555557
 the duke,53,8,4,"Fire, Water",0.15555555555555556
-smellerbee,225,16,5,"Earth, Water",0.04392316017316016
+smellerbee,225,16,5,"Water, Earth",0.04392316017316016
 old fire nation civilian,16,2,1,Water,0.0
 gan jin tribesman,180,3,1,Water,0.08162016369047619
 zhang leader,447,10,1,Water,-0.07048610466914038
@@ -69,7 +69,7 @@ tashi,83,5,1,Water,0.06976190476190476
 pasang,59,2,1,Water,0.1125
 bujing,49,1,1,Water,-0.09999999999999998
 elder soldier,19,1,1,Water,0.21818181818181817
-ozai,1006,31,10,"Fire, Earth, Water",0.07309467697047146
+ozai,1006,31,10,"Fire, Water, Earth",0.07309467697047146
 shinu,116,3,2,"Fire, Water",0.015476190476190477
 scout #1,16,1,1,Water,0.5
 scout #2,14,1,1,Water,0.15625
@@ -82,15 +82,15 @@ meng,170,9,1,Water,0.22937830687830685
 woman,36,2,1,Water,0.12777777777777777
 wu,341,15,1,Water,0.17153380102040816
 village woman,35,2,1,Water,0.0
-farmer,9,2,2,"Earth, Water",0.8125
+farmer,9,2,2,"Water, Earth",0.8125
 poi,4,2,1,Water,0.0
 ping,3,2,1,Water,0.0
-man,61,4,3,"Earth, Water",-0.10937499999999999
+man,61,4,3,"Water, Earth",-0.10937499999999999
 man with red shoes,7,1,1,Water,0.0
 firebenders,3,1,1,Water,0.0
 june,253,20,2,"Fire, Water",0.04831236471861472
-hakoda,1064,45,8,"Fire, Earth, Water",0.13092588508172925
-bato,656,23,5,"Fire, Earth, Water",0.11842418546365911
+hakoda,1064,45,8,"Fire, Water, Earth",0.13092588508172925
+bato,656,23,5,"Fire, Water, Earth",0.11842418546365911
 mother superior,79,5,1,Water,0.146875
 messenger,13,1,1,Water,0.3125
 aunt wu,6,1,1,Water,0.5
@@ -109,12 +109,12 @@ storyteller,81,5,1,Water,0.15698696145124716
 colonists,9,1,1,Water,0.0
 teo,374,26,4,"Fire, Water",0.16352825877825877
 mechanist,656,22,3,"Fire, Water",-0.012301841057421417
-qin,171,8,3,"Fire, Earth, Water",0.11452991452991454
+qin,171,8,3,"Fire, Water, Earth",0.11452991452991454
 girl,2,1,1,Water,0.0
-li,249,12,6,"Fire, Earth, Water",0.10679012345679012
+li,249,12,6,"Fire, Water, Earth",0.10679012345679012
 arnook,364,11,3,Water,0.07951388888888888
 yue,564,26,5,"Fire, Water",0.04434705035530507
-pakku,559,19,6,"Fire, Earth, Water",0.18671689296689295
+pakku,559,19,6,"Fire, Water, Earth",0.18671689296689295
 yugoda,90,2,1,Water,0.20014880952380953
 crew member,14,2,2,"Fire, Water",0.5375
 hahn,134,5,2,Water,0.11838824755491423
