@@ -5,26 +5,26 @@ pair,count
 "('aang', 'sokka')",409
 "('aang', 'kanna')",3
 "('kanna', 'katara')",6
-"('sokka', 'village girl')",1
 "('aang', 'village girl')",1
+"('sokka', 'village girl')",1
 "('kanna', 'sokka')",4
 "('sokka', 'southern water tribe boy')",2
-"('sokka', 'southern water tribe girl')",1
 "('aang', 'southern water tribe girl')",1
+"('sokka', 'southern water tribe girl')",1
 "('aang', 'zuko')",69
 "('katara', 'zuko')",61
 "('aang', 'firebender')",1
-"('zhao', 'zuko')",17
 "('iroh', 'zhao')",14
+"('zhao', 'zuko')",17
 "('soldier', 'zhao')",1
 "('aang', 'gyatso')",7
 "('sokka', 'suki')",50
-"('aang', 'suki')",10
 "('aang', 'oyaji')",5
-"('katara', 'suki')",13
-"('katara', 'oyaji')",7
+"('aang', 'suki')",10
 "('oyaji', 'suki')",2
 "('oyaji', 'sokka')",6
+"('katara', 'oyaji')",7
+"('katara', 'suki')",13
 "('fisherman', 'little girl')",1
 "('fangirls', 'koko')",1
 "('aang', 'koko')",2
@@ -36,212 +36,212 @@ pair,count
 "('cabbage merchant', 'guard')",1
 "('bumi', 'katara')",5
 "('bumi', 'sokka')",7
-"('chamberlain', 'sokka')",1
 "('bumi', 'chamberlain')",1
+"('chamberlain', 'sokka')",1
 "('aang', 'guard')",3
-"(""haru's mother"", 'katara')",2
 "('haru', 'katara')",10
-"('haru', ""haru's mother"")",3
-"('aang', ""haru's mother"")",1
+"(""haru's mother"", 'katara')",2
 "('aang', 'haru')",3
-"(""haru's mother"", 'sokka')",2
+"('aang', ""haru's mother"")",1
+"('haru', ""haru's mother"")",3
 "('sokka', 'tax collector')",2
 "(""haru's mother"", 'tax collector')",3
-"('katara', 'tax collector')",1
+"(""haru's mother"", 'sokka')",2
 "('haru', 'tax collector')",1
 "('haru', 'sokka')",2
+"('katara', 'tax collector')",1
 "('haru', 'old man')",2
 "('katara', 'old man')",1
 "('guard', 'sokka')",5
-"('katara', 'tyro')",4
-"('katara', 'prisoner')",1
-"('haru', 'tyro')",4
 "('haru', 'prisoner')",1
 "('prisoner', 'tyro')",1
-"('captain', 'sokka')",3
+"('katara', 'prisoner')",1
+"('haru', 'tyro')",4
+"('katara', 'tyro')",4
 "('aang', 'captain')",3
+"('captain', 'sokka')",3
 "('captain', 'katara')",2
 "('captain', 'warden')",1
 "('guard', 'warden')",2
 "('captain', 'guard')",1
 "('guard', 'katara')",1
 "('sokka', 'warden')",2
-"('sokka', 'tyro')",2
 "('tyro', 'warden')",4
+"('sokka', 'tyro')",2
 "('aang', 'warden')",1
 "('aang', 'tyro')",3
 "('old wanderer', 'sokka')",4
 "('aang', 'senlin village leader')",5
 "('aang', 'old wanderer')",4
-"('katara', 'senlin village leader')",5
-"('katara', 'old wanderer')",3
 "('old wanderer', 'senlin village leader')",2
 "('senlin village leader', 'sokka')",5
+"('katara', 'senlin village leader')",5
+"('katara', 'old wanderer')",3
 "('earthbender captain', 'soldier')",2
 "('fire nation soldier', 'zuko')",1
 "('earthbender captain', 'iroh')",3
 "('earthbender captain', 'zuko')",1
 "('aang', 'iroh')",11
-"('iroh', 'katara')",10
-"('iroh', 'sokka')",12
 "('sokka', 'zuko')",61
-"('aang', 'zhao')",13
-"('katara', 'zhao')",3
+"('iroh', 'sokka')",12
+"('iroh', 'katara')",10
+"('captain', 'zuko')",4
 "('captain', 'zhao')",3
 "('captain', 'iroh')",3
-"('captain', 'zuko')",4
+"('aang', 'zhao')",13
 "('sokka', 'zhao')",5
+"('katara', 'zhao')",3
 "('engineer', 'zuko')",1
 "('engineer', 'zhao')",1
-"('great fire sage', 'sokka')",4
 "('aang', 'great fire sage')",6
+"('great fire sage', 'sokka')",4
 "('great fire sage', 'katara')",2
 "('aang', 'shyu')",7
 "('shyu', 'sokka')",6
 "('great fire sage', 'shyu')",4
-"('katara', 'shyu')",6
-"('iroh', 'shyu')",1
 "('shyu', 'zuko')",3
+"('iroh', 'shyu')",1
+"('katara', 'shyu')",6
 "('great fire sage', 'zuko')",2
 "('aang', 'roku')",20
-"('great fire sage', 'zhao')",2
+"('roku', 'zuko')",1
 "('shyu', 'zhao')",1
+"('roku', 'shyu')",1
+"('great fire sage', 'zhao')",2
 "('roku', 'zhao')",2
 "('great fire sage', 'roku')",1
-"('roku', 'shyu')",1
-"('roku', 'zuko')",1
-"('katara', 'roku')",2
 "('roku', 'sokka')",1
+"('katara', 'roku')",2
 "('aang', 'oh')",5
 "('aang', 'pirate captain')",5
-"('katara', 'pirate captain')",4
-"('katara', 'oh')",4
 "('oh', 'pirate captain')",2
 "('pirate captain', 'sokka')",3
+"('katara', 'pirate captain')",4
 "('oh', 'sokka')",2
-"('aang', 'pirate')",2
-"('oh', 'pirate')",1
+"('katara', 'oh')",4
 "('katara', 'pirate')",1
-"('oh', 'zuko')",2
+"('oh', 'pirate')",1
+"('aang', 'pirate')",2
 "('iroh', 'oh')",1
+"('oh', 'zuko')",2
 "('pirate captain', 'zuko')",4
 "('pirate', 'sokka')",1
 "('iroh', 'pirate captain')",2
-"('eye-patch soldier', 'sokka')",1
 "('aang', 'eye-patch soldier')",1
+"('eye-patch soldier', 'sokka')",1
 "('eye-patch soldier', 'katara')",1
 "('jet', 'sokka')",20
 "('jet', 'katara')",22
-"('aang', 'jet')",17
 "('aang', 'pipsqueak')",4
-"('jet', 'pipsqueak')",3
 "('pipsqueak', 'sokka')",5
+"('jet', 'pipsqueak')",3
+"('aang', 'jet')",17
 "('aang', 'the duke')",1
-"('katara', 'the duke')",3
-"('pipsqueak', 'the duke')",3
 "('jet', 'the duke')",2
+"('pipsqueak', 'the duke')",3
+"('katara', 'the duke')",3
 "('katara', 'pipsqueak')",3
 "('aang', 'smellerbee')",1
-"('katara', 'smellerbee')",4
-"('pipsqueak', 'smellerbee')",2
 "('jet', 'smellerbee')",10
+"('pipsqueak', 'smellerbee')",2
 "('smellerbee', 'sokka')",4
+"('katara', 'smellerbee')",4
 "('jet', 'old fire nation civilian')",2
-"('katara', 'little girl')",1
 "('jet', 'little girl')",1
 "('little girl', 'sokka')",1
+"('katara', 'little girl')",1
 "('aang', 'gan jin tribesman')",2
 "('gan jin tribesman', 'sokka')",2
 "('gan jin tribesman', 'katara')",3
-"('katara', 'zhang leader')",4
-"('canyon guide', 'katara')",6
 "('canyon guide', 'zhang leader')",5
 "('gan jin tribesman', 'zhang leader')",2
+"('katara', 'zhang leader')",4
 "('canyon guide', 'gan jin tribesman')",2
-"('gan jin leader', 'katara')",4
-"('aang', 'canyon guide')",8
+"('canyon guide', 'katara')",6
 "('aang', 'gan jin leader')",7
+"('aang', 'canyon guide')",8
 "('aang', 'zhang leader')",7
 "('canyon guide', 'gan jin leader')",3
-"('canyon guide', 'sokka')",6
 "('gan jin leader', 'zhang leader')",5
 "('gan jin leader', 'gan jin tribesman')",1
 "('gan jin leader', 'sokka')",3
+"('gan jin leader', 'katara')",4
+"('canyon guide', 'sokka')",6
 "('sokka', 'zhang leader')",6
-"('aang', 'gan jin man')",1
 "('gan jin man', 'zhang leader')",1
+"('aang', 'gan jin man')",1
 "('gan jin leader', 'gan jin man')",1
 "('gyatso', 'katara')",1
-"('katara', 'merchant woman')",1
-"('katara', 'shopkeeper')",1
-"('merchant woman', 'shopkeeper')",1
 "('aang', 'merchant woman')",1
+"('merchant woman', 'shopkeeper')",1
+"('katara', 'merchant woman')",1
 "('aang', 'shopkeeper')",1
-"('aang', ""fisherman's wife"")",4
+"('katara', 'shopkeeper')",1
 "('aang', 'fisherman')",4
-"(""fisherman's wife"", 'sokka')",3
-"('fisherman', ""fisherman's wife"")",3
+"('aang', ""fisherman's wife"")",4
 "('fisherman', 'sokka')",6
-"('jee', 'lieutenant jee')",1
-"('lieutenant jee', 'zuko')",1
+"('fisherman', ""fisherman's wife"")",3
+"(""fisherman's wife"", 'sokka')",3
 "('iroh', 'lieutenant jee')",1
-"('jee', 'zuko')",3
 "('iroh', 'jee')",7
+"('lieutenant jee', 'zuko')",1
+"('jee', 'lieutenant jee')",1
+"('jee', 'zuko')",3
 "('fisherman', 'katara')",3
 "(""fisherman's wife"", 'katara')",2
+"('air nomad boy #1', 'air nomad boy #2')",2
 "('aang', 'air nomad boy #2')",2
 "('aang', 'air nomad boy #1')",2
-"('air nomad boy #1', 'air nomad boy #2')",2
 "('aang', 'tashi')",2
-"('gyatso', 'tashi')",3
-"('gyatso', 'pasang')",2
 "('pasang', 'tashi')",2
-"('elder soldier', 'zuko')",1
+"('gyatso', 'pasang')",2
+"('gyatso', 'tashi')",3
 "('bujing', 'zuko')",1
+"('elder soldier', 'zuko')",1
 "('bujing', 'elder soldier')",1
 "('ozai', 'zuko')",13
 "('shinu', 'zhao')",2
-"('soldier', 'zuko')",1
 "('iroh', 'soldier')",1
+"('soldier', 'zuko')",1
 "('scout #1', 'scout #2')",1
 "('aang', 'herbalist')",3
 "('officer', 'zhao')",2
 "('aang', 'calm man')",5
-"('calm man', 'katara')",5
 "('calm man', 'sokka')",5
+"('calm man', 'katara')",5
 "('katara', 'strange man')",1
-"('meng', 'sokka')",2
 "('aang', 'meng')",6
+"('meng', 'sokka')",2
 "('katara', 'meng')",3
 "('meng', 'woman')",1
 "('aang', 'woman')",1
 "('katara', 'wu')",5
-"('sokka', 'wu')",3
 "('aang', 'wu')",6
-"('katara', 'village woman')",2
+"('sokka', 'wu')",3
 "('aang', 'village woman')",2
-"('sokka', 'village woman')",2
 "('calm man', 'village woman')",2
-"('farmer', 'ping')",1
-"('ping', 'wu')",1
-"('ping', 'poi')",2
-"('farmer', 'wu')",1
+"('sokka', 'village woman')",2
+"('katara', 'village woman')",2
 "('farmer', 'poi')",1
+"('farmer', 'ping')",1
+"('farmer', 'wu')",1
+"('ping', 'poi')",2
 "('poi', 'wu')",1
-"('man', 'sokka')",1
+"('ping', 'wu')",1
 "('aang', 'man')",1
+"('man', 'sokka')",1
 "('man with red shoes', 'sokka')",1
-"('ping', 'sokka')",1
 "('poi', 'sokka')",1
+"('ping', 'sokka')",1
 "('calm man', 'wu')",1
 "('june', 'zuko')",16
-"('firebenders', 'zuko')",1
 "('firebenders', 'june')",1
+"('firebenders', 'zuko')",1
 "('iroh', 'june')",2
 "('hakoda', 'sokka')",24
-"('bato', 'sokka')",15
-"('aang', 'bato')",7
 "('bato', 'katara')",13
+"('aang', 'bato')",7
+"('bato', 'sokka')",15
 "('aang', 'mother superior')",4
 "('bato', 'mother superior')",1
 "('mother superior', 'sokka')",2
@@ -251,40 +251,40 @@ pair,count
 "('aunt wu', 'iroh')",1
 "('june', 'sokka')",2
 "('june', 'katara')",2
-"('katara', 'mask dealer')",1
 "('mask dealer', 'sokka')",1
+"('katara', 'mask dealer')",1
 "('aang', 'shop keeper')",1
 "('shop keeper', 'sokka')",1
-"('aang', 'malu')",1
-"('aang', 'fire nation kids')",1
 "('aang', 'puppet fire lord')",1
-"('katara', 'malu')",1
-"('fire nation kids', 'katara')",1
-"('katara', 'puppet fire lord')",1
-"('fire nation kids', 'malu')",1
-"('malu', 'sokka')",1
-"('malu', 'puppet fire lord')",1
-"('fire nation kids', 'sokka')",1
 "('fire nation kids', 'puppet fire lord')",1
+"('malu', 'puppet fire lord')",1
 "('puppet fire lord', 'sokka')",1
-"('citizen', 'sokka')",1
-"('chey', 'sokka')",7
-"('citizen', 'guard')",1
+"('katara', 'puppet fire lord')",1
+"('aang', 'fire nation kids')",1
+"('aang', 'malu')",1
+"('fire nation kids', 'malu')",1
+"('fire nation kids', 'sokka')",1
+"('fire nation kids', 'katara')",1
+"('malu', 'sokka')",1
+"('katara', 'malu')",1
 "('chey', 'guard')",2
+"('citizen', 'guard')",1
 "('chey', 'citizen')",1
+"('chey', 'sokka')",7
+"('citizen', 'sokka')",1
 "('aang', 'chey')",6
 "('chey', 'katara')",2
-"('lin yee', 'sokka')",1
 "('chey', 'lin yee')",3
+"('lin yee', 'sokka')",1
 "('aang', 'lin yee')",1
 "('guard captain', 'zhao')",1
 "('aang', 'jeong jeong')",9
 "('jeong jeong', 'roku')",1
 "('jeong jeong', 'sokka')",3
-"('aang', 'tribal man')",1
-"('jeong jeong', 'tribal man')",1
 "('katara', 'tribal man')",1
 "('jeong jeong', 'katara')",3
+"('aang', 'tribal man')",1
+"('jeong jeong', 'tribal man')",1
 "('jeong jeong', 'zhao')",1
 "('aang', 'storyteller')",4
 "('katara', 'storyteller')",1
@@ -296,20 +296,20 @@ pair,count
 "('aang', 'mechanist')",8
 "('mechanist', 'teo')",7
 "('mechanist', 'sokka')",13
-"('aang', 'qin')",3
 "('mechanist', 'qin')",2
 "('qin', 'teo')",1
+"('aang', 'qin')",3
 "('katara', 'mechanist')",2
 "('girl', 'katara')",1
 "('girl', 'teo')",1
 "('aang', 'girl')",1
 "('li', 'zhao')",1
 "('arnook', 'yue')",1
-"('sokka', 'yue')",14
 "('katara', 'yue')",9
+"('sokka', 'yue')",14
+"('arnook', 'pakku')",2
 "('aang', 'arnook')",2
 "('aang', 'pakku')",10
-"('arnook', 'pakku')",2
 "('katara', 'pakku')",10
 "('pirate captain', 'zhao')",1
 "('oh', 'zhao')",1
@@ -317,8 +317,8 @@ pair,count
 "('arnook', 'katara')",2
 "('pakku', 'sokka')",2
 "('arnook', 'sokka')",5
-"('hahn', 'sokka')",4
 "('arnook', 'hahn')",2
+"('hahn', 'sokka')",4
 "('aang', 'yue')",7
 "('yue', 'zuko')",1
 "('aang', 'baboon spirit')",1
@@ -330,155 +330,155 @@ pair,count
 "('aang', 'fong')",7
 "('fong', 'sokka')",1
 "('azula', 'li')",5
-"('azula', 'lo')",5
 "('li', 'lo')",11
+"('azula', 'lo')",5
 "('aang', 'soldier')",2
 "('aang', 'oracle')",1
-"('azula', 'zuko')",35
 "('azula', 'iroh')",3
+"('azula', 'zuko')",35
 "('katara', 'soldier')",2
-"('chong', 'katara')",8
-"('chong', 'sokka')",13
 "('aang', 'chong')",4
-"('aang', 'moku')",3
+"('chong', 'sokka')",13
+"('chong', 'katara')",8
 "('chong', 'moku')",3
+"('aang', 'moku')",3
 "('moku', 'sokka')",2
-"('lily', 'sokka')",4
 "('chong', 'lily')",4
+"('lily', 'sokka')",4
 "('katara', 'lily')",3
-"('sokka', 'toph')",165
 "('aang', 'toph')",132
+"('sokka', 'toph')",165
 "('katara', 'toph')",138
+"('lily', 'moku')",1
 "('katara', 'moku')",1
 "('aang', 'lily')",1
-"('lily', 'moku')",1
-"('song', 'zuko')",4
 "('iroh', 'song')",3
-"('song', ""song's mother"")",1
+"('song', 'zuko')",4
 "(""song's mother"", 'zuko')",1
+"('song', ""song's mother"")",1
 "('iroh', ""song's mother"")",1
 "('guard one', 'katara')",2
-"('guard two', 'katara')",1
 "('guard two', 'sokka')",1
 "('guard one', 'guard two')",1
+"('guard two', 'katara')",1
 "('guard one', 'sokka')",1
 "('azula', 'ty lee')",13
-"('aang', 'resistance fighter #1')",1
-"('aang', 'resistance fighter #2')",1
-"('aang', 'yung')",1
-"('resistance fighter #1', 'resistance fighter #2')",1
-"('resistance fighter #1', 'yung')",1
 "('resistance fighter #2', 'yung')",1
+"('aang', 'resistance fighter #2')",1
+"('resistance fighter #1', 'resistance fighter #2')",1
+"('aang', 'yung')",1
+"('resistance fighter #1', 'yung')",1
+"('aang', 'resistance fighter #1')",1
 "('old man', 'sokka')",1
+"('guard', 'michi')",1
 "('guard', 'ukano')",1
 "('michi', 'ukano')",1
-"('guard', 'michi')",1
 "('mai', 'michi')",1
 "('azula', 'shuzumu')",3
 "('katara', 'yung')",1
 "('mai', 'ty lee')",13
 "('azula', 'mai')",11
 "('azula', 'ukano')",1
-"('aang', 'azula')",7
 "('aang', 'mai')",1
-"('azula', 'bumi')",1
+"('aang', 'azula')",7
 "('bumi', 'mai')",1
-"('peasant girl', 'zuko')",1
+"('azula', 'bumi')",1
 "('iroh', 'peasant girl')",1
-"('broadsword man', 'zuko')",1
+"('peasant girl', 'zuko')",1
 "('broadsword man', 'iroh')",2
+"('broadsword man', 'zuko')",1
 "('due', 'tho')",6
 "('princess yue', 'sokka')",1
 "('aang', 'huu')",3
 "('huu', 'sokka')",4
 "('huu', 'katara')",2
-"('due', 'katara')",2
-"('due', 'sokka')",3
 "('due', 'huu')",3
-"('katara', 'tho')",1
+"('due', 'sokka')",3
+"('due', 'katara')",2
 "('sokka', 'tho')",1
+"('katara', 'tho')",1
 "('merchant', 'sokka')",1
-"('katara', 'merchant')",1
 "('aang', 'merchant')",1
+"('katara', 'merchant')",1
 "('aang', 'villager')",2
-"('aang', 'tong')",7
 "('tong', 'villager')",1
+"('aang', 'tong')",7
 "('aang', 'villager #2')",1
 "('tong', 'villager #2')",1
 "('aang', 'villager #3')",1
 "('katara', 'villager #3')",2
 "('katara', 'koko')",1
-"('aang', 'sensitive ruffian')",2
-"('aang', 'prisoner #2')",1
-"('aang', 'scary prisoner')",2
-"('prisoner #2', 'sensitive ruffian')",1
-"('scary prisoner', 'sensitive ruffian')",2
 "('prisoner #2', 'scary prisoner')",1
+"('aang', 'prisoner #2')",1
+"('prisoner #2', 'sensitive ruffian')",1
+"('aang', 'scary prisoner')",2
+"('scary prisoner', 'sensitive ruffian')",2
+"('aang', 'sensitive ruffian')",2
 "('katara', 'tong')",3
 "('sokka', 'tong')",2
+"('villager', 'villager #3')",1
+"('villager #2', 'villager #3')",1
+"('villager', 'villager #2')",1
 "('katara', 'villager')",1
 "('katara', 'villager #2')",1
-"('villager', 'villager #3')",1
-"('villager', 'villager #2')",1
-"('villager #2', 'villager #3')",1
 "('mongke', 'villager')",1
 "('aang', 'male student')",3
-"('aang', 'male student #2')",3
 "('male student', 'male student #2')",2
-"('katara', 'the boulder')",2
-"('katara', 'xin fu')",4
-"('katara', 'the hippo')",1
-"('the boulder', 'xin fu')",2
-"('sokka', 'the boulder')",2
-"('the boulder', 'the hippo')",1
-"('sokka', 'xin fu')",2
+"('aang', 'male student #2')",3
 "('the hippo', 'xin fu')",1
+"('the boulder', 'xin fu')",2
+"('sokka', 'xin fu')",2
+"('katara', 'xin fu')",4
+"('the boulder', 'the hippo')",1
 "('sokka', 'the hippo')",1
+"('katara', 'the hippo')",1
+"('sokka', 'the boulder')",2
+"('katara', 'the boulder')",2
 "('aang', 'xin fu')",3
 "('the boulder', 'toph')",3
-"('audience', 'sokka')",1
 "('audience', 'toph')",1
 "('aang', 'audience')",1
-"('katara', 'male student')",1
+"('audience', 'sokka')",1
+"('male student #2', 'sokka')",1
 "('katara', 'male student #2')",1
 "('male student', 'sokka')",1
-"('male student #2', 'sokka')",1
+"('katara', 'male student')",1
 "('guard', 'toph')",3
-"('lao', 'yu')",2
-"('servant', 'yu')",1
 "('lao', 'servant')",1
-"('aang', 'lao')",4
-"('aang', 'poppy')",2
+"('servant', 'yu')",1
+"('lao', 'yu')",2
 "('lao', 'poppy')",3
+"('aang', 'poppy')",2
+"('aang', 'lao')",4
 "('aang', 'yu')",1
-"('katara', 'lao')",2
 "('katara', 'poppy')",1
-"('lao', 'sokka')",1
+"('katara', 'lao')",2
+"('toph', 'xin fu')",4
 "('lao', 'toph')",3
 "('lao', 'xin fu')",1
-"('toph', 'xin fu')",4
+"('lao', 'sokka')",1
 "('poppy', 'toph')",1
 "('store owner', 'zuko')",1
-"('earth kingdom soldier', 'zuko')",1
 "('gow', 'zuko')",3
 "('earth kingdom soldier', 'gow')",2
+"('earth kingdom soldier', 'zuko')",1
 "('lee', 'zuko')",5
-"('sela', 'zuko')",3
 "('gansu', 'zuko')",3
+"('sela', 'zuko')",3
 "('gansu', 'sela')",1
 "('gansu', 'lee')",2
 "('ursa', 'zuko')",8
 "('azula', 'ursa')",5
-"('earth kingdom soldier', 'gansu')",1
 "('gansu', 'gow')",1
+"('earth kingdom soldier', 'gansu')",1
 "('azula', 'ozai')",4
 "('azulon', 'zuko')",1
 "('azulon', 'ursa')",1
 "('azulon', 'ozai')",1
 "('old man', 'old woman')",1
 "('lee', 'old man')",1
-"('old man', 'zuko')",1
 "('gow', 'old man')",1
+"('old man', 'zuko')",1
 "('lee', 'sela')",1
 "('mai', 'sokka')",2
 "('katara', 'mai')",2
@@ -488,70 +488,70 @@ pair,count
 "('toph', 'zei')",3
 "('katara', 'zei')",4
 "('wan shi tong', 'zei')",2
-"('katara', 'wan shi tong')",2
 "('aang', 'wan shi tong')",2
 "('sokka', 'wan shi tong')",2
+"('katara', 'wan shi tong')",2
 "('iroh', 'mongke')",2
 "('man', 'yu')",1
 "('man', 'xin fu')",1
 "('xin fu', 'yu')",6
 "('fung', 'iroh')",5
 "('fung', 'zuko')",4
-"('fung', 'xin fu')",1
-"('fung', 'man in the bar')",1
-"('iroh', 'xin fu')",1
-"('iroh', 'man in the bar')",1
 "('xin fu', 'zuko')",1
+"('fung', 'xin fu')",1
 "('man in the bar', 'xin fu')",1
+"('iroh', 'xin fu')",1
 "('man in the bar', 'zuko')",1
+"('fung', 'man in the bar')",1
+"('iroh', 'man in the bar')",1
 "('florist', 'iroh')",1
 "('katara', 'sha-mo')",1
 "('ghashiun', 'sha-mo')",2
-"('florist', 'yu')",2
 "('florist', 'xin fu')",1
-"('aang', 'ghashiun')",2
-"('aang', 'sha-mo')",1
+"('florist', 'yu')",2
 "('ghashiun', 'toph')",2
+"('aang', 'ghashiun')",2
 "('sha-mo', 'toph')",1
+"('aang', 'sha-mo')",1
 "('aang', 'than')",2
 "('katara', 'than')",3
-"('katara', 'ying')",4
 "('than', 'toph')",1
+"('toph', 'ying')",2
 "('than', 'ying')",2
 "('sokka', 'than')",2
-"('toph', 'ying')",2
 "('sokka', 'ying')",4
-"('smellerbee', 'zuko')",1
-"('jet', 'zuko')",4
+"('katara', 'ying')",4
 "('iroh', 'smellerbee')",2
+"('smellerbee', 'zuko')",1
 "('iroh', 'jet')",6
+"('jet', 'zuko')",4
+"('aang', 'ticket lady')",3
 "('sokka', 'ticket lady')",2
 "('cabbage merchant', 'ticket lady')",1
-"('aang', 'ticket lady')",3
-"('cabbage merchant', 'sokka')",1
 "('aang', 'cabbage merchant')",1
+"('cabbage merchant', 'sokka')",1
 "('ticket lady', 'toph')",1
 "('aang', 'ying')",4
 "('suki', 'ying')",1
 "('suki', 'toph')",16
 "('qin', 'ty lee')",2
-"('azula', 'qin')",1
 "('mai', 'qin')",1
-"('aang', 'earthbender guard')",1
+"('azula', 'qin')",1
 "('earthbender guard', 'ying')",1
+"('aang', 'earthbender guard')",1
+"('general sung', 'toph')",3
 "('aang', 'general sung')",3
 "('general sung', 'sokka')",3
-"('general sung', 'toph')",3
-"('ticket woman', 'zuko')",1
 "('iroh', 'ticket woman')",1
-"('general sung', 'katara')",1
-"('katara', 'terra team member')",1
-"('aang', 'terra team member')",1
+"('ticket woman', 'zuko')",1
 "('terra team member', 'toph')",1
+"('aang', 'terra team member')",1
 "('general sung', 'terra team member')",1
 "('sokka', 'terra team member')",1
-"('jet', 'tea seller')",1
+"('katara', 'terra team member')",1
+"('general sung', 'katara')",1
 "('iroh', 'tea seller')",1
+"('jet', 'tea seller')",1
 "('azula', 'second engineer')",1
 "('aang', 'ty lee')",1
 "('sokka', 'ty lee')",3
@@ -563,28 +563,28 @@ pair,count
 "('aang', 'pet store owner')",1
 "('pet store owner', 'sokka')",1
 "('sokka', 'university student')",1
-"('aang', 'pong')",1
-"('katara', 'pong')",1
 "('pong', 'toph')",1
+"('aang', 'pong')",1
 "('pong', 'sokka')",1
-"('customer', 'pao')",2
+"('katara', 'pong')",1
 "('customer', 'iroh')",2
 "('iroh', 'pao')",3
+"('customer', 'pao')",2
 "('customer', 'jet')",2
 "('katara', 'long feng')",6
 "('older guest', 'younger guest')",1
 "('aang', 'guest')",1
 "('jet', 'pao')",1
-"('long feng', 'sokka')",8
 "('aang', 'long feng')",9
-"('long feng', 'toph')",2
+"('long feng', 'sokka')",8
 "('jet', 'toph')",6
+"('long feng', 'toph')",2
 "('jet', 'long feng')",3
 "('dai li agent', 'jet')",1
 "('joo dee replacement', 'katara')",1
 "('girl with umbrella', 'toph')",1
-"('star', 'third girl')",1
 "('third girl', 'toph')",1
+"('star', 'third girl')",1
 "('katara', 'third girl')",1
 "('star', 'toph')",1
 "('katara', 'star')",1
@@ -595,16 +595,16 @@ pair,count
 "('aang', 'kenji')",2
 "('guard', 'kenji')",1
 "('lady on stage', 'sokka')",1
-"('macmu-ling', 'sokka')",1
-"('ladies', 'sokka')",1
 "('ladies', 'macmu-ling')",1
-"('jin', 'zuko')",8
+"('ladies', 'sokka')",1
+"('macmu-ling', 'sokka')",1
 "('iroh', 'jin')",1
+"('jin', 'zuko')",8
 "('waiter', 'zuko')",1
 "('jin', 'waiter')",1
-"('ghashiun', 'sandbender #1')",1
 "('ghashiun', 'sandbender #2')",1
 "('sandbender #1', 'sandbender #2')",1
+"('ghashiun', 'sandbender #1')",1
 "('ghashiun', 'merchant #1')",1
 "('merchant #1', 'merchant #2')",3
 "('ghashiun', 'merchant #2')",2
@@ -614,153 +614,153 @@ pair,count
 "('fire nation man', 'unnamed fire nation boy')",1
 "('trainer', 'unnamed fire nation boy')",1
 "('kyoshi warrior #1', 'suki')",2
-"('azula', 'suki')",2
 "('mai', 'suki')",2
 "('suki', 'ty lee')",2
+"('azula', 'suki')",2
 "('kyoshi warrior #2', 'mai')",1
-"('pao', 'quon')",1
 "('iroh', 'quon')",2
+"('pao', 'quon')",1
 "('quon', 'zuko')",1
-"('dai li agent', 'long feng')",1
 "('dai li agent', 'joo dee')",1
+"('dai li agent', 'long feng')",1
 "('joo dee', 'long feng')",1
-"('aang', 'old sweepy')",1
-"('katara', 'old sweepy')",1
 "('old sweepy', 'toph')",1
+"('aang', 'old sweepy')",1
 "('jet', 'old sweepy')",1
 "('old sweepy', 'sokka')",1
+"('katara', 'old sweepy')",1
 "('smellerbee', 'toph')",2
-"('brainwasher', 'joo dees')",1
 "('jet', 'joo dees')",1
+"('brainwasher', 'joo dees')",1
 "('brainwasher', 'jet')",1
-"('katara', 'longshot')",1
 "('longshot', 'smellerbee')",1
+"('katara', 'longshot')",1
 "('palace woman', 'sokka')",1
-"('aang', 'kuei')",11
-"('katara', 'kuei')",7
 "('kuei', 'toph')",5
+"('aang', 'kuei')",11
 "('kuei', 'long feng')",4
 "('kuei', 'sokka')",13
+"('katara', 'kuei')",7
 "('blue dragon', 'zuko')",1
 "('blue dragon', 'red dragon')",1
 "('general how', 'kuei')",2
-"('aang', 'general how')",1
-"('general how', 'katara')",2
 "('general how', 'toph')",1
+"('aang', 'general how')",1
 "('general how', 'sokka')",1
+"('general how', 'katara')",2
 "('soldier', 'toph')",1
-"('sokka', 'soldier')",1
 "('kuei', 'soldier')",1
+"('sokka', 'soldier')",1
 "('azula', 'kuei')",1
 "('aang', 'pathik')",12
 "('toph', 'yu')",3
-"('sokka', 'warrior')",1
-"('bato', 'hakoda')",6
-"('hakoda', 'warrior')",1
 "('bato', 'warrior')",1
+"('sokka', 'warrior')",1
+"('hakoda', 'warrior')",1
+"('bato', 'hakoda')",6
 "('azula', 'katara')",3
 "('azula', 'long feng')",2
 "('royal messenger', 'zuko')",1
 "('iroh', 'royal messenger')",1
 "('captured agent', 'sokka')",1
 "('head of the dai li', 'long feng')",1
-"('how', 'sokka')",1
 "('dai li agent', 'sokka')",1
 "('dai li agent', 'how')",1
+"('how', 'sokka')",1
 "('kuei', 'ty lee')",1
 "('mai', 'zuko')",19
 "('aang', 'hakoda')",7
 "('hakoda', 'katara')",20
 "('hakoda', 'pipsqueak')",1
-"('fire navy officer', 'hakoda')",1
 "('bato', 'fire navy officer')",1
+"('fire navy officer', 'hakoda')",1
 "('fire navy officer', 'guard')",1
 "('aang', 'fire nation man')",1
 "('fire nation man', 'sokka')",1
 "('aang', 'male soldier')",1
 "('aang', 'kwan')",3
 "('aang', 'on ji')",2
-"('aang', 'hide')",2
 "('hide', 'on ji')",2
+"('aang', 'hide')",2
 "('aang', 'shoji')",4
 "('aang', 'class')",1
 "('class', 'kwan')",1
-"('aang', 'music teacher')",1
 "('music teacher', 'shoji')",1
+"('aang', 'music teacher')",1
 "('aang', 'headmaster')",2
-"('headmaster', 'sokka')",1
 "('headmaster', 'katara')",1
-"('aang', 'male student #1')",1
+"('headmaster', 'sokka')",1
+"('male student #2', 'shoji')",1
 "('male student #1', 'male student #2')",2
 "('male student #1', 'shoji')",1
-"('male student #2', 'shoji')",1
+"('aang', 'male student #1')",1
 "('headmaster', 'hide')",1
+"('male soldier #1', 'shoji')",1
 "('aang', 'male soldier #1')",1
 "('headmaster', 'male soldier #1')",1
 "('headmaster', 'shoji')",1
-"('male soldier #1', 'shoji')",1
 "('female student #1', 'on ji')",1
-"('female student #1', 'student')",1
 "('on ji', 'student')",1
+"('female student #1', 'student')",1
 "('dock', 'katara')",4
 "('sokka', 'xu')",3
 "('aang', 'xu')",2
 "('dock', 'sokka')",3
 "('katara', 'little boy')",1
 "('katara', 'xu')",1
-"('dock/xu', 'sokka')",1
 "('dock/xu', 'toph')",1
+"('dock/xu', 'sokka')",1
 "('aang', 'dock')",2
 "('dock/xu', 'mung')",1
 "('little boy', 'mung')",1
 "('female fire nation soldier', 'male fire nation soldier')",2
-"('dock', 'little boy')",2
-"('little boy', 'villager #2')",1
-"('little boy', 'villager #1')",1
-"('dock', 'villager #2')",1
 "('dock', 'villager #1')",1
+"('dock', 'little boy')",2
+"('dock', 'villager #2')",1
+"('little boy', 'villager #1')",1
 "('villager #1', 'villager #2')",1
-"('little boy', 'villager #4')",1
-"('little boy', 'villager #3')",1
+"('little boy', 'villager #2')",1
 "('villager #3', 'villager #4')",1
+"('little boy', 'villager #4')",1
 "('dock', 'villager #4')",1
+"('little boy', 'villager #3')",1
 "('dock', 'villager #3')",1
 "('dock', 'toph')",1
-"('katara', 'weapons store shopkeeper')",1
-"('aang', 'weapons store shopkeeper')",1
 "('toph', 'weapons store shopkeeper')",1
+"('aang', 'weapons store shopkeeper')",1
 "('sokka', 'weapons store shopkeeper')",1
+"('katara', 'weapons store shopkeeper')",1
 "('fat', 'sokka')",1
 "('piandao', 'sokka')",11
 "('katara', 'piandao')",2
 "('ty lee', 'zuko')",6
-"('lo', 'mai')",2
-"('li', 'mai')",2
-"('lo', 'zuko')",2
-"('lo', 'ty lee')",3
 "('li', 'zuko')",2
+"('lo', 'zuko')",2
 "('li', 'ty lee')",3
+"('lo', 'ty lee')",3
+"('li', 'mai')",2
+"('lo', 'mai')",2
+"('fire nation watchman #1', 'fire nation watchman #2')",1
 "('aang', 'fire nation watchman #2')",1
 "('aang', 'fire nation watchman #1')",1
-"('fire nation watchman #1', 'fire nation watchman #2')",1
 "('ember island teenager #1', 'ty lee')",3
 "('ember island teenager #1', 'ember island teenager #2')",3
 "('ember island teenager #2', 'ty lee')",2
-"('chan', 'ruon-jian')",2
-"('azula', 'chan')",6
 "('chan', 'ty lee')",1
-"('azula', 'ruon-jian')",1
+"('azula', 'chan')",6
+"('chan', 'ruon-jian')",2
 "('ruon-jian', 'ty lee')",1
+"('azula', 'ruon-jian')",1
 "('ruon-jian', 'zuko')",3
 "('mai', 'ruon-jian')",2
 "('ember island teenager #1', 'ember island teenager #3')",2
 "('ember island teenager #2', 'ember island teenager #3')",2
-"('azula', 'ember island teenager #2')",1
 "('azula', 'ember island teenager #1')",1
 "('azula', 'ember island teenager #3')",1
+"('azula', 'ember island teenager #2')",1
 "('ember island teenager #3', 'ty lee')",1
-"('chan', 'zuko')",1
 "('chan', 'mai')",1
+"('chan', 'zuko')",1
 "('aang', 'sozin')",1
 "('roku', 'sozin')",7
 "('fire sage', 'sozin')",1
@@ -770,71 +770,71 @@ pair,count
 "('aang', 'dealer')",1
 "('katara', 'town authority')",1
 "('female guard', 'toph')",1
-"('roku', 'toph')",1
-"('roku', 'yue')",1
 "('toph', 'yue')",1
-"('aang', 'hama')",4
-"('hama', 'katara')",11
+"('roku', 'yue')",1
+"('roku', 'toph')",1
 "('hama', 'toph')",2
+"('aang', 'hama')",4
 "('hama', 'sokka')",9
+"('hama', 'katara')",11
 "('shop owner', 'villager')",1
-"('sokka', 'villager')",1
 "('toph', 'villager')",1
+"('sokka', 'villager')",1
 "('aang', 'ding')",2
-"('ding', 'sokka')",1
 "('ding', 'toph')",1
-"('aang', 'male prisoner #2')",1
-"('aang', 'female prisoner')",1
-"('aang', 'male prisoner #1')",1
+"('ding', 'sokka')",1
+"('male prisoner #1', 'toph')",1
 "('male prisoner #2', 'toph')",1
 "('female prisoner', 'toph')",1
-"('male prisoner #1', 'toph')",1
-"('male prisoner #2', 'sokka')",1
-"('female prisoner', 'sokka')",1
-"('male prisoner #1', 'sokka')",1
-"('female prisoner', 'male prisoner #2')",1
+"('aang', 'male prisoner #1')",1
+"('aang', 'male prisoner #2')",1
+"('aang', 'female prisoner')",1
 "('male prisoner #1', 'male prisoner #2')",1
+"('male prisoner #1', 'sokka')",1
 "('female prisoner', 'male prisoner #1')",1
+"('male prisoner #2', 'sokka')",1
+"('female prisoner', 'male prisoner #2')",1
+"('female prisoner', 'sokka')",1
 "('hama', 'male prisoner #1')",1
 "('servant #1', 'zuko')",1
 "('servant', 'zuko')",2
 "('mai', 'servant')",1
 "('aang', 'momo')",2
-"('aang', 'appa')",1
-"('katara', 'momo')",1
-"('appa', 'katara')",1
-"('momo', 'toph')",1
 "('appa', 'toph')",1
-"('momo', 'sokka')",1
-"('appa', 'sokka')",1
+"('momo', 'toph')",1
+"('aang', 'appa')",1
 "('appa', 'momo')",1
+"('appa', 'sokka')",1
+"('appa', 'katara')",1
+"('momo', 'sokka')",1
+"('katara', 'momo')",1
+"('ozai', 'toph')",3
 "('aang', 'ozai')",6
 "('katara', 'ozai')",2
-"('ozai', 'toph')",3
 "('ozai', 'sokka')",3
-"('due', 'hakoda')",1
-"('hakoda', 'tho')",2
-"('hakoda', 'huu')",1
 "('bato', 'due')",1
+"('due', 'hakoda')",1
 "('bato', 'tho')",1
-"('bato', 'huu')",1
 "('huu', 'tho')",1
-"('big bad hippo', 'the boulder')",1
+"('hakoda', 'tho')",2
+"('bato', 'huu')",1
+"('hakoda', 'huu')",1
 "('big bad hippo', 'toph')",1
+"('big bad hippo', 'the boulder')",1
 "('mechanist', 'the duke')",1
-"('sokka', 'the duke')",3
-"('teo', 'the duke')",3
 "('mechanist', 'pipsqueak')",1
+"('teo', 'the duke')",3
+"('sokka', 'the duke')",3
 "('pipsqueak', 'teo')",1
-"('ming', 'warden poon')",1
 "('iroh', 'warden poon')",1
 "('iroh', 'ming')",2
+"('ming', 'warden poon')",1
 "('hakoda', 'the boulder')",1
 "('the duke', 'toph')",1
 "('hakoda', 'toph')",2
 "('bato', 'tyro')",2
-"('azula', 'sokka')",4
 "('azula', 'toph')",3
+"('azula', 'sokka')",4
 "('fire nation soldier', 'tyro')",1
 "('warden poon', 'zuko')",1
 "('hakoda', 'tyro')",1
@@ -842,8 +842,8 @@ pair,count
 "('the duke', 'tyro')",1
 "('haru', 'pipsqueak')",1
 "('pipsqueak', 'tyro')",1
-"('aang', 'fire nation soldier')",1
 "('azula', 'fire nation soldier')",1
+"('aang', 'fire nation soldier')",1
 "('haru', 'teo')",3
 "('toph', 'zuko')",23
 "('sun warrior chief', 'zuko')",5
@@ -852,13 +852,13 @@ pair,count
 "('aang', 'ham ghao')",2
 "('aang', 'sun warrior chief')",5
 "('bully guard', 'chit sang')",4
-"('chit sang', 'sokka')",8
-"('bully guard', 'sokka')",4
 "('chit sang', 'zuko')",5
+"('chit sang', 'sokka')",8
 "('bully guard', 'zuko')",1
+"('bully guard', 'sokka')",4
 "('male guard', 'zuko')",5
-"('female guard', 'zuko')",3
 "('female guard', 'male guard')",3
+"('female guard', 'zuko')",3
 "('chit sang', 'warden')",4
 "('bully guard', 'warden')",3
 "('female guard', 'sokka')",3
@@ -874,24 +874,24 @@ pair,count
 "('azula', 'warden')",2
 "('azula', 'bully guard')",1
 "('door guard', 'sokka')",1
-"('sokka', 'tough prisoner')",1
 "('hakoda', 'tough prisoner')",2
 "('hakoda', 'suki')",2
+"('sokka', 'tough prisoner')",1
 "('suki', 'tough prisoner')",1
 "('tough prisoner', 'warden')",1
 "('mai', 'male guard #2')",1
 "('male guard #2', 'zuko')",1
 "('suki', 'warden')",1
 "('hakoda', 'zuko')",2
-"('gondola guard #2', 'warden')",1
 "('gondola guard', 'warden')",1
 "('gondola guard', 'gondola guard #2')",1
+"('gondola guard #2', 'warden')",1
 "('azula', 'gondola guard #4')",1
-"('chit sang', 'katara')",1
 "('chit sang', 'hakoda')",1
+"('chit sang', 'katara')",1
+"('kya', 'yon rha')",3
 "('katara', 'yon rha')",5
 "('katara', 'kya')",2
-"('kya', 'yon rha')",3
 "('southern raiders commander', 'zuko')",3
 "('yon rha', ""yon rha's mother"")",1
 "('yon rha', 'zuko')",1
@@ -901,24 +901,24 @@ pair,count
 "('actor sokka', 'toph')",2
 "('actor sokka', 'sokka')",6
 "('actress aang', 'actress katara')",4
-"('aang', 'actress katara')",1
 "('aang', 'actress aang')",3
+"('aang', 'actress katara')",1
 "('actor sokka', 'actress aang')",3
-"('aang', 'actor sokka')",1
 "('actress aang', 'toph')",4
+"('aang', 'actor sokka')",1
 "('actor iroh', 'actor zuko')",3
 "('actor zuko', 'blue spirit')",1
+"('actor sokka', 'actress yue')",1
 "('actress yue', 'sokka')",1
 "('actress yue', 'suki')",1
 "('actor sokka', 'suki')",2
-"('actor sokka', 'actress yue')",1
 "('actor toph', 'actress aang')",2
 "('actor toph', 'toph')",2
 "('actress aang', 'katara')",1
 "('actor toph', 'katara')",1
+"('actor zuko', 'actress azula')",3
 "('actress azula', 'actress katara')",1
 "('actor zuko', 'actress katara')",2
-"('actor zuko', 'actress azula')",3
 "('actor jet', 'actress aang')",1
 "('actor zuko', 'sokka')",2
 "('actor iroh', 'actress azula')",1
@@ -928,33 +928,33 @@ pair,count
 "('actor ozai', 'actress azula')",2
 "('actor ozai', 'actress aang')",2
 "('actress aang', 'actress azula')",1
-"('katara', 'shinu')",1
-"('aang', 'shinu')",1
 "('shinu', 'toph')",1
 "('ozai', 'shinu')",1
+"('aang', 'shinu')",1
 "('shinu', 'zuko')",1
-"('shinu', 'sokka')",1
 "('azula', 'shinu')",1
+"('shinu', 'sokka')",1
+"('katara', 'shinu')",1
 "('actress aang', 'crowd')",1
 "('june', 'toph')",2
+"('piandao', 'toph')",1
+"('pakku', 'piandao')",1
+"('piandao', 'zuko')",2
+"('piandao', 'suki')",1
+"('jeong jeong', 'piandao')",1
+"('bumi', 'piandao')",2
+"('pakku', 'toph')",1
 "('jeong jeong', 'toph')",1
 "('bumi', 'toph')",1
-"('pakku', 'toph')",1
-"('piandao', 'toph')",1
+"('pakku', 'zuko')",1
+"('pakku', 'suki')",1
+"('jeong jeong', 'pakku')",1
+"('bumi', 'pakku')",2
+"('jeong jeong', 'zuko')",1
+"('bumi', 'zuko')",2
 "('jeong jeong', 'suki')",1
 "('bumi', 'suki')",2
-"('pakku', 'suki')",1
-"('piandao', 'suki')",1
 "('bumi', 'jeong jeong')",1
-"('jeong jeong', 'pakku')",1
-"('jeong jeong', 'piandao')",1
-"('jeong jeong', 'zuko')",1
-"('bumi', 'pakku')",2
-"('bumi', 'piandao')",2
-"('bumi', 'zuko')",2
-"('pakku', 'piandao')",1
-"('pakku', 'zuko')",1
-"('piandao', 'zuko')",2
 "('aang', 'kyoshi')",1
 "('aang', 'yangchen')",1
 "('iroh', 'suki')",2
@@ -962,8 +962,8 @@ pair,count
 "('azula', 'banished servant')",1
 "('azula', 'head of dai li')",1
 "('engineer', 'qin lee')",1
-"('bumi', 'iroh')",1
 "('iroh', 'pakku')",1
+"('bumi', 'iroh')",1
 "('ozai', 'suki')",1
 "('mai', 'toph')",1
 "('iroh', 'mai')",1
