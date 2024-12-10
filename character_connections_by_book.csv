@@ -1,17 +1,17 @@
 book,pair,count
 Earth,"('aang', 'katara')",113
-Earth,"('aang', 'pakku')",1
 Earth,"('katara', 'pakku')",1
+Earth,"('aang', 'pakku')",1
 Earth,"('iroh', 'zuko')",55
 Earth,"('azula', 'captain')",2
 Earth,"('fong', 'katara')",3
 Earth,"('aang', 'sokka')",126
+Earth,"('aang', 'fong')",7
 Earth,"('fong', 'sokka')",1
 Earth,"('katara', 'sokka')",124
-Earth,"('aang', 'fong')",7
 Earth,"('azula', 'li')",2
-Earth,"('li', 'lo')",2
 Earth,"('azula', 'lo')",2
+Earth,"('li', 'lo')",2
 Earth,"('aang', 'soldier')",2
 Earth,"('aang', 'oracle')",1
 Earth,"('azula', 'zuko')",16
@@ -19,47 +19,47 @@ Earth,"('azula', 'iroh')",3
 Earth,"('captain', 'zuko')",1
 Earth,"('aang', 'roku')",1
 Earth,"('katara', 'soldier')",2
+Earth,"('chong', 'katara')",8
 Earth,"('chong', 'sokka')",13
 Earth,"('aang', 'chong')",4
-Earth,"('chong', 'katara')",8
-Earth,"('moku', 'sokka')",2
-Earth,"('chong', 'moku')",3
 Earth,"('aang', 'moku')",3
+Earth,"('chong', 'moku')",3
+Earth,"('moku', 'sokka')",2
 Earth,"('lily', 'sokka')",4
 Earth,"('chong', 'lily')",4
 Earth,"('katara', 'lily')",3
 Earth,"('sokka', 'toph')",74
 Earth,"('aang', 'toph')",61
 Earth,"('katara', 'toph')",69
-Earth,"('lily', 'moku')",1
 Earth,"('katara', 'moku')",1
 Earth,"('aang', 'lily')",1
+Earth,"('lily', 'moku')",1
 Earth,"('song', 'zuko')",4
 Earth,"('iroh', 'song')",3
-Earth,"(""song's mother"", 'zuko')",1
 Earth,"('song', ""song's mother"")",1
+Earth,"(""song's mother"", 'zuko')",1
 Earth,"('iroh', ""song's mother"")",1
 Earth,"('guard one', 'katara')",2
-Earth,"('guard two', 'sokka')",1
-Earth,"('guard one', 'sokka')",1
-Earth,"('guard one', 'guard two')",1
 Earth,"('guard two', 'katara')",1
+Earth,"('guard two', 'sokka')",1
+Earth,"('guard one', 'guard two')",1
+Earth,"('guard one', 'sokka')",1
 Earth,"('azula', 'ty lee')",7
-Earth,"('resistance fighter #1', 'resistance fighter #2')",1
-Earth,"('resistance fighter #1', 'yung')",1
 Earth,"('aang', 'resistance fighter #1')",1
-Earth,"('resistance fighter #2', 'yung')",1
 Earth,"('aang', 'resistance fighter #2')",1
 Earth,"('aang', 'yung')",1
+Earth,"('resistance fighter #1', 'resistance fighter #2')",1
+Earth,"('resistance fighter #1', 'yung')",1
+Earth,"('resistance fighter #2', 'yung')",1
 Earth,"('old man', 'sokka')",1
-Earth,"('michi', 'ukano')",1
 Earth,"('guard', 'ukano')",1
+Earth,"('michi', 'ukano')",1
 Earth,"('guard', 'michi')",1
 Earth,"('mai', 'michi')",1
 Earth,"('azula', 'shuzumu')",3
 Earth,"('katara', 'yung')",1
-Earth,"('azula', 'mai')",7
 Earth,"('mai', 'ty lee')",8
+Earth,"('azula', 'mai')",7
 Earth,"('azula', 'ukano')",1
 Earth,"('aang', 'azula')",3
 Earth,"('aang', 'mai')",1
@@ -72,94 +72,94 @@ Earth,"('broadsword man', 'zuko')",1
 Earth,"('broadsword man', 'iroh')",2
 Earth,"('due', 'tho')",5
 Earth,"('princess yue', 'sokka')",1
-Earth,"('huu', 'sokka')",4
 Earth,"('aang', 'huu')",3
+Earth,"('huu', 'sokka')",4
 Earth,"('huu', 'katara')",2
-Earth,"('due', 'huu')",1
-Earth,"('due', 'sokka')",3
 Earth,"('due', 'katara')",2
-Earth,"('sokka', 'tho')",1
+Earth,"('due', 'sokka')",3
+Earth,"('due', 'huu')",1
 Earth,"('katara', 'tho')",1
+Earth,"('sokka', 'tho')",1
 Earth,"('merchant', 'sokka')",1
-Earth,"('aang', 'merchant')",1
 Earth,"('katara', 'merchant')",1
-Earth,"('tong', 'villager')",1
+Earth,"('aang', 'merchant')",1
 Earth,"('aang', 'villager')",1
 Earth,"('aang', 'tong')",7
-Earth,"('tong', 'villager #2')",1
+Earth,"('tong', 'villager')",1
 Earth,"('aang', 'villager #2')",1
+Earth,"('tong', 'villager #2')",1
 Earth,"('aang', 'villager #3')",1
 Earth,"('katara', 'villager #3')",2
 Earth,"('katara', 'koko')",1
-Earth,"('oyaji', 'sokka')",4
 Earth,"('katara', 'oyaji')",5
-Earth,"('prisoner #2', 'sensitive ruffian')",1
-Earth,"('aang', 'prisoner #2')",1
-Earth,"('prisoner #2', 'scary prisoner')",1
+Earth,"('oyaji', 'sokka')",4
 Earth,"('aang', 'sensitive ruffian')",2
-Earth,"('scary prisoner', 'sensitive ruffian')",2
+Earth,"('aang', 'prisoner #2')",1
 Earth,"('aang', 'scary prisoner')",2
+Earth,"('prisoner #2', 'sensitive ruffian')",1
+Earth,"('scary prisoner', 'sensitive ruffian')",2
+Earth,"('prisoner #2', 'scary prisoner')",1
 Earth,"('guard', 'sokka')",1
 Earth,"('aang', 'guard')",1
 Earth,"('katara', 'tong')",3
 Earth,"('sokka', 'tong')",2
+Earth,"('katara', 'villager')",1
+Earth,"('katara', 'villager #2')",1
 Earth,"('villager', 'villager #3')",1
 Earth,"('villager', 'villager #2')",1
-Earth,"('katara', 'villager')",1
 Earth,"('villager #2', 'villager #3')",1
-Earth,"('katara', 'villager #2')",1
 Earth,"('mongke', 'villager')",1
-Earth,"('male student', 'male student #2')",2
-Earth,"('aang', 'male student #2')",2
 Earth,"('aang', 'male student')",3
-Earth,"('the boulder', 'xin fu')",2
-Earth,"('the hippo', 'xin fu')",1
-Earth,"('sokka', 'xin fu')",2
-Earth,"('katara', 'xin fu')",4
-Earth,"('the boulder', 'the hippo')",1
-Earth,"('sokka', 'the boulder')",1
+Earth,"('aang', 'male student #2')",2
+Earth,"('male student', 'male student #2')",2
 Earth,"('katara', 'the boulder')",1
-Earth,"('sokka', 'the hippo')",1
+Earth,"('katara', 'xin fu')",4
 Earth,"('katara', 'the hippo')",1
+Earth,"('the boulder', 'xin fu')",2
+Earth,"('sokka', 'the boulder')",1
+Earth,"('the boulder', 'the hippo')",1
+Earth,"('sokka', 'xin fu')",2
+Earth,"('the hippo', 'xin fu')",1
+Earth,"('sokka', 'the hippo')",1
 Earth,"('aang', 'xin fu')",3
 Earth,"('the boulder', 'toph')",2
 Earth,"('audience', 'sokka')",1
 Earth,"('audience', 'toph')",1
 Earth,"('aang', 'audience')",1
-Earth,"('male student #2', 'sokka')",1
+Earth,"('katara', 'male student')",1
 Earth,"('katara', 'male student #2')",1
 Earth,"('male student', 'sokka')",1
-Earth,"('katara', 'male student')",1
+Earth,"('male student #2', 'sokka')",1
 Earth,"('guard', 'toph')",3
-Earth,"('lao', 'servant')",1
-Earth,"('servant', 'yu')",1
 Earth,"('lao', 'yu')",2
-Earth,"('lao', 'poppy')",3
-Earth,"('aang', 'poppy')",2
+Earth,"('servant', 'yu')",1
+Earth,"('lao', 'servant')",1
 Earth,"('aang', 'lao')",4
+Earth,"('aang', 'poppy')",2
+Earth,"('lao', 'poppy')",3
 Earth,"('aang', 'yu')",1
-Earth,"('katara', 'poppy')",1
 Earth,"('katara', 'lao')",2
-Earth,"('toph', 'xin fu')",4
-Earth,"('lao', 'xin fu')",1
-Earth,"('lao', 'toph')",3
+Earth,"('katara', 'poppy')",1
 Earth,"('lao', 'sokka')",1
+Earth,"('lao', 'toph')",3
+Earth,"('lao', 'xin fu')",1
+Earth,"('toph', 'xin fu')",4
 Earth,"('poppy', 'toph')",1
 Earth,"('store owner', 'zuko')",1
 Earth,"('earth kingdom soldier', 'zuko')",1
 Earth,"('gow', 'zuko')",3
 Earth,"('earth kingdom soldier', 'gow')",2
 Earth,"('lee', 'zuko')",5
+Earth,"('sela', 'zuko')",3
 Earth,"('gansu', 'zuko')",3
 Earth,"('gansu', 'sela')",1
-Earth,"('sela', 'zuko')",3
 Earth,"('gansu', 'lee')",2
 Earth,"('ursa', 'zuko')",8
 Earth,"('azula', 'ursa')",4
 Earth,"('earth kingdom soldier', 'gansu')",1
 Earth,"('gansu', 'gow')",1
-Earth,"('azula', 'ozai')",2
 Earth,"('ozai', 'zuko')",2
+Earth,"('azula', 'ozai')",2
 Earth,"('azulon', 'zuko')",1
 Earth,"('azulon', 'ursa')",1
 Earth,"('azulon', 'ozai')",1
@@ -173,97 +173,97 @@ Earth,"('katara', 'mai')",1
 Earth,"('iroh', 'toph')",3
 Earth,"('aang', 'zuko')",2
 Earth,"('katara', 'zuko')",6
-Earth,"('sokka', 'zei')",7
 Earth,"('aang', 'zei')",4
+Earth,"('sokka', 'zei')",7
 Earth,"('toph', 'zei')",3
 Earth,"('katara', 'zei')",4
 Earth,"('wan shi tong', 'zei')",2
+Earth,"('katara', 'wan shi tong')",2
 Earth,"('aang', 'wan shi tong')",2
 Earth,"('sokka', 'wan shi tong')",2
-Earth,"('katara', 'wan shi tong')",2
 Earth,"('iroh', 'mongke')",2
 Earth,"('man', 'yu')",1
 Earth,"('man', 'xin fu')",1
 Earth,"('xin fu', 'yu')",6
 Earth,"('fung', 'iroh')",5
 Earth,"('fung', 'zuko')",4
-Earth,"('man in the bar', 'xin fu')",1
-Earth,"('xin fu', 'zuko')",1
-Earth,"('iroh', 'xin fu')",1
 Earth,"('fung', 'xin fu')",1
-Earth,"('man in the bar', 'zuko')",1
-Earth,"('iroh', 'man in the bar')",1
 Earth,"('fung', 'man in the bar')",1
+Earth,"('iroh', 'xin fu')",1
+Earth,"('iroh', 'man in the bar')",1
+Earth,"('xin fu', 'zuko')",1
+Earth,"('man in the bar', 'xin fu')",1
+Earth,"('man in the bar', 'zuko')",1
 Earth,"('florist', 'iroh')",1
 Earth,"('katara', 'sha-mo')",1
 Earth,"('ghashiun', 'sha-mo')",2
-Earth,"('florist', 'xin fu')",1
 Earth,"('florist', 'yu')",2
-Earth,"('ghashiun', 'toph')",2
+Earth,"('florist', 'xin fu')",1
 Earth,"('aang', 'ghashiun')",2
-Earth,"('sha-mo', 'toph')",1
 Earth,"('aang', 'sha-mo')",1
+Earth,"('ghashiun', 'toph')",2
+Earth,"('sha-mo', 'toph')",1
 Earth,"('aang', 'than')",2
 Earth,"('katara', 'than')",3
+Earth,"('katara', 'ying')",4
+Earth,"('than', 'toph')",1
+Earth,"('than', 'ying')",2
+Earth,"('sokka', 'than')",2
 Earth,"('toph', 'ying')",2
 Earth,"('sokka', 'ying')",4
-Earth,"('katara', 'ying')",4
-Earth,"('than', 'ying')",2
-Earth,"('than', 'toph')",1
-Earth,"('sokka', 'than')",2
 Earth,"('smellerbee', 'zuko')",1
 Earth,"('jet', 'zuko')",4
+Earth,"('jet', 'smellerbee')",8
 Earth,"('iroh', 'smellerbee')",2
 Earth,"('iroh', 'jet')",6
-Earth,"('jet', 'smellerbee')",8
-Earth,"('cabbage merchant', 'sokka')",1
-Earth,"('cabbage merchant', 'ticket lady')",1
-Earth,"('aang', 'cabbage merchant')",1
 Earth,"('sokka', 'ticket lady')",2
+Earth,"('cabbage merchant', 'ticket lady')",1
 Earth,"('aang', 'ticket lady')",3
+Earth,"('cabbage merchant', 'sokka')",1
+Earth,"('aang', 'cabbage merchant')",1
 Earth,"('ticket lady', 'toph')",1
 Earth,"('sokka', 'suki')",8
+Earth,"('katara', 'suki')",2
+Earth,"('aang', 'suki')",2
 Earth,"('aang', 'ying')",4
 Earth,"('suki', 'ying')",1
-Earth,"('aang', 'suki')",2
-Earth,"('katara', 'suki')",2
 Earth,"('suki', 'toph')",2
 Earth,"('qin', 'ty lee')",2
 Earth,"('azula', 'qin')",1
 Earth,"('mai', 'qin')",1
-Earth,"('earthbender guard', 'ying')",1
 Earth,"('aang', 'earthbender guard')",1
-Earth,"('general sung', 'toph')",3
-Earth,"('general sung', 'sokka')",3
+Earth,"('earthbender guard', 'ying')",1
 Earth,"('aang', 'general sung')",3
+Earth,"('general sung', 'sokka')",3
+Earth,"('general sung', 'toph')",3
 Earth,"('ticket woman', 'zuko')",1
 Earth,"('iroh', 'ticket woman')",1
 Earth,"('general sung', 'katara')",1
-Earth,"('general sung', 'terra team member')",1
+Earth,"('katara', 'terra team member')",1
 Earth,"('aang', 'terra team member')",1
 Earth,"('terra team member', 'toph')",1
+Earth,"('general sung', 'terra team member')",1
 Earth,"('sokka', 'terra team member')",1
-Earth,"('katara', 'terra team member')",1
-Earth,"('iroh', 'tea seller')",1
 Earth,"('jet', 'tea seller')",1
+Earth,"('iroh', 'tea seller')",1
 Earth,"('azula', 'second engineer')",1
-Earth,"('sokka', 'ty lee')",2
 Earth,"('aang', 'ty lee')",1
+Earth,"('sokka', 'ty lee')",2
 Earth,"('iroh', 'ying')",1
 Earth,"('joo dee', 'sokka')",7
 Earth,"('joo dee', 'katara')",3
 Earth,"('aang', 'joo dee')",4
 Earth,"('joo dee', 'toph')",2
-Earth,"('pet store owner', 'sokka')",1
 Earth,"('aang', 'pet store owner')",1
+Earth,"('pet store owner', 'sokka')",1
 Earth,"('sokka', 'university student')",1
 Earth,"('aang', 'pong')",1
-Earth,"('pong', 'toph')",1
 Earth,"('katara', 'pong')",1
+Earth,"('pong', 'toph')",1
 Earth,"('pong', 'sokka')",1
 Earth,"('customer', 'pao')",2
-Earth,"('iroh', 'pao')",3
 Earth,"('customer', 'iroh')",2
+Earth,"('iroh', 'pao')",3
 Earth,"('customer', 'jet')",2
 Earth,"('katara', 'long feng')",6
 Earth,"('older guest', 'younger guest')",1
@@ -271,18 +271,18 @@ Earth,"('aang', 'guest')",1
 Earth,"('jet', 'pao')",1
 Earth,"('long feng', 'sokka')",8
 Earth,"('aang', 'long feng')",9
-Earth,"('jet', 'toph')",6
+Earth,"('jet', 'katara')",8
 Earth,"('long feng', 'toph')",2
+Earth,"('jet', 'toph')",6
 Earth,"('jet', 'long feng')",3
 Earth,"('jet', 'sokka')",7
-Earth,"('jet', 'katara')",8
 Earth,"('dai li agent', 'jet')",1
 Earth,"('joo dee replacement', 'katara')",1
 Earth,"('girl with umbrella', 'toph')",1
-Earth,"('third girl', 'toph')",1
-Earth,"('star', 'toph')",1
-Earth,"('katara', 'third girl')",1
 Earth,"('star', 'third girl')",1
+Earth,"('third girl', 'toph')",1
+Earth,"('katara', 'third girl')",1
+Earth,"('star', 'toph')",1
 Earth,"('katara', 'star')",1
 Earth,"('iroh', 'shop owner')",1
 Earth,"(""boy's mother"", 'iroh')",1
@@ -291,15 +291,15 @@ Earth,"('iroh', 'tycho')",3
 Earth,"('aang', 'kenji')",2
 Earth,"('guard', 'kenji')",1
 Earth,"('lady on stage', 'sokka')",1
+Earth,"('macmu-ling', 'sokka')",1
 Earth,"('ladies', 'sokka')",1
 Earth,"('ladies', 'macmu-ling')",1
-Earth,"('macmu-ling', 'sokka')",1
 Earth,"('jin', 'zuko')",8
 Earth,"('iroh', 'jin')",1
 Earth,"('waiter', 'zuko')",1
 Earth,"('jin', 'waiter')",1
-Earth,"('ghashiun', 'sandbender #2')",1
 Earth,"('ghashiun', 'sandbender #1')",1
+Earth,"('ghashiun', 'sandbender #2')",1
 Earth,"('sandbender #1', 'sandbender #2')",1
 Earth,"('ghashiun', 'merchant #1')",1
 Earth,"('merchant #1', 'merchant #2')",3
@@ -317,110 +317,110 @@ Earth,"('kyoshi warrior #2', 'mai')",1
 Earth,"('pao', 'quon')",1
 Earth,"('iroh', 'quon')",2
 Earth,"('quon', 'zuko')",1
-Earth,"('dai li agent', 'joo dee')",1
 Earth,"('dai li agent', 'long feng')",1
+Earth,"('dai li agent', 'joo dee')",1
 Earth,"('joo dee', 'long feng')",1
 Earth,"('aang', 'jet')",5
 Earth,"('aang', 'old sweepy')",1
+Earth,"('katara', 'old sweepy')",1
 Earth,"('old sweepy', 'toph')",1
 Earth,"('jet', 'old sweepy')",1
 Earth,"('old sweepy', 'sokka')",1
-Earth,"('katara', 'old sweepy')",1
+Earth,"('katara', 'smellerbee')",3
 Earth,"('smellerbee', 'toph')",2
 Earth,"('smellerbee', 'sokka')",1
-Earth,"('katara', 'smellerbee')",3
 Earth,"('brainwasher', 'joo dees')",1
 Earth,"('jet', 'joo dees')",1
 Earth,"('brainwasher', 'jet')",1
-Earth,"('longshot', 'smellerbee')",1
 Earth,"('katara', 'longshot')",1
+Earth,"('longshot', 'smellerbee')",1
 Earth,"('palace woman', 'sokka')",1
 Earth,"('aang', 'kuei')",11
+Earth,"('katara', 'kuei')",7
 Earth,"('kuei', 'toph')",5
 Earth,"('kuei', 'long feng')",4
 Earth,"('kuei', 'sokka')",13
-Earth,"('katara', 'kuei')",7
 Earth,"('blue dragon', 'zuko')",1
 Earth,"('blue dragon', 'red dragon')",1
 Earth,"('general how', 'kuei')",2
 Earth,"('aang', 'general how')",1
+Earth,"('general how', 'katara')",2
 Earth,"('general how', 'toph')",1
 Earth,"('general how', 'sokka')",1
-Earth,"('general how', 'katara')",2
-Earth,"('kuei', 'soldier')",1
 Earth,"('soldier', 'toph')",1
 Earth,"('sokka', 'soldier')",1
+Earth,"('kuei', 'soldier')",1
 Earth,"('hakoda', 'sokka')",4
 Earth,"('azula', 'kuei')",1
 Earth,"('aang', 'pathik')",12
 Earth,"('toph', 'yu')",3
-Earth,"('hakoda', 'warrior')",1
-Earth,"('bato', 'hakoda')",1
-Earth,"('sokka', 'warrior')",1
 Earth,"('bato', 'sokka')",1
+Earth,"('sokka', 'warrior')",1
+Earth,"('bato', 'hakoda')",1
+Earth,"('hakoda', 'warrior')",1
 Earth,"('bato', 'warrior')",1
 Earth,"('iroh', 'katara')",1
 Earth,"('azula', 'katara')",1
 Earth,"('azula', 'long feng')",2
-Earth,"('iroh', 'royal messenger')",1
 Earth,"('royal messenger', 'zuko')",1
-Earth,"('iroh', 'sokka')",3
+Earth,"('iroh', 'royal messenger')",1
 Earth,"('aang', 'iroh')",4
+Earth,"('iroh', 'sokka')",3
 Earth,"('captured agent', 'sokka')",1
 Earth,"('head of the dai li', 'long feng')",1
+Earth,"('how', 'sokka')",1
 Earth,"('dai li agent', 'sokka')",1
 Earth,"('dai li agent', 'how')",1
-Earth,"('how', 'sokka')",1
 Earth,"('kuei', 'ty lee')",1
-Fire,"('sokka', 'toph')",91
-Fire,"('aang', 'toph')",71
-Fire,"('katara', 'toph')",69
-Fire,"('aang', 'sokka')",104
 Fire,"('katara', 'sokka')",94
+Fire,"('katara', 'toph')",69
 Fire,"('aang', 'katara')",94
+Fire,"('sokka', 'toph')",91
+Fire,"('aang', 'sokka')",104
+Fire,"('aang', 'toph')",71
 Fire,"('mai', 'zuko')",19
 Fire,"('aang', 'hakoda')",7
 Fire,"('hakoda', 'katara')",20
 Fire,"('li', 'lo')",9
 Fire,"('aang', 'pipsqueak')",1
-Fire,"('hakoda', 'pipsqueak')",1
-Fire,"('pipsqueak', 'sokka')",2
 Fire,"('katara', 'pipsqueak')",1
+Fire,"('hakoda', 'pipsqueak')",1
 Fire,"('hakoda', 'sokka')",19
-Fire,"('bato', 'hakoda')",5
+Fire,"('pipsqueak', 'sokka')",2
 Fire,"('fire navy officer', 'hakoda')",1
 Fire,"('bato', 'fire navy officer')",1
+Fire,"('bato', 'hakoda')",5
 Fire,"('fire navy officer', 'guard')",1
 Fire,"('azula', 'zuko')",19
 Fire,"('bato', 'katara')",2
 Fire,"('ozai', 'zuko')",9
 Fire,"('aang', 'roku')",13
-Fire,"('fire nation man', 'sokka')",1
 Fire,"('aang', 'fire nation man')",1
+Fire,"('fire nation man', 'sokka')",1
 Fire,"('aang', 'male soldier')",1
 Fire,"('aang', 'kwan')",3
-Fire,"('hide', 'on ji')",2
 Fire,"('aang', 'on ji')",2
 Fire,"('aang', 'hide')",2
+Fire,"('hide', 'on ji')",2
 Fire,"('aang', 'shoji')",4
-Fire,"('class', 'kwan')",1
 Fire,"('aang', 'class')",1
-Fire,"('music teacher', 'shoji')",1
+Fire,"('class', 'kwan')",1
 Fire,"('aang', 'music teacher')",1
+Fire,"('music teacher', 'shoji')",1
 Fire,"('aang', 'headmaster')",2
 Fire,"('headmaster', 'sokka')",1
 Fire,"('headmaster', 'katara')",1
 Fire,"('azula', 'mai')",4
-Fire,"('male student #2', 'shoji')",1
-Fire,"('male student #1', 'shoji')",1
-Fire,"('male student #1', 'male student #2')",2
-Fire,"('aang', 'male student #2')",1
 Fire,"('aang', 'male student #1')",1
+Fire,"('aang', 'male student #2')",1
+Fire,"('male student #1', 'male student #2')",2
+Fire,"('male student #1', 'shoji')",1
+Fire,"('male student #2', 'shoji')",1
 Fire,"('headmaster', 'hide')",1
-Fire,"('male soldier #1', 'shoji')",1
-Fire,"('headmaster', 'male soldier #1')",1
 Fire,"('aang', 'male soldier #1')",1
+Fire,"('headmaster', 'male soldier #1')",1
 Fire,"('headmaster', 'shoji')",1
+Fire,"('male soldier #1', 'shoji')",1
 Fire,"('female student #1', 'on ji')",1
 Fire,"('female student #1', 'student')",1
 Fire,"('on ji', 'student')",1
@@ -436,165 +436,165 @@ Fire,"('aang', 'dock')",2
 Fire,"('dock/xu', 'mung')",1
 Fire,"('little boy', 'mung')",1
 Fire,"('female fire nation soldier', 'male fire nation soldier')",2
+Fire,"('dock', 'little boy')",2
 Fire,"('little boy', 'villager #2')",1
 Fire,"('little boy', 'villager #1')",1
-Fire,"('dock', 'little boy')",2
-Fire,"('villager #1', 'villager #2')",1
 Fire,"('dock', 'villager #2')",1
 Fire,"('dock', 'villager #1')",1
+Fire,"('villager #1', 'villager #2')",1
+Fire,"('little boy', 'villager #4')",1
 Fire,"('little boy', 'villager #3')",1
 Fire,"('villager #3', 'villager #4')",1
-Fire,"('dock', 'villager #3')",1
-Fire,"('little boy', 'villager #4')",1
 Fire,"('dock', 'villager #4')",1
+Fire,"('dock', 'villager #3')",1
 Fire,"('dock', 'toph')",1
-Fire,"('sokka', 'weapons store shopkeeper')",1
+Fire,"('katara', 'weapons store shopkeeper')",1
 Fire,"('aang', 'weapons store shopkeeper')",1
 Fire,"('toph', 'weapons store shopkeeper')",1
-Fire,"('katara', 'weapons store shopkeeper')",1
+Fire,"('sokka', 'weapons store shopkeeper')",1
 Fire,"('fat', 'sokka')",1
 Fire,"('piandao', 'sokka')",11
 Fire,"('katara', 'piandao')",2
-Fire,"('azula', 'ty lee')",6
 Fire,"('ty lee', 'zuko')",6
-Fire,"('lo', 'zuko')",2
-Fire,"('li', 'zuko')",2
+Fire,"('azula', 'ty lee')",6
 Fire,"('lo', 'mai')",2
-Fire,"('mai', 'ty lee')",5
 Fire,"('li', 'mai')",2
+Fire,"('mai', 'ty lee')",5
+Fire,"('lo', 'zuko')",2
 Fire,"('lo', 'ty lee')",3
+Fire,"('li', 'zuko')",2
 Fire,"('li', 'ty lee')",3
 Fire,"('aang', 'fire nation watchman #2')",1
-Fire,"('fire nation watchman #1', 'fire nation watchman #2')",1
 Fire,"('aang', 'fire nation watchman #1')",1
+Fire,"('fire nation watchman #1', 'fire nation watchman #2')",1
 Fire,"('ember island teenager #1', 'ty lee')",3
 Fire,"('ember island teenager #1', 'ember island teenager #2')",3
 Fire,"('ember island teenager #2', 'ty lee')",2
-Fire,"('azula', 'chan')",6
-Fire,"('azula', 'ruon-jian')",1
 Fire,"('chan', 'ruon-jian')",2
+Fire,"('azula', 'chan')",6
 Fire,"('chan', 'ty lee')",1
+Fire,"('azula', 'ruon-jian')",1
 Fire,"('ruon-jian', 'ty lee')",1
 Fire,"('azula', 'lo')",3
 Fire,"('azula', 'li')",3
 Fire,"('ruon-jian', 'zuko')",3
 Fire,"('mai', 'ruon-jian')",2
-Fire,"('ember island teenager #2', 'ember island teenager #3')",2
 Fire,"('ember island teenager #1', 'ember island teenager #3')",2
+Fire,"('ember island teenager #2', 'ember island teenager #3')",2
 Fire,"('azula', 'ember island teenager #2')",1
 Fire,"('azula', 'ember island teenager #1')",1
-Fire,"('ember island teenager #3', 'ty lee')",1
 Fire,"('azula', 'ember island teenager #3')",1
+Fire,"('ember island teenager #3', 'ty lee')",1
 Fire,"('chan', 'zuko')",1
 Fire,"('chan', 'mai')",1
 Fire,"('aang', 'sozin')",1
 Fire,"('roku', 'sozin')",7
 Fire,"('fire sage', 'sozin')",1
-Fire,"('aang', 'gyatso')",1
 Fire,"('gyatso', 'roku')",1
+Fire,"('aang', 'gyatso')",1
 Fire,"('sozin', 'ta min')",1
 Fire,"('iroh', 'zuko')",7
 Fire,"('dealer', 'toph')",3
 Fire,"('aang', 'dealer')",1
 Fire,"('katara', 'town authority')",1
 Fire,"('female guard', 'toph')",1
-Fire,"('toph', 'yue')",1
-Fire,"('roku', 'toph')",1
-Fire,"('katara', 'yue')",1
-Fire,"('roku', 'yue')",1
 Fire,"('katara', 'roku')",1
+Fire,"('katara', 'yue')",1
+Fire,"('roku', 'toph')",1
+Fire,"('roku', 'yue')",1
+Fire,"('toph', 'yue')",1
 Fire,"('aang', 'hama')",4
+Fire,"('hama', 'katara')",11
 Fire,"('hama', 'toph')",2
 Fire,"('hama', 'sokka')",9
-Fire,"('hama', 'katara')",11
 Fire,"('shop owner', 'villager')",1
-Fire,"('toph', 'villager')",1
 Fire,"('sokka', 'villager')",1
+Fire,"('toph', 'villager')",1
 Fire,"('aang', 'villager')",1
 Fire,"('aang', 'ding')",2
 Fire,"('ding', 'sokka')",1
 Fire,"('ding', 'toph')",1
-Fire,"('male prisoner #1', 'male prisoner #2')",1
-Fire,"('aang', 'male prisoner #1')",1
-Fire,"('female prisoner', 'male prisoner #1')",1
-Fire,"('male prisoner #1', 'toph')",1
-Fire,"('male prisoner #1', 'sokka')",1
 Fire,"('aang', 'male prisoner #2')",1
-Fire,"('female prisoner', 'male prisoner #2')",1
-Fire,"('male prisoner #2', 'toph')",1
-Fire,"('male prisoner #2', 'sokka')",1
 Fire,"('aang', 'female prisoner')",1
+Fire,"('aang', 'male prisoner #1')",1
+Fire,"('male prisoner #2', 'toph')",1
 Fire,"('female prisoner', 'toph')",1
+Fire,"('male prisoner #1', 'toph')",1
+Fire,"('male prisoner #2', 'sokka')",1
 Fire,"('female prisoner', 'sokka')",1
+Fire,"('male prisoner #1', 'sokka')",1
+Fire,"('female prisoner', 'male prisoner #2')",1
+Fire,"('male prisoner #1', 'male prisoner #2')",1
+Fire,"('female prisoner', 'male prisoner #1')",1
 Fire,"('hama', 'male prisoner #1')",1
 Fire,"('servant #1', 'zuko')",1
 Fire,"('servant', 'zuko')",2
 Fire,"('mai', 'servant')",1
 Fire,"('aang', 'momo')",2
 Fire,"('aang', 'appa')",1
-Fire,"('appa', 'toph')",1
-Fire,"('appa', 'sokka')",1
-Fire,"('appa', 'katara')",1
-Fire,"('appa', 'momo')",1
-Fire,"('momo', 'toph')",1
-Fire,"('momo', 'sokka')",1
 Fire,"('katara', 'momo')",1
+Fire,"('appa', 'katara')",1
+Fire,"('momo', 'toph')",1
+Fire,"('appa', 'toph')",1
+Fire,"('momo', 'sokka')",1
+Fire,"('appa', 'sokka')",1
+Fire,"('appa', 'momo')",1
 Fire,"('aang', 'ozai')",6
+Fire,"('katara', 'ozai')",2
 Fire,"('ozai', 'toph')",3
 Fire,"('ozai', 'sokka')",3
-Fire,"('katara', 'ozai')",2
+Fire,"('due', 'hakoda')",1
+Fire,"('hakoda', 'tho')",2
+Fire,"('hakoda', 'huu')",1
+Fire,"('bato', 'due')",1
+Fire,"('bato', 'tho')",1
+Fire,"('bato', 'huu')",1
+Fire,"('due', 'tho')",1
 Fire,"('due', 'huu')",2
 Fire,"('huu', 'tho')",1
-Fire,"('bato', 'huu')",1
-Fire,"('hakoda', 'huu')",1
-Fire,"('due', 'tho')",1
-Fire,"('bato', 'due')",1
-Fire,"('due', 'hakoda')",1
-Fire,"('bato', 'tho')",1
-Fire,"('hakoda', 'tho')",2
-Fire,"('aang', 'tyro')",2
-Fire,"('haru', 'tyro')",2
-Fire,"('katara', 'tyro')",2
-Fire,"('aang', 'haru')",1
 Fire,"('haru', 'katara')",2
-Fire,"('big bad hippo', 'toph')",1
-Fire,"('the boulder', 'toph')",1
+Fire,"('katara', 'tyro')",2
+Fire,"('haru', 'tyro')",2
+Fire,"('aang', 'haru')",1
+Fire,"('aang', 'tyro')",2
 Fire,"('big bad hippo', 'the boulder')",1
-Fire,"('teo', 'the duke')",3
+Fire,"('the boulder', 'toph')",1
+Fire,"('big bad hippo', 'toph')",1
+Fire,"('mechanist', 'the duke')",1
 Fire,"('pipsqueak', 'the duke')",2
 Fire,"('sokka', 'the duke')",3
-Fire,"('mechanist', 'the duke')",1
-Fire,"('pipsqueak', 'teo')",1
-Fire,"('sokka', 'teo')",2
-Fire,"('mechanist', 'teo')",2
+Fire,"('teo', 'the duke')",3
 Fire,"('mechanist', 'pipsqueak')",1
 Fire,"('mechanist', 'sokka')",2
+Fire,"('mechanist', 'teo')",2
+Fire,"('pipsqueak', 'teo')",1
+Fire,"('sokka', 'teo')",2
 Fire,"('aang', 'mechanist')",1
-Fire,"('iroh', 'warden poon')",1
 Fire,"('ming', 'warden poon')",1
+Fire,"('iroh', 'warden poon')",1
 Fire,"('iroh', 'ming')",2
-Fire,"('hakoda', 'the boulder')",1
 Fire,"('sokka', 'the boulder')",1
+Fire,"('hakoda', 'the boulder')",1
 Fire,"('katara', 'the boulder')",1
 Fire,"('the duke', 'toph')",1
 Fire,"('hakoda', 'toph')",2
 Fire,"('bato', 'tyro')",2
 Fire,"('aang', 'qin')",1
+Fire,"('aang', 'azula')",4
 Fire,"('azula', 'sokka')",4
 Fire,"('azula', 'toph')",3
-Fire,"('aang', 'azula')",4
 Fire,"('fire nation soldier', 'tyro')",1
 Fire,"('warden poon', 'zuko')",1
 Fire,"('aang', 'bato')",1
-Fire,"('bato', 'sokka')",1
 Fire,"('hakoda', 'tyro')",1
+Fire,"('bato', 'sokka')",1
 Fire,"('sokka', 'tyro')",1
-Fire,"('the duke', 'tyro')",1
 Fire,"('haru', 'the duke')",2
-Fire,"('pipsqueak', 'tyro')",1
+Fire,"('the duke', 'tyro')",1
 Fire,"('haru', 'pipsqueak')",1
-Fire,"('azula', 'fire nation soldier')",1
+Fire,"('pipsqueak', 'tyro')",1
 Fire,"('aang', 'fire nation soldier')",1
+Fire,"('azula', 'fire nation soldier')",1
 Fire,"('haru', 'teo')",3
 Fire,"('katara', 'the duke')",2
 Fire,"('katara', 'teo')",2
@@ -604,18 +604,18 @@ Fire,"('katara', 'zuko')",43
 Fire,"('aang', 'zuko')",52
 Fire,"('haru', 'sokka')",1
 Fire,"('sun warrior chief', 'zuko')",5
-Fire,"('ham ghao', 'zuko')",1
-Fire,"('aang', 'sun warrior chief')",5
 Fire,"('ham ghao', 'sun warrior chief')",3
+Fire,"('ham ghao', 'zuko')",1
 Fire,"('aang', 'ham ghao')",2
+Fire,"('aang', 'sun warrior chief')",5
 Fire,"('bully guard', 'chit sang')",4
-Fire,"('chit sang', 'zuko')",5
-Fire,"('bully guard', 'zuko')",1
 Fire,"('chit sang', 'sokka')",8
 Fire,"('bully guard', 'sokka')",4
+Fire,"('chit sang', 'zuko')",5
+Fire,"('bully guard', 'zuko')",1
 Fire,"('male guard', 'zuko')",5
-Fire,"('female guard', 'male guard')",3
 Fire,"('female guard', 'zuko')",3
+Fire,"('female guard', 'male guard')",3
 Fire,"('sokka', 'warden')",1
 Fire,"('chit sang', 'warden')",4
 Fire,"('bully guard', 'warden')",3
@@ -633,54 +633,54 @@ Fire,"('bodyguard #2', 'warden')",1
 Fire,"('azula', 'warden')",2
 Fire,"('azula', 'bully guard')",1
 Fire,"('door guard', 'sokka')",1
-Fire,"('suki', 'tough prisoner')",1
 Fire,"('sokka', 'tough prisoner')",1
 Fire,"('hakoda', 'tough prisoner')",2
 Fire,"('hakoda', 'suki')",2
+Fire,"('suki', 'tough prisoner')",1
 Fire,"('tough prisoner', 'warden')",1
-Fire,"('male guard #2', 'zuko')",1
 Fire,"('mai', 'male guard #2')",1
+Fire,"('male guard #2', 'zuko')",1
 Fire,"('suki', 'warden')",1
 Fire,"('hakoda', 'zuko')",2
 Fire,"('gondola guard #2', 'warden')",1
-Fire,"('gondola guard', 'gondola guard #2')",1
 Fire,"('gondola guard', 'warden')",1
+Fire,"('gondola guard', 'gondola guard #2')",1
 Fire,"('azula', 'gondola guard #4')",1
-Fire,"('chit sang', 'hakoda')",1
 Fire,"('chit sang', 'katara')",1
-Fire,"('suki', 'toph')",14
+Fire,"('chit sang', 'hakoda')",1
 Fire,"('aang', 'suki')",6
-Fire,"('kya', 'yon rha')",3
-Fire,"('katara', 'kya')",2
+Fire,"('suki', 'toph')",14
 Fire,"('katara', 'yon rha')",5
+Fire,"('katara', 'kya')",2
+Fire,"('kya', 'yon rha')",3
 Fire,"('southern raiders commander', 'zuko')",3
 Fire,"('yon rha', ""yon rha's mother"")",1
 Fire,"('yon rha', 'zuko')",1
 Fire,"('katara', 'suki')",10
 Fire,"('actor sokka', 'actress katara')",5
-Fire,"('actress katara', 'sokka')",2
 Fire,"('actress katara', 'toph')",2
-Fire,"('actor sokka', 'sokka')",6
+Fire,"('actress katara', 'sokka')",2
 Fire,"('actor sokka', 'toph')",2
-Fire,"('aang', 'actress katara')",1
+Fire,"('actor sokka', 'sokka')",6
 Fire,"('actress aang', 'actress katara')",4
+Fire,"('aang', 'actress katara')",1
 Fire,"('aang', 'actress aang')",3
 Fire,"('actor sokka', 'actress aang')",3
-Fire,"('actress aang', 'toph')",4
 Fire,"('aang', 'actor sokka')",1
+Fire,"('actress aang', 'toph')",4
 Fire,"('actor iroh', 'actor zuko')",3
 Fire,"('actor zuko', 'blue spirit')",1
-Fire,"('actor sokka', 'suki')",2
-Fire,"('actress yue', 'suki')",1
 Fire,"('actress yue', 'sokka')",1
+Fire,"('actress yue', 'suki')",1
+Fire,"('actor sokka', 'suki')",2
 Fire,"('actor sokka', 'actress yue')",1
-Fire,"('actor toph', 'toph')",2
 Fire,"('actor toph', 'actress aang')",2
-Fire,"('actor toph', 'katara')",1
+Fire,"('actor toph', 'toph')",2
 Fire,"('actress aang', 'katara')",1
+Fire,"('actor toph', 'katara')",1
 Fire,"('actress azula', 'actress katara')",1
-Fire,"('actor zuko', 'actress azula')",3
 Fire,"('actor zuko', 'actress katara')",2
+Fire,"('actor zuko', 'actress azula')",3
 Fire,"('actor jet', 'actress aang')",1
 Fire,"('actor zuko', 'sokka')",2
 Fire,"('actor iroh', 'actress azula')",1
@@ -690,50 +690,50 @@ Fire,"('actor sokka', 'actor zuko')",1
 Fire,"('actor ozai', 'actress azula')",2
 Fire,"('actor ozai', 'actress aang')",2
 Fire,"('actress aang', 'actress azula')",1
-Fire,"('shinu', 'zuko')",1
+Fire,"('katara', 'shinu')",1
+Fire,"('azula', 'katara')",2
 Fire,"('aang', 'shinu')",1
 Fire,"('shinu', 'toph')",1
 Fire,"('ozai', 'shinu')",1
-Fire,"('azula', 'shinu')",1
-Fire,"('shinu', 'sokka')",1
-Fire,"('katara', 'shinu')",1
 Fire,"('azula', 'ozai')",2
-Fire,"('azula', 'katara')",2
+Fire,"('shinu', 'zuko')",1
+Fire,"('shinu', 'sokka')",1
+Fire,"('azula', 'shinu')",1
 Fire,"('actress aang', 'crowd')",1
 Fire,"('june', 'zuko')",6
 Fire,"('june', 'katara')",1
 Fire,"('june', 'toph')",2
 Fire,"('june', 'sokka')",1
-Fire,"('piandao', 'suki')",1
-Fire,"('piandao', 'zuko')",2
-Fire,"('bumi', 'piandao')",2
-Fire,"('jeong jeong', 'piandao')",1
-Fire,"('piandao', 'toph')",1
-Fire,"('pakku', 'piandao')",1
-Fire,"('bumi', 'suki')",2
-Fire,"('jeong jeong', 'suki')",1
-Fire,"('pakku', 'suki')",1
-Fire,"('bumi', 'zuko')",2
-Fire,"('jeong jeong', 'zuko')",1
-Fire,"('pakku', 'zuko')",1
-Fire,"('bumi', 'jeong jeong')",1
-Fire,"('bumi', 'toph')",1
-Fire,"('bumi', 'pakku')",2
-Fire,"('bumi', 'sokka')",2
-Fire,"('bumi', 'katara')",1
-Fire,"('jeong jeong', 'toph')",1
-Fire,"('jeong jeong', 'pakku')",1
-Fire,"('jeong jeong', 'sokka')",1
 Fire,"('jeong jeong', 'katara')",1
-Fire,"('pakku', 'toph')",1
-Fire,"('pakku', 'sokka')",1
+Fire,"('bumi', 'katara')",1
 Fire,"('katara', 'pakku')",1
+Fire,"('jeong jeong', 'toph')",1
+Fire,"('bumi', 'toph')",1
+Fire,"('pakku', 'toph')",1
+Fire,"('piandao', 'toph')",1
+Fire,"('jeong jeong', 'suki')",1
+Fire,"('bumi', 'suki')",2
+Fire,"('pakku', 'suki')",1
+Fire,"('piandao', 'suki')",1
+Fire,"('bumi', 'jeong jeong')",1
+Fire,"('jeong jeong', 'pakku')",1
+Fire,"('jeong jeong', 'piandao')",1
+Fire,"('jeong jeong', 'zuko')",1
+Fire,"('jeong jeong', 'sokka')",1
+Fire,"('bumi', 'pakku')",2
+Fire,"('bumi', 'piandao')",2
+Fire,"('bumi', 'zuko')",2
+Fire,"('bumi', 'sokka')",2
+Fire,"('pakku', 'piandao')",1
+Fire,"('pakku', 'zuko')",1
+Fire,"('pakku', 'sokka')",1
+Fire,"('piandao', 'zuko')",2
 Fire,"('aang', 'kyoshi')",1
 Fire,"('aang', 'yangchen')",1
-Fire,"('iroh', 'sokka')",2
-Fire,"('iroh', 'toph')",2
-Fire,"('iroh', 'suki')",2
 Fire,"('iroh', 'katara')",3
+Fire,"('iroh', 'suki')",2
+Fire,"('iroh', 'toph')",2
+Fire,"('iroh', 'sokka')",2
 Fire,"('aang', 'lion turtle')",1
 Fire,"('azula', 'banished servant')",1
 Fire,"('azula', 'head of dai li')",1
@@ -742,13 +742,13 @@ Fire,"('bumi', 'iroh')",1
 Fire,"('iroh', 'pakku')",1
 Fire,"('azula', 'ursa')",1
 Fire,"('ozai', 'suki')",1
-Fire,"('suki', 'ty lee')",1
 Fire,"('sokka', 'ty lee')",1
-Fire,"('mai', 'suki')",1
-Fire,"('iroh', 'mai')",1
-Fire,"('mai', 'toph')",1
-Fire,"('mai', 'sokka')",1
+Fire,"('suki', 'ty lee')",1
 Fire,"('katara', 'mai')",1
+Fire,"('mai', 'suki')",1
+Fire,"('mai', 'toph')",1
+Fire,"('iroh', 'mai')",1
+Fire,"('mai', 'sokka')",1
 Water,"('katara', 'sokka')",168
 Water,"('iroh', 'zuko')",50
 Water,"('aang', 'katara')",204
@@ -769,12 +769,12 @@ Water,"('iroh', 'zhao')",14
 Water,"('soldier', 'zhao')",1
 Water,"('aang', 'gyatso')",6
 Water,"('sokka', 'suki')",9
-Water,"('oyaji', 'sokka')",2
-Water,"('aang', 'oyaji')",5
-Water,"('oyaji', 'suki')",2
-Water,"('katara', 'oyaji')",2
 Water,"('aang', 'suki')",2
+Water,"('aang', 'oyaji')",5
 Water,"('katara', 'suki')",1
+Water,"('katara', 'oyaji')",2
+Water,"('oyaji', 'suki')",2
+Water,"('oyaji', 'sokka')",2
 Water,"('fisherman', 'little girl')",1
 Water,"('fangirls', 'koko')",1
 Water,"('aang', 'koko')",2
@@ -789,25 +789,25 @@ Water,"('bumi', 'sokka')",5
 Water,"('chamberlain', 'sokka')",1
 Water,"('bumi', 'chamberlain')",1
 Water,"('aang', 'guard')",2
-Water,"('aang', ""haru's mother"")",1
-Water,"('haru', ""haru's mother"")",3
 Water,"(""haru's mother"", 'katara')",2
-Water,"('aang', 'haru')",2
 Water,"('haru', 'katara')",8
+Water,"('haru', ""haru's mother"")",3
+Water,"('aang', ""haru's mother"")",1
+Water,"('aang', 'haru')",2
 Water,"(""haru's mother"", 'sokka')",2
-Water,"(""haru's mother"", 'tax collector')",3
 Water,"('sokka', 'tax collector')",2
+Water,"(""haru's mother"", 'tax collector')",3
+Water,"('katara', 'tax collector')",1
 Water,"('haru', 'tax collector')",1
 Water,"('haru', 'sokka')",1
-Water,"('katara', 'tax collector')",1
 Water,"('haru', 'old man')",2
 Water,"('katara', 'old man')",1
 Water,"('guard', 'sokka')",4
-Water,"('prisoner', 'tyro')",1
-Water,"('haru', 'prisoner')",1
+Water,"('katara', 'tyro')",2
 Water,"('katara', 'prisoner')",1
 Water,"('haru', 'tyro')",2
-Water,"('katara', 'tyro')",2
+Water,"('haru', 'prisoner')",1
+Water,"('prisoner', 'tyro')",1
 Water,"('captain', 'sokka')",3
 Water,"('aang', 'captain')",3
 Water,"('captain', 'katara')",2
@@ -816,61 +816,61 @@ Water,"('guard', 'warden')",2
 Water,"('captain', 'guard')",1
 Water,"('guard', 'katara')",1
 Water,"('sokka', 'warden')",1
-Water,"('tyro', 'warden')",4
 Water,"('sokka', 'tyro')",1
+Water,"('tyro', 'warden')",4
 Water,"('aang', 'warden')",1
 Water,"('aang', 'tyro')",1
 Water,"('old wanderer', 'sokka')",4
-Water,"('aang', 'old wanderer')",4
-Water,"('old wanderer', 'senlin village leader')",2
-Water,"('katara', 'old wanderer')",3
 Water,"('aang', 'senlin village leader')",5
-Water,"('senlin village leader', 'sokka')",5
+Water,"('aang', 'old wanderer')",4
 Water,"('katara', 'senlin village leader')",5
+Water,"('katara', 'old wanderer')",3
+Water,"('old wanderer', 'senlin village leader')",2
+Water,"('senlin village leader', 'sokka')",5
 Water,"('earthbender captain', 'soldier')",2
 Water,"('fire nation soldier', 'zuko')",1
 Water,"('earthbender captain', 'iroh')",3
 Water,"('earthbender captain', 'zuko')",1
-Water,"('sokka', 'zuko')",8
 Water,"('aang', 'iroh')",7
-Water,"('iroh', 'sokka')",7
 Water,"('iroh', 'katara')",6
-Water,"('captain', 'zuko')",3
-Water,"('captain', 'zhao')",3
+Water,"('iroh', 'sokka')",7
+Water,"('sokka', 'zuko')",8
 Water,"('aang', 'zhao')",13
-Water,"('sokka', 'zhao')",5
 Water,"('katara', 'zhao')",3
+Water,"('captain', 'zhao')",3
 Water,"('captain', 'iroh')",3
-Water,"('engineer', 'zhao')",1
+Water,"('captain', 'zuko')",3
+Water,"('sokka', 'zhao')",5
 Water,"('engineer', 'zuko')",1
+Water,"('engineer', 'zhao')",1
 Water,"('great fire sage', 'sokka')",4
 Water,"('aang', 'great fire sage')",6
 Water,"('great fire sage', 'katara')",2
-Water,"('great fire sage', 'shyu')",4
-Water,"('shyu', 'sokka')",6
 Water,"('aang', 'shyu')",7
-Water,"('shyu', 'zuko')",3
-Water,"('iroh', 'shyu')",1
+Water,"('shyu', 'sokka')",6
+Water,"('great fire sage', 'shyu')",4
 Water,"('katara', 'shyu')",6
+Water,"('iroh', 'shyu')",1
+Water,"('shyu', 'zuko')",3
 Water,"('great fire sage', 'zuko')",2
-Water,"('roku', 'zuko')",1
-Water,"('great fire sage', 'roku')",1
-Water,"('great fire sage', 'zhao')",2
-Water,"('roku', 'zhao')",2
 Water,"('aang', 'roku')",6
-Water,"('roku', 'shyu')",1
+Water,"('great fire sage', 'zhao')",2
 Water,"('shyu', 'zhao')",1
-Water,"('roku', 'sokka')",1
+Water,"('roku', 'zhao')",2
+Water,"('great fire sage', 'roku')",1
+Water,"('roku', 'shyu')",1
+Water,"('roku', 'zuko')",1
 Water,"('katara', 'roku')",1
+Water,"('roku', 'sokka')",1
 Water,"('aang', 'oh')",5
 Water,"('aang', 'pirate captain')",5
-Water,"('pirate captain', 'sokka')",3
 Water,"('katara', 'pirate captain')",4
-Water,"('oh', 'pirate captain')",2
-Water,"('oh', 'sokka')",2
 Water,"('katara', 'oh')",4
-Water,"('oh', 'pirate')",1
+Water,"('oh', 'pirate captain')",2
+Water,"('pirate captain', 'sokka')",3
+Water,"('oh', 'sokka')",2
 Water,"('aang', 'pirate')",2
+Water,"('oh', 'pirate')",1
 Water,"('katara', 'pirate')",1
 Water,"('oh', 'zuko')",2
 Water,"('iroh', 'oh')",1
@@ -882,72 +882,72 @@ Water,"('aang', 'eye-patch soldier')",1
 Water,"('eye-patch soldier', 'katara')",1
 Water,"('jet', 'sokka')",13
 Water,"('jet', 'katara')",14
-Water,"('pipsqueak', 'sokka')",3
-Water,"('jet', 'pipsqueak')",3
-Water,"('aang', 'pipsqueak')",3
 Water,"('aang', 'jet')",12
+Water,"('aang', 'pipsqueak')",3
+Water,"('jet', 'pipsqueak')",3
+Water,"('pipsqueak', 'sokka')",3
 Water,"('aang', 'the duke')",1
-Water,"('jet', 'the duke')",2
-Water,"('pipsqueak', 'the duke')",1
 Water,"('katara', 'the duke')",1
+Water,"('pipsqueak', 'the duke')",1
+Water,"('jet', 'the duke')",2
 Water,"('katara', 'pipsqueak')",2
 Water,"('aang', 'smellerbee')",1
-Water,"('jet', 'smellerbee')",2
-Water,"('pipsqueak', 'smellerbee')",2
-Water,"('smellerbee', 'sokka')",3
 Water,"('katara', 'smellerbee')",1
+Water,"('pipsqueak', 'smellerbee')",2
+Water,"('jet', 'smellerbee')",2
+Water,"('smellerbee', 'sokka')",3
 Water,"('jet', 'old fire nation civilian')",2
+Water,"('katara', 'little girl')",1
 Water,"('jet', 'little girl')",1
 Water,"('little girl', 'sokka')",1
-Water,"('katara', 'little girl')",1
-Water,"('gan jin tribesman', 'sokka')",2
 Water,"('aang', 'gan jin tribesman')",2
+Water,"('gan jin tribesman', 'sokka')",2
 Water,"('gan jin tribesman', 'katara')",3
-Water,"('canyon guide', 'gan jin tribesman')",2
+Water,"('katara', 'zhang leader')",4
 Water,"('canyon guide', 'katara')",6
 Water,"('canyon guide', 'zhang leader')",5
 Water,"('gan jin tribesman', 'zhang leader')",2
-Water,"('katara', 'zhang leader')",4
+Water,"('canyon guide', 'gan jin tribesman')",2
+Water,"('gan jin leader', 'katara')",4
 Water,"('aang', 'canyon guide')",8
+Water,"('aang', 'gan jin leader')",7
+Water,"('aang', 'zhang leader')",7
 Water,"('canyon guide', 'gan jin leader')",3
 Water,"('canyon guide', 'sokka')",6
-Water,"('aang', 'zhang leader')",7
 Water,"('gan jin leader', 'zhang leader')",5
-Water,"('sokka', 'zhang leader')",6
 Water,"('gan jin leader', 'gan jin tribesman')",1
-Water,"('aang', 'gan jin leader')",7
 Water,"('gan jin leader', 'sokka')",3
-Water,"('gan jin leader', 'katara')",4
-Water,"('gan jin leader', 'gan jin man')",1
+Water,"('sokka', 'zhang leader')",6
 Water,"('aang', 'gan jin man')",1
 Water,"('gan jin man', 'zhang leader')",1
+Water,"('gan jin leader', 'gan jin man')",1
 Water,"('gyatso', 'katara')",1
+Water,"('katara', 'merchant woman')",1
+Water,"('katara', 'shopkeeper')",1
 Water,"('merchant woman', 'shopkeeper')",1
 Water,"('aang', 'merchant woman')",1
-Water,"('katara', 'merchant woman')",1
 Water,"('aang', 'shopkeeper')",1
-Water,"('katara', 'shopkeeper')",1
+Water,"('aang', ""fisherman's wife"")",4
+Water,"('aang', 'fisherman')",4
 Water,"(""fisherman's wife"", 'sokka')",3
 Water,"('fisherman', ""fisherman's wife"")",3
-Water,"('aang', ""fisherman's wife"")",4
 Water,"('fisherman', 'sokka')",6
-Water,"('aang', 'fisherman')",4
-Water,"('jee', 'zuko')",3
-Water,"('lieutenant jee', 'zuko')",1
-Water,"('iroh', 'jee')",7
-Water,"('iroh', 'lieutenant jee')",1
 Water,"('jee', 'lieutenant jee')",1
-Water,"(""fisherman's wife"", 'katara')",2
+Water,"('lieutenant jee', 'zuko')",1
+Water,"('iroh', 'lieutenant jee')",1
+Water,"('jee', 'zuko')",3
+Water,"('iroh', 'jee')",7
 Water,"('fisherman', 'katara')",3
+Water,"(""fisherman's wife"", 'katara')",2
 Water,"('aang', 'air nomad boy #2')",2
-Water,"('air nomad boy #1', 'air nomad boy #2')",2
 Water,"('aang', 'air nomad boy #1')",2
+Water,"('air nomad boy #1', 'air nomad boy #2')",2
 Water,"('aang', 'tashi')",2
+Water,"('gyatso', 'tashi')",3
 Water,"('gyatso', 'pasang')",2
 Water,"('pasang', 'tashi')",2
-Water,"('gyatso', 'tashi')",3
-Water,"('bujing', 'zuko')",1
 Water,"('elder soldier', 'zuko')",1
+Water,"('bujing', 'zuko')",1
 Water,"('bujing', 'elder soldier')",1
 Water,"('ozai', 'zuko')",2
 Water,"('shinu', 'zhao')",2
@@ -957,71 +957,71 @@ Water,"('scout #1', 'scout #2')",1
 Water,"('aang', 'herbalist')",3
 Water,"('officer', 'zhao')",2
 Water,"('aang', 'calm man')",5
-Water,"('calm man', 'sokka')",5
 Water,"('calm man', 'katara')",5
+Water,"('calm man', 'sokka')",5
 Water,"('katara', 'strange man')",1
 Water,"('meng', 'sokka')",2
 Water,"('aang', 'meng')",6
 Water,"('katara', 'meng')",3
-Water,"('aang', 'woman')",1
 Water,"('meng', 'woman')",1
+Water,"('aang', 'woman')",1
 Water,"('katara', 'wu')",5
 Water,"('sokka', 'wu')",3
 Water,"('aang', 'wu')",6
-Water,"('calm man', 'village woman')",2
+Water,"('katara', 'village woman')",2
 Water,"('aang', 'village woman')",2
 Water,"('sokka', 'village woman')",2
-Water,"('katara', 'village woman')",2
-Water,"('poi', 'wu')",1
-Water,"('farmer', 'wu')",1
-Water,"('ping', 'wu')",1
-Water,"('farmer', 'poi')",1
-Water,"('ping', 'poi')",2
+Water,"('calm man', 'village woman')",2
 Water,"('farmer', 'ping')",1
+Water,"('ping', 'wu')",1
+Water,"('ping', 'poi')",2
+Water,"('farmer', 'wu')",1
+Water,"('farmer', 'poi')",1
+Water,"('poi', 'wu')",1
 Water,"('man', 'sokka')",1
 Water,"('aang', 'man')",1
 Water,"('man with red shoes', 'sokka')",1
-Water,"('poi', 'sokka')",1
 Water,"('ping', 'sokka')",1
+Water,"('poi', 'sokka')",1
 Water,"('calm man', 'wu')",1
-Water,"('firebenders', 'june')",1
-Water,"('firebenders', 'zuko')",1
 Water,"('june', 'zuko')",10
+Water,"('firebenders', 'zuko')",1
+Water,"('firebenders', 'june')",1
 Water,"('iroh', 'june')",2
 Water,"('hakoda', 'sokka')",1
 Water,"('bato', 'sokka')",13
 Water,"('aang', 'bato')",6
 Water,"('bato', 'katara')",11
-Water,"('mother superior', 'sokka')",2
 Water,"('aang', 'mother superior')",4
 Water,"('bato', 'mother superior')",1
+Water,"('mother superior', 'sokka')",2
 Water,"('aang', 'messenger')",1
 Water,"('herbalist', 'june')",1
 Water,"('herbalist', 'zuko')",1
 Water,"('aunt wu', 'iroh')",1
 Water,"('june', 'sokka')",1
 Water,"('june', 'katara')",1
-Water,"('mask dealer', 'sokka')",1
 Water,"('katara', 'mask dealer')",1
-Water,"('shop keeper', 'sokka')",1
+Water,"('mask dealer', 'sokka')",1
 Water,"('aang', 'shop keeper')",1
+Water,"('shop keeper', 'sokka')",1
 Water,"('aang', 'malu')",1
-Water,"('fire nation kids', 'malu')",1
-Water,"('malu', 'puppet fire lord')",1
-Water,"('malu', 'sokka')",1
-Water,"('katara', 'malu')",1
 Water,"('aang', 'fire nation kids')",1
 Water,"('aang', 'puppet fire lord')",1
-Water,"('fire nation kids', 'puppet fire lord')",1
-Water,"('fire nation kids', 'sokka')",1
+Water,"('katara', 'malu')",1
 Water,"('fire nation kids', 'katara')",1
-Water,"('puppet fire lord', 'sokka')",1
 Water,"('katara', 'puppet fire lord')",1
+Water,"('fire nation kids', 'malu')",1
+Water,"('malu', 'sokka')",1
+Water,"('malu', 'puppet fire lord')",1
+Water,"('fire nation kids', 'sokka')",1
+Water,"('fire nation kids', 'puppet fire lord')",1
+Water,"('puppet fire lord', 'sokka')",1
 Water,"('citizen', 'sokka')",1
 Water,"('chey', 'sokka')",7
 Water,"('citizen', 'guard')",1
-Water,"('chey', 'citizen')",1
 Water,"('chey', 'guard')",2
+Water,"('chey', 'citizen')",1
 Water,"('aang', 'chey')",6
 Water,"('chey', 'katara')",2
 Water,"('lin yee', 'sokka')",1
@@ -1031,10 +1031,10 @@ Water,"('guard captain', 'zhao')",1
 Water,"('aang', 'jeong jeong')",9
 Water,"('jeong jeong', 'roku')",1
 Water,"('jeong jeong', 'sokka')",2
-Water,"('jeong jeong', 'katara')",2
-Water,"('jeong jeong', 'tribal man')",1
 Water,"('aang', 'tribal man')",1
+Water,"('jeong jeong', 'tribal man')",1
 Water,"('katara', 'tribal man')",1
+Water,"('jeong jeong', 'katara')",2
 Water,"('jeong jeong', 'zhao')",1
 Water,"('aang', 'storyteller')",4
 Water,"('katara', 'storyteller')",1
@@ -1046,13 +1046,13 @@ Water,"('katara', 'teo')",10
 Water,"('aang', 'mechanist')",7
 Water,"('mechanist', 'teo')",5
 Water,"('mechanist', 'sokka')",11
-Water,"('qin', 'teo')",1
-Water,"('mechanist', 'qin')",2
 Water,"('aang', 'qin')",2
+Water,"('mechanist', 'qin')",2
+Water,"('qin', 'teo')",1
 Water,"('katara', 'mechanist')",2
+Water,"('girl', 'katara')",1
 Water,"('girl', 'teo')",1
 Water,"('aang', 'girl')",1
-Water,"('girl', 'katara')",1
 Water,"('li', 'zhao')",1
 Water,"('arnook', 'yue')",1
 Water,"('sokka', 'yue')",14

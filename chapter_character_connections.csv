@@ -1,7 +1,7 @@
 book,chapter,pair,count
 Earth,Appa's Lost Days,"('ghashiun', 'toph')",1
-Earth,Appa's Lost Days,"('ghashiun', 'sandbender #2')",1
 Earth,Appa's Lost Days,"('ghashiun', 'sandbender #1')",1
+Earth,Appa's Lost Days,"('ghashiun', 'sandbender #2')",1
 Earth,Appa's Lost Days,"('sandbender #1', 'sandbender #2')",1
 Earth,Appa's Lost Days,"('ghashiun', 'merchant #1')",1
 Earth,Appa's Lost Days,"('merchant #1', 'merchant #2')",3
@@ -13,77 +13,77 @@ Earth,Appa's Lost Days,"('fire nation man', 'unnamed fire nation boy')",1
 Earth,Appa's Lost Days,"('trainer', 'unnamed fire nation boy')",1
 Earth,Appa's Lost Days,"('iroh', 'zuko')",1
 Earth,Appa's Lost Days,"('kyoshi warrior #1', 'suki')",2
-Earth,Appa's Lost Days,"('azula', 'suki')",2
 Earth,Appa's Lost Days,"('azula', 'mai')",1
 Earth,Appa's Lost Days,"('azula', 'ty lee')",1
+Earth,Appa's Lost Days,"('azula', 'suki')",2
+Earth,Appa's Lost Days,"('mai', 'ty lee')",1
 Earth,Appa's Lost Days,"('mai', 'suki')",1
 Earth,Appa's Lost Days,"('suki', 'ty lee')",1
-Earth,Appa's Lost Days,"('mai', 'ty lee')",1
 Earth,Appa's Lost Days,"('kyoshi warrior #2', 'mai')",1
 Earth,Avatar Day,"('aang', 'katara')",7
 Earth,Avatar Day,"('katara', 'sokka')",10
 Earth,Avatar Day,"('merchant', 'sokka')",1
-Earth,Avatar Day,"('aang', 'merchant')",1
 Earth,Avatar Day,"('katara', 'merchant')",1
+Earth,Avatar Day,"('aang', 'merchant')",1
 Earth,Avatar Day,"('aang', 'sokka')",4
 Earth,Avatar Day,"('iroh', 'zuko')",3
-Earth,Avatar Day,"('tong', 'villager')",1
 Earth,Avatar Day,"('aang', 'villager')",1
 Earth,Avatar Day,"('aang', 'tong')",7
-Earth,Avatar Day,"('tong', 'villager #2')",1
+Earth,Avatar Day,"('tong', 'villager')",1
 Earth,Avatar Day,"('aang', 'villager #2')",1
+Earth,Avatar Day,"('tong', 'villager #2')",1
 Earth,Avatar Day,"('aang', 'villager #3')",1
 Earth,Avatar Day,"('katara', 'villager #3')",2
 Earth,Avatar Day,"('katara', 'koko')",1
-Earth,Avatar Day,"('oyaji', 'sokka')",4
 Earth,Avatar Day,"('katara', 'oyaji')",5
-Earth,Avatar Day,"('prisoner #2', 'sensitive ruffian')",1
-Earth,Avatar Day,"('aang', 'prisoner #2')",1
-Earth,Avatar Day,"('prisoner #2', 'scary prisoner')",1
+Earth,Avatar Day,"('oyaji', 'sokka')",4
 Earth,Avatar Day,"('aang', 'sensitive ruffian')",2
-Earth,Avatar Day,"('scary prisoner', 'sensitive ruffian')",2
+Earth,Avatar Day,"('aang', 'prisoner #2')",1
 Earth,Avatar Day,"('aang', 'scary prisoner')",2
+Earth,Avatar Day,"('prisoner #2', 'sensitive ruffian')",1
+Earth,Avatar Day,"('scary prisoner', 'sensitive ruffian')",2
+Earth,Avatar Day,"('prisoner #2', 'scary prisoner')",1
 Earth,Avatar Day,"('guard', 'sokka')",1
 Earth,Avatar Day,"('aang', 'guard')",1
 Earth,Avatar Day,"('katara', 'tong')",3
 Earth,Avatar Day,"('sokka', 'tong')",2
+Earth,Avatar Day,"('katara', 'villager')",1
+Earth,Avatar Day,"('katara', 'villager #2')",1
 Earth,Avatar Day,"('villager', 'villager #3')",1
 Earth,Avatar Day,"('villager', 'villager #2')",1
-Earth,Avatar Day,"('katara', 'villager')",1
 Earth,Avatar Day,"('villager #2', 'villager #3')",1
-Earth,Avatar Day,"('katara', 'villager #2')",1
 Earth,Avatar Day,"('mongke', 'villager')",1
 Earth,Bitter Work,"('aang', 'katara')",7
 Earth,Bitter Work,"('aang', 'toph')",10
-Earth,Bitter Work,"('sokka', 'toph')",4
 Earth,Bitter Work,"('aang', 'sokka')",7
+Earth,Bitter Work,"('sokka', 'toph')",4
 Earth,Bitter Work,"('iroh', 'zuko')",5
 Earth,Bitter Work,"('katara', 'toph')",6
 Earth,Bitter Work,"('katara', 'sokka')",1
-Earth,City of Walls and Secrets,"('sokka', 'toph')",7
 Earth,City of Walls and Secrets,"('katara', 'sokka')",6
 Earth,City of Walls and Secrets,"('katara', 'toph')",4
-Earth,City of Walls and Secrets,"('aang', 'sokka')",11
+Earth,City of Walls and Secrets,"('sokka', 'toph')",7
 Earth,City of Walls and Secrets,"('aang', 'katara')",5
+Earth,City of Walls and Secrets,"('aang', 'sokka')",11
 Earth,City of Walls and Secrets,"('joo dee', 'sokka')",6
 Earth,City of Walls and Secrets,"('joo dee', 'katara')",2
 Earth,City of Walls and Secrets,"('aang', 'joo dee')",3
 Earth,City of Walls and Secrets,"('iroh', 'zuko')",4
 Earth,City of Walls and Secrets,"('jet', 'smellerbee')",3
-Earth,City of Walls and Secrets,"('joo dee', 'toph')",1
 Earth,City of Walls and Secrets,"('aang', 'toph')",4
-Earth,City of Walls and Secrets,"('pet store owner', 'sokka')",1
+Earth,City of Walls and Secrets,"('joo dee', 'toph')",1
 Earth,City of Walls and Secrets,"('aang', 'pet store owner')",1
+Earth,City of Walls and Secrets,"('pet store owner', 'sokka')",1
 Earth,City of Walls and Secrets,"('sokka', 'university student')",1
 Earth,City of Walls and Secrets,"('aang', 'pong')",1
-Earth,City of Walls and Secrets,"('pong', 'toph')",1
 Earth,City of Walls and Secrets,"('katara', 'pong')",1
+Earth,City of Walls and Secrets,"('pong', 'toph')",1
 Earth,City of Walls and Secrets,"('pong', 'sokka')",1
 Earth,City of Walls and Secrets,"('jet', 'zuko')",1
 Earth,City of Walls and Secrets,"('iroh', 'jet')",2
 Earth,City of Walls and Secrets,"('customer', 'pao')",2
-Earth,City of Walls and Secrets,"('iroh', 'pao')",2
 Earth,City of Walls and Secrets,"('customer', 'iroh')",2
+Earth,City of Walls and Secrets,"('iroh', 'pao')",2
 Earth,City of Walls and Secrets,"('customer', 'jet')",2
 Earth,City of Walls and Secrets,"('guard', 'toph')",2
 Earth,City of Walls and Secrets,"('katara', 'long feng')",4
@@ -92,79 +92,79 @@ Earth,City of Walls and Secrets,"('aang', 'guest')",1
 Earth,City of Walls and Secrets,"('jet', 'pao')",1
 Earth,City of Walls and Secrets,"('long feng', 'sokka')",2
 Earth,City of Walls and Secrets,"('aang', 'long feng')",2
-Earth,City of Walls and Secrets,"('jet', 'toph')",1
+Earth,City of Walls and Secrets,"('jet', 'katara')",1
 Earth,City of Walls and Secrets,"('long feng', 'toph')",1
+Earth,City of Walls and Secrets,"('jet', 'toph')",1
 Earth,City of Walls and Secrets,"('jet', 'long feng')",1
 Earth,City of Walls and Secrets,"('jet', 'sokka')",1
-Earth,City of Walls and Secrets,"('jet', 'katara')",1
 Earth,City of Walls and Secrets,"('dai li agent', 'jet')",1
 Earth,City of Walls and Secrets,"('joo dee replacement', 'katara')",1
-Earth,Lake Laogai,"('sokka', 'toph')",8
-Earth,Lake Laogai,"('aang', 'sokka')",9
-Earth,Lake Laogai,"('katara', 'sokka')",6
-Earth,Lake Laogai,"('aang', 'toph')",5
 Earth,Lake Laogai,"('katara', 'toph')",6
+Earth,Lake Laogai,"('katara', 'sokka')",6
 Earth,Lake Laogai,"('aang', 'katara')",6
+Earth,Lake Laogai,"('sokka', 'toph')",8
+Earth,Lake Laogai,"('aang', 'toph')",5
+Earth,Lake Laogai,"('aang', 'sokka')",9
 Earth,Lake Laogai,"('iroh', 'pao')",1
 Earth,Lake Laogai,"('pao', 'quon')",1
 Earth,Lake Laogai,"('iroh', 'quon')",2
 Earth,Lake Laogai,"('iroh', 'zuko')",3
 Earth,Lake Laogai,"('quon', 'zuko')",1
 Earth,Lake Laogai,"('aang', 'joo dee')",1
+Earth,Lake Laogai,"('joo dee', 'katara')",1
 Earth,Lake Laogai,"('joo dee', 'toph')",1
 Earth,Lake Laogai,"('joo dee', 'sokka')",1
-Earth,Lake Laogai,"('joo dee', 'katara')",1
-Earth,Lake Laogai,"('dai li agent', 'joo dee')",1
 Earth,Lake Laogai,"('dai li agent', 'long feng')",1
+Earth,Lake Laogai,"('dai li agent', 'joo dee')",1
 Earth,Lake Laogai,"('joo dee', 'long feng')",1
 Earth,Lake Laogai,"('jet', 'katara')",7
 Earth,Lake Laogai,"('aang', 'jet')",5
 Earth,Lake Laogai,"('jet', 'toph')",5
 Earth,Lake Laogai,"('jet', 'sokka')",6
 Earth,Lake Laogai,"('aang', 'old sweepy')",1
+Earth,Lake Laogai,"('katara', 'old sweepy')",1
 Earth,Lake Laogai,"('old sweepy', 'toph')",1
 Earth,Lake Laogai,"('jet', 'old sweepy')",1
 Earth,Lake Laogai,"('old sweepy', 'sokka')",1
-Earth,Lake Laogai,"('katara', 'old sweepy')",1
+Earth,Lake Laogai,"('katara', 'smellerbee')",3
 Earth,Lake Laogai,"('smellerbee', 'toph')",2
 Earth,Lake Laogai,"('jet', 'smellerbee')",2
 Earth,Lake Laogai,"('smellerbee', 'sokka')",1
-Earth,Lake Laogai,"('katara', 'smellerbee')",3
 Earth,Lake Laogai,"('brainwasher', 'joo dees')",1
 Earth,Lake Laogai,"('jet', 'joo dees')",1
 Earth,Lake Laogai,"('brainwasher', 'jet')",1
 Earth,Lake Laogai,"('long feng', 'sokka')",1
-Earth,Lake Laogai,"('jet', 'long feng')",2
 Earth,Lake Laogai,"('aang', 'long feng')",4
-Earth,Lake Laogai,"('longshot', 'smellerbee')",1
+Earth,Lake Laogai,"('jet', 'long feng')",2
 Earth,Lake Laogai,"('katara', 'longshot')",1
+Earth,Lake Laogai,"('longshot', 'smellerbee')",1
 Earth,Return to Omashu,"('aang', 'sokka')",5
-Earth,Return to Omashu,"('katara', 'sokka')",5
 Earth,Return to Omashu,"('aang', 'katara')",3
+Earth,Return to Omashu,"('katara', 'sokka')",5
 Earth,Return to Omashu,"('guard one', 'katara')",2
-Earth,Return to Omashu,"('guard two', 'sokka')",1
-Earth,Return to Omashu,"('guard one', 'sokka')",1
-Earth,Return to Omashu,"('guard one', 'guard two')",1
 Earth,Return to Omashu,"('guard two', 'katara')",1
+Earth,Return to Omashu,"('guard two', 'sokka')",1
+Earth,Return to Omashu,"('guard one', 'guard two')",1
+Earth,Return to Omashu,"('guard one', 'sokka')",1
 Earth,Return to Omashu,"('azula', 'li')",1
-Earth,Return to Omashu,"('li', 'lo')",1
 Earth,Return to Omashu,"('azula', 'lo')",1
+Earth,Return to Omashu,"('li', 'lo')",1
 Earth,Return to Omashu,"('azula', 'ty lee')",4
-Earth,Return to Omashu,"('resistance fighter #1', 'resistance fighter #2')",1
-Earth,Return to Omashu,"('resistance fighter #1', 'yung')",1
 Earth,Return to Omashu,"('aang', 'resistance fighter #1')",1
-Earth,Return to Omashu,"('resistance fighter #2', 'yung')",1
 Earth,Return to Omashu,"('aang', 'resistance fighter #2')",1
 Earth,Return to Omashu,"('aang', 'yung')",1
+Earth,Return to Omashu,"('resistance fighter #1', 'resistance fighter #2')",1
+Earth,Return to Omashu,"('resistance fighter #1', 'yung')",1
+Earth,Return to Omashu,"('resistance fighter #2', 'yung')",1
 Earth,Return to Omashu,"('old man', 'sokka')",1
-Earth,Return to Omashu,"('michi', 'ukano')",1
 Earth,Return to Omashu,"('guard', 'ukano')",1
+Earth,Return to Omashu,"('michi', 'ukano')",1
 Earth,Return to Omashu,"('guard', 'michi')",1
 Earth,Return to Omashu,"('mai', 'michi')",1
 Earth,Return to Omashu,"('azula', 'shuzumu')",3
 Earth,Return to Omashu,"('katara', 'yung')",1
-Earth,Return to Omashu,"('azula', 'mai')",3
 Earth,Return to Omashu,"('mai', 'ty lee')",2
+Earth,Return to Omashu,"('azula', 'mai')",3
 Earth,Return to Omashu,"('azula', 'ukano')",1
 Earth,Return to Omashu,"('aang', 'azula')",1
 Earth,Return to Omashu,"('aang', 'mai')",1
@@ -172,18 +172,18 @@ Earth,Return to Omashu,"('azula', 'bumi')",1
 Earth,Return to Omashu,"('bumi', 'mai')",1
 Earth,Return to Omashu,"('aang', 'bumi')",6
 Earth,The Avatar State,"('aang', 'katara')",7
-Earth,The Avatar State,"('aang', 'pakku')",1
 Earth,The Avatar State,"('katara', 'pakku')",1
+Earth,The Avatar State,"('aang', 'pakku')",1
 Earth,The Avatar State,"('iroh', 'zuko')",4
 Earth,The Avatar State,"('azula', 'captain')",2
 Earth,The Avatar State,"('fong', 'katara')",3
 Earth,The Avatar State,"('aang', 'sokka')",5
+Earth,The Avatar State,"('aang', 'fong')",7
 Earth,The Avatar State,"('fong', 'sokka')",1
 Earth,The Avatar State,"('katara', 'sokka')",3
-Earth,The Avatar State,"('aang', 'fong')",7
 Earth,The Avatar State,"('azula', 'li')",1
-Earth,The Avatar State,"('li', 'lo')",1
 Earth,The Avatar State,"('azula', 'lo')",1
+Earth,The Avatar State,"('li', 'lo')",1
 Earth,The Avatar State,"('aang', 'soldier')",1
 Earth,The Avatar State,"('aang', 'oracle')",1
 Earth,The Avatar State,"('azula', 'zuko')",3
@@ -192,77 +192,77 @@ Earth,The Avatar State,"('captain', 'zuko')",1
 Earth,The Avatar State,"('aang', 'roku')",1
 Earth,The Avatar State,"('katara', 'soldier')",1
 Earth,The Blind Bandit,"('katara', 'sokka')",9
-Earth,The Blind Bandit,"('male student', 'male student #2')",2
-Earth,The Blind Bandit,"('aang', 'male student #2')",2
 Earth,The Blind Bandit,"('aang', 'male student')",3
+Earth,The Blind Bandit,"('aang', 'male student #2')",2
+Earth,The Blind Bandit,"('male student', 'male student #2')",2
 Earth,The Blind Bandit,"('aang', 'katara')",9
-Earth,The Blind Bandit,"('the boulder', 'xin fu')",2
-Earth,The Blind Bandit,"('the hippo', 'xin fu')",1
-Earth,The Blind Bandit,"('sokka', 'xin fu')",2
-Earth,The Blind Bandit,"('katara', 'xin fu')",4
-Earth,The Blind Bandit,"('the boulder', 'the hippo')",1
-Earth,The Blind Bandit,"('sokka', 'the boulder')",1
 Earth,The Blind Bandit,"('katara', 'the boulder')",1
-Earth,The Blind Bandit,"('sokka', 'the hippo')",1
+Earth,The Blind Bandit,"('katara', 'xin fu')",4
 Earth,The Blind Bandit,"('katara', 'the hippo')",1
+Earth,The Blind Bandit,"('the boulder', 'xin fu')",2
+Earth,The Blind Bandit,"('sokka', 'the boulder')",1
+Earth,The Blind Bandit,"('the boulder', 'the hippo')",1
+Earth,The Blind Bandit,"('sokka', 'xin fu')",2
+Earth,The Blind Bandit,"('the hippo', 'xin fu')",1
+Earth,The Blind Bandit,"('sokka', 'the hippo')",1
 Earth,The Blind Bandit,"('aang', 'xin fu')",3
 Earth,The Blind Bandit,"('aang', 'sokka')",7
 Earth,The Blind Bandit,"('the boulder', 'toph')",2
-Earth,The Blind Bandit,"('sokka', 'toph')",5
 Earth,The Blind Bandit,"('audience', 'sokka')",1
-Earth,The Blind Bandit,"('aang', 'toph')",9
+Earth,The Blind Bandit,"('sokka', 'toph')",5
 Earth,The Blind Bandit,"('audience', 'toph')",1
 Earth,The Blind Bandit,"('aang', 'audience')",1
-Earth,The Blind Bandit,"('male student #2', 'sokka')",1
+Earth,The Blind Bandit,"('aang', 'toph')",9
+Earth,The Blind Bandit,"('katara', 'male student')",1
 Earth,The Blind Bandit,"('katara', 'male student #2')",1
 Earth,The Blind Bandit,"('male student', 'sokka')",1
-Earth,The Blind Bandit,"('katara', 'male student')",1
+Earth,The Blind Bandit,"('male student #2', 'sokka')",1
 Earth,The Blind Bandit,"('katara', 'toph')",2
 Earth,The Blind Bandit,"('guard', 'toph')",1
-Earth,The Blind Bandit,"('lao', 'servant')",1
-Earth,The Blind Bandit,"('servant', 'yu')",1
 Earth,The Blind Bandit,"('lao', 'yu')",2
-Earth,The Blind Bandit,"('lao', 'poppy')",3
-Earth,The Blind Bandit,"('aang', 'poppy')",2
+Earth,The Blind Bandit,"('servant', 'yu')",1
+Earth,The Blind Bandit,"('lao', 'servant')",1
 Earth,The Blind Bandit,"('aang', 'lao')",4
+Earth,The Blind Bandit,"('aang', 'poppy')",2
+Earth,The Blind Bandit,"('lao', 'poppy')",3
 Earth,The Blind Bandit,"('aang', 'yu')",1
-Earth,The Blind Bandit,"('katara', 'poppy')",1
 Earth,The Blind Bandit,"('katara', 'lao')",2
-Earth,The Blind Bandit,"('toph', 'xin fu')",1
-Earth,The Blind Bandit,"('lao', 'xin fu')",1
-Earth,The Blind Bandit,"('lao', 'toph')",3
+Earth,The Blind Bandit,"('katara', 'poppy')",1
 Earth,The Blind Bandit,"('lao', 'sokka')",1
+Earth,The Blind Bandit,"('lao', 'toph')",3
+Earth,The Blind Bandit,"('lao', 'xin fu')",1
+Earth,The Blind Bandit,"('toph', 'xin fu')",1
 Earth,The Blind Bandit,"('poppy', 'toph')",1
 Earth,The Cave of Two Lovers,"('aang', 'sokka')",9
 Earth,The Cave of Two Lovers,"('katara', 'sokka')",8
 Earth,The Cave of Two Lovers,"('aang', 'katara')",12
+Earth,The Cave of Two Lovers,"('chong', 'katara')",8
 Earth,The Cave of Two Lovers,"('chong', 'sokka')",13
 Earth,The Cave of Two Lovers,"('aang', 'chong')",4
-Earth,The Cave of Two Lovers,"('chong', 'katara')",8
 Earth,The Cave of Two Lovers,"('iroh', 'zuko')",6
-Earth,The Cave of Two Lovers,"('moku', 'sokka')",2
-Earth,The Cave of Two Lovers,"('chong', 'moku')",3
 Earth,The Cave of Two Lovers,"('aang', 'moku')",3
+Earth,The Cave of Two Lovers,"('chong', 'moku')",3
+Earth,The Cave of Two Lovers,"('moku', 'sokka')",2
 Earth,The Cave of Two Lovers,"('lily', 'sokka')",4
 Earth,The Cave of Two Lovers,"('chong', 'lily')",4
 Earth,The Cave of Two Lovers,"('katara', 'lily')",3
 Earth,The Cave of Two Lovers,"('sokka', 'toph')",1
 Earth,The Cave of Two Lovers,"('aang', 'toph')",1
 Earth,The Cave of Two Lovers,"('katara', 'toph')",1
-Earth,The Cave of Two Lovers,"('lily', 'moku')",1
 Earth,The Cave of Two Lovers,"('katara', 'moku')",1
 Earth,The Cave of Two Lovers,"('aang', 'lily')",1
+Earth,The Cave of Two Lovers,"('lily', 'moku')",1
 Earth,The Cave of Two Lovers,"('song', 'zuko')",4
 Earth,The Cave of Two Lovers,"('iroh', 'song')",3
-Earth,The Cave of Two Lovers,"(""song's mother"", 'zuko')",1
 Earth,The Cave of Two Lovers,"('song', ""song's mother"")",1
+Earth,The Cave of Two Lovers,"(""song's mother"", 'zuko')",1
 Earth,The Cave of Two Lovers,"('iroh', ""song's mother"")",1
 Earth,The Chase,"('sokka', 'toph')",10
-Earth,The Chase,"('katara', 'toph')",15
 Earth,The Chase,"('katara', 'sokka')",14
+Earth,The Chase,"('katara', 'toph')",15
 Earth,The Chase,"('aang', 'katara')",13
-Earth,The Chase,"('aang', 'sokka')",11
 Earth,The Chase,"('aang', 'toph')",8
+Earth,The Chase,"('aang', 'sokka')",11
 Earth,The Chase,"('mai', 'ty lee')",1
 Earth,The Chase,"('mai', 'sokka')",1
 Earth,The Chase,"('katara', 'mai')",1
@@ -280,23 +280,23 @@ Earth,The Crossroads of Destiny,"('iroh', 'zuko')",5
 Earth,The Crossroads of Destiny,"('aang', 'toph')",3
 Earth,The Crossroads of Destiny,"('azula', 'zuko')",4
 Earth,The Crossroads of Destiny,"('azula', 'iroh')",2
-Earth,The Crossroads of Destiny,"('kuei', 'sokka')",3
 Earth,The Crossroads of Destiny,"('aang', 'kuei')",1
-Earth,The Crossroads of Destiny,"('iroh', 'toph')",2
-Earth,The Crossroads of Destiny,"('iroh', 'sokka')",3
+Earth,The Crossroads of Destiny,"('kuei', 'sokka')",3
 Earth,The Crossroads of Destiny,"('aang', 'iroh')",4
 Earth,The Crossroads of Destiny,"('sokka', 'toph')",3
+Earth,The Crossroads of Destiny,"('iroh', 'sokka')",3
+Earth,The Crossroads of Destiny,"('iroh', 'toph')",2
 Earth,The Crossroads of Destiny,"('captured agent', 'sokka')",1
 Earth,The Crossroads of Destiny,"('head of the dai li', 'long feng')",1
 Earth,The Crossroads of Destiny,"('katara', 'zuko')",4
+Earth,The Crossroads of Destiny,"('how', 'sokka')",1
 Earth,The Crossroads of Destiny,"('dai li agent', 'sokka')",1
 Earth,The Crossroads of Destiny,"('dai li agent', 'how')",1
-Earth,The Crossroads of Destiny,"('how', 'sokka')",1
 Earth,The Crossroads of Destiny,"('sokka', 'ty lee')",1
 Earth,The Crossroads of Destiny,"('kuei', 'ty lee')",1
 Earth,The Crossroads of Destiny,"('azula', 'long feng')",1
-Earth,The Crossroads of Destiny,"('aang', 'zuko')",1
 Earth,The Crossroads of Destiny,"('aang', 'katara')",1
+Earth,The Crossroads of Destiny,"('aang', 'zuko')",1
 Earth,The Crossroads of Destiny,"('aang', 'pathik')",1
 Earth,The Desert,"('aang', 'toph')",5
 Earth,The Desert,"('aang', 'katara')",7
@@ -310,56 +310,56 @@ Earth,The Desert,"('man', 'xin fu')",1
 Earth,The Desert,"('xin fu', 'yu')",3
 Earth,The Desert,"('fung', 'iroh')",5
 Earth,The Desert,"('fung', 'zuko')",4
-Earth,The Desert,"('man in the bar', 'xin fu')",1
-Earth,The Desert,"('xin fu', 'zuko')",1
-Earth,The Desert,"('iroh', 'xin fu')",1
 Earth,The Desert,"('fung', 'xin fu')",1
-Earth,The Desert,"('man in the bar', 'zuko')",1
-Earth,The Desert,"('iroh', 'man in the bar')",1
 Earth,The Desert,"('fung', 'man in the bar')",1
+Earth,The Desert,"('iroh', 'xin fu')",1
+Earth,The Desert,"('iroh', 'man in the bar')",1
+Earth,The Desert,"('xin fu', 'zuko')",1
+Earth,The Desert,"('man in the bar', 'xin fu')",1
+Earth,The Desert,"('man in the bar', 'zuko')",1
 Earth,The Desert,"('aang', 'sokka')",2
 Earth,The Desert,"('florist', 'iroh')",1
 Earth,The Desert,"('katara', 'sha-mo')",1
 Earth,The Desert,"('ghashiun', 'sha-mo')",2
-Earth,The Desert,"('florist', 'xin fu')",1
 Earth,The Desert,"('florist', 'yu')",2
-Earth,The Desert,"('ghashiun', 'toph')",1
+Earth,The Desert,"('florist', 'xin fu')",1
 Earth,The Desert,"('aang', 'ghashiun')",2
-Earth,The Desert,"('sha-mo', 'toph')",1
 Earth,The Desert,"('aang', 'sha-mo')",1
+Earth,The Desert,"('ghashiun', 'toph')",1
+Earth,The Desert,"('sha-mo', 'toph')",1
 Earth,The Drill,"('qin', 'ty lee')",2
-Earth,The Drill,"('azula', 'qin')",1
 Earth,The Drill,"('azula', 'mai')",1
+Earth,The Drill,"('azula', 'qin')",1
 Earth,The Drill,"('mai', 'qin')",1
 Earth,The Drill,"('aang', 'katara')",9
 Earth,The Drill,"('aang', 'sokka')",9
-Earth,The Drill,"('earthbender guard', 'ying')",1
 Earth,The Drill,"('aang', 'earthbender guard')",1
 Earth,The Drill,"('aang', 'ying')",1
-Earth,The Drill,"('sokka', 'toph')",7
-Earth,The Drill,"('general sung', 'toph')",3
+Earth,The Drill,"('earthbender guard', 'ying')",1
+Earth,The Drill,"('aang', 'general sung')",3
 Earth,The Drill,"('aang', 'toph')",3
 Earth,The Drill,"('general sung', 'sokka')",3
-Earth,The Drill,"('aang', 'general sung')",3
+Earth,The Drill,"('sokka', 'toph')",7
+Earth,The Drill,"('general sung', 'toph')",3
 Earth,The Drill,"('katara', 'sokka')",11
-Earth,The Drill,"('iroh', 'zuko')",2
 Earth,The Drill,"('ticket woman', 'zuko')",1
+Earth,The Drill,"('iroh', 'zuko')",2
 Earth,The Drill,"('iroh', 'ticket woman')",1
 Earth,The Drill,"('jet', 'smellerbee')",2
-Earth,The Drill,"('general sung', 'katara')",1
-Earth,The Drill,"('general sung', 'terra team member')",1
-Earth,The Drill,"('aang', 'terra team member')",1
 Earth,The Drill,"('katara', 'toph')",3
-Earth,The Drill,"('terra team member', 'toph')",1
-Earth,The Drill,"('sokka', 'terra team member')",1
+Earth,The Drill,"('general sung', 'katara')",1
 Earth,The Drill,"('katara', 'terra team member')",1
-Earth,The Drill,"('iroh', 'tea seller')",1
+Earth,The Drill,"('aang', 'terra team member')",1
+Earth,The Drill,"('terra team member', 'toph')",1
+Earth,The Drill,"('general sung', 'terra team member')",1
+Earth,The Drill,"('sokka', 'terra team member')",1
 Earth,The Drill,"('jet', 'tea seller')",1
+Earth,The Drill,"('iroh', 'tea seller')",1
 Earth,The Drill,"('iroh', 'jet')",2
 Earth,The Drill,"('jet', 'zuko')",1
 Earth,The Drill,"('azula', 'second engineer')",1
-Earth,The Drill,"('sokka', 'ty lee')",1
 Earth,The Drill,"('aang', 'ty lee')",1
+Earth,The Drill,"('sokka', 'ty lee')",1
 Earth,The Drill,"('mai', 'ty lee')",1
 Earth,The Drill,"('iroh', 'ying')",1
 Earth,The Earth King,"('sokka', 'toph')",9
@@ -370,64 +370,64 @@ Earth,The Earth King,"('aang', 'toph')",7
 Earth,The Earth King,"('aang', 'katara')",7
 Earth,The Earth King,"('palace woman', 'sokka')",1
 Earth,The Earth King,"('iroh', 'zuko')",3
-Earth,The Earth King,"('aang', 'kuei')",10
 Earth,The Earth King,"('aang', 'long feng')",3
-Earth,The Earth King,"('kuei', 'toph')",5
-Earth,The Earth King,"('kuei', 'long feng')",4
-Earth,The Earth King,"('kuei', 'sokka')",10
+Earth,The Earth King,"('aang', 'kuei')",10
+Earth,The Earth King,"('katara', 'long feng')",2
 Earth,The Earth King,"('katara', 'kuei')",7
 Earth,The Earth King,"('long feng', 'toph')",1
+Earth,The Earth King,"('kuei', 'toph')",5
 Earth,The Earth King,"('long feng', 'sokka')",5
-Earth,The Earth King,"('katara', 'long feng')",2
+Earth,The Earth King,"('kuei', 'long feng')",4
+Earth,The Earth King,"('kuei', 'sokka')",10
 Earth,The Earth King,"('blue dragon', 'zuko')",1
 Earth,The Earth King,"('blue dragon', 'red dragon')",1
 Earth,The Earth King,"('general how', 'kuei')",2
 Earth,The Earth King,"('aang', 'general how')",1
+Earth,The Earth King,"('general how', 'katara')",1
 Earth,The Earth King,"('general how', 'toph')",1
 Earth,The Earth King,"('general how', 'sokka')",1
-Earth,The Earth King,"('general how', 'katara')",1
+Earth,The Earth King,"('katara', 'soldier')",1
 Earth,The Earth King,"('aang', 'soldier')",1
-Earth,The Earth King,"('kuei', 'soldier')",1
 Earth,The Earth King,"('soldier', 'toph')",1
 Earth,The Earth King,"('sokka', 'soldier')",1
-Earth,The Earth King,"('katara', 'soldier')",1
+Earth,The Earth King,"('kuei', 'soldier')",1
 Earth,The Guru,"('iroh', 'zuko')",4
 Earth,The Guru,"('aang', 'sokka')",1
 Earth,The Guru,"('hakoda', 'sokka')",4
 Earth,The Guru,"('azula', 'kuei')",1
 Earth,The Guru,"('general how', 'katara')",1
 Earth,The Guru,"('aang', 'pathik')",11
-Earth,The Guru,"('toph', 'xin fu')",3
-Earth,The Guru,"('xin fu', 'yu')",3
 Earth,The Guru,"('toph', 'yu')",3
+Earth,The Guru,"('xin fu', 'yu')",3
+Earth,The Guru,"('toph', 'xin fu')",3
 Earth,The Guru,"('azula', 'mai')",1
 Earth,The Guru,"('azula', 'ty lee')",1
 Earth,The Guru,"('mai', 'ty lee')",2
-Earth,The Guru,"('hakoda', 'warrior')",1
-Earth,The Guru,"('bato', 'hakoda')",1
-Earth,The Guru,"('sokka', 'warrior')",1
 Earth,The Guru,"('bato', 'sokka')",1
+Earth,The Guru,"('sokka', 'warrior')",1
+Earth,The Guru,"('bato', 'hakoda')",1
+Earth,The Guru,"('hakoda', 'warrior')",1
 Earth,The Guru,"('bato', 'warrior')",1
 Earth,The Guru,"('katara', 'zuko')",1
 Earth,The Guru,"('iroh', 'katara')",1
 Earth,The Guru,"('azula', 'katara')",1
 Earth,The Guru,"('azula', 'long feng')",1
-Earth,The Guru,"('iroh', 'royal messenger')",1
 Earth,The Guru,"('royal messenger', 'zuko')",1
-Earth,The Library,"('sokka', 'toph')",4
-Earth,The Library,"('aang', 'toph')",2
+Earth,The Guru,"('iroh', 'royal messenger')",1
 Earth,The Library,"('aang', 'sokka')",11
+Earth,The Library,"('aang', 'toph')",2
+Earth,The Library,"('sokka', 'toph')",4
 Earth,The Library,"('katara', 'sokka')",13
 Earth,The Library,"('katara', 'toph')",3
 Earth,The Library,"('aang', 'katara')",8
-Earth,The Library,"('sokka', 'zei')",7
 Earth,The Library,"('aang', 'zei')",4
+Earth,The Library,"('sokka', 'zei')",7
 Earth,The Library,"('toph', 'zei')",3
 Earth,The Library,"('katara', 'zei')",4
 Earth,The Library,"('wan shi tong', 'zei')",2
+Earth,The Library,"('katara', 'wan shi tong')",2
 Earth,The Library,"('aang', 'wan shi tong')",2
 Earth,The Library,"('sokka', 'wan shi tong')",2
-Earth,The Library,"('katara', 'wan shi tong')",2
 Earth,The Serpent's Pass,"('sokka', 'toph')",11
 Earth,The Serpent's Pass,"('aang', 'sokka')",7
 Earth,The Serpent's Pass,"('katara', 'sokka')",9
@@ -436,32 +436,32 @@ Earth,The Serpent's Pass,"('katara', 'toph')",6
 Earth,The Serpent's Pass,"('aang', 'katara')",7
 Earth,The Serpent's Pass,"('aang', 'than')",2
 Earth,The Serpent's Pass,"('katara', 'than')",3
+Earth,The Serpent's Pass,"('katara', 'ying')",4
+Earth,The Serpent's Pass,"('than', 'toph')",1
+Earth,The Serpent's Pass,"('than', 'ying')",2
+Earth,The Serpent's Pass,"('sokka', 'than')",2
 Earth,The Serpent's Pass,"('toph', 'ying')",2
 Earth,The Serpent's Pass,"('sokka', 'ying')",4
-Earth,The Serpent's Pass,"('katara', 'ying')",4
-Earth,The Serpent's Pass,"('than', 'ying')",2
-Earth,The Serpent's Pass,"('than', 'toph')",1
-Earth,The Serpent's Pass,"('sokka', 'than')",2
-Earth,The Serpent's Pass,"('iroh', 'zuko')",1
 Earth,The Serpent's Pass,"('smellerbee', 'zuko')",1
 Earth,The Serpent's Pass,"('jet', 'zuko')",2
+Earth,The Serpent's Pass,"('iroh', 'zuko')",1
+Earth,The Serpent's Pass,"('jet', 'smellerbee')",1
 Earth,The Serpent's Pass,"('iroh', 'smellerbee')",2
 Earth,The Serpent's Pass,"('iroh', 'jet')",2
-Earth,The Serpent's Pass,"('jet', 'smellerbee')",1
-Earth,The Serpent's Pass,"('cabbage merchant', 'sokka')",1
-Earth,The Serpent's Pass,"('cabbage merchant', 'ticket lady')",1
-Earth,The Serpent's Pass,"('aang', 'cabbage merchant')",1
 Earth,The Serpent's Pass,"('sokka', 'ticket lady')",2
+Earth,The Serpent's Pass,"('cabbage merchant', 'ticket lady')",1
 Earth,The Serpent's Pass,"('aang', 'ticket lady')",3
+Earth,The Serpent's Pass,"('cabbage merchant', 'sokka')",1
+Earth,The Serpent's Pass,"('aang', 'cabbage merchant')",1
 Earth,The Serpent's Pass,"('ticket lady', 'toph')",1
 Earth,The Serpent's Pass,"('sokka', 'suki')",8
+Earth,The Serpent's Pass,"('katara', 'suki')",2
+Earth,The Serpent's Pass,"('aang', 'suki')",2
 Earth,The Serpent's Pass,"('aang', 'ying')",3
 Earth,The Serpent's Pass,"('suki', 'ying')",1
-Earth,The Serpent's Pass,"('aang', 'suki')",2
-Earth,The Serpent's Pass,"('katara', 'suki')",2
 Earth,The Serpent's Pass,"('suki', 'toph')",2
-Earth,The Swamp,"('iroh', 'zuko')",2
 Earth,The Swamp,"('peasant girl', 'zuko')",1
+Earth,The Swamp,"('iroh', 'zuko')",2
 Earth,The Swamp,"('iroh', 'peasant girl')",1
 Earth,The Swamp,"('broadsword man', 'zuko')",1
 Earth,The Swamp,"('broadsword man', 'iroh')",2
@@ -470,20 +470,20 @@ Earth,The Swamp,"('katara', 'sokka')",11
 Earth,The Swamp,"('aang', 'katara')",5
 Earth,The Swamp,"('due', 'tho')",5
 Earth,The Swamp,"('princess yue', 'sokka')",1
-Earth,The Swamp,"('huu', 'sokka')",4
 Earth,The Swamp,"('aang', 'huu')",3
+Earth,The Swamp,"('huu', 'sokka')",4
 Earth,The Swamp,"('huu', 'katara')",2
-Earth,The Swamp,"('due', 'huu')",1
-Earth,The Swamp,"('due', 'sokka')",3
 Earth,The Swamp,"('due', 'katara')",2
-Earth,The Swamp,"('sokka', 'tho')",1
+Earth,The Swamp,"('due', 'sokka')",3
+Earth,The Swamp,"('due', 'huu')",1
 Earth,The Swamp,"('katara', 'tho')",1
+Earth,The Swamp,"('sokka', 'tho')",1
 Earth,The Tales of Ba Sing Se,"('katara', 'toph')",6
 Earth,The Tales of Ba Sing Se,"('girl with umbrella', 'toph')",1
-Earth,The Tales of Ba Sing Se,"('third girl', 'toph')",1
-Earth,The Tales of Ba Sing Se,"('star', 'toph')",1
-Earth,The Tales of Ba Sing Se,"('katara', 'third girl')",1
 Earth,The Tales of Ba Sing Se,"('star', 'third girl')",1
+Earth,The Tales of Ba Sing Se,"('third girl', 'toph')",1
+Earth,The Tales of Ba Sing Se,"('katara', 'third girl')",1
+Earth,The Tales of Ba Sing Se,"('star', 'toph')",1
 Earth,The Tales of Ba Sing Se,"('katara', 'star')",1
 Earth,The Tales of Ba Sing Se,"('iroh', 'shop owner')",1
 Earth,The Tales of Ba Sing Se,"(""boy's mother"", 'iroh')",1
@@ -492,11 +492,11 @@ Earth,The Tales of Ba Sing Se,"('iroh', 'tycho')",3
 Earth,The Tales of Ba Sing Se,"('aang', 'kenji')",2
 Earth,The Tales of Ba Sing Se,"('guard', 'kenji')",1
 Earth,The Tales of Ba Sing Se,"('lady on stage', 'sokka')",1
+Earth,The Tales of Ba Sing Se,"('macmu-ling', 'sokka')",1
 Earth,The Tales of Ba Sing Se,"('ladies', 'sokka')",1
 Earth,The Tales of Ba Sing Se,"('ladies', 'macmu-ling')",1
-Earth,The Tales of Ba Sing Se,"('macmu-ling', 'sokka')",1
-Earth,The Tales of Ba Sing Se,"('iroh', 'zuko')",1
 Earth,The Tales of Ba Sing Se,"('jin', 'zuko')",8
+Earth,The Tales of Ba Sing Se,"('iroh', 'zuko')",1
 Earth,The Tales of Ba Sing Se,"('iroh', 'jin')",1
 Earth,The Tales of Ba Sing Se,"('waiter', 'zuko')",1
 Earth,The Tales of Ba Sing Se,"('jin', 'waiter')",1
@@ -505,17 +505,17 @@ Earth,Zuko Alone,"('earth kingdom soldier', 'zuko')",1
 Earth,Zuko Alone,"('gow', 'zuko')",3
 Earth,Zuko Alone,"('earth kingdom soldier', 'gow')",2
 Earth,Zuko Alone,"('lee', 'zuko')",5
+Earth,Zuko Alone,"('sela', 'zuko')",3
 Earth,Zuko Alone,"('gansu', 'zuko')",3
 Earth,Zuko Alone,"('gansu', 'sela')",1
-Earth,Zuko Alone,"('sela', 'zuko')",3
 Earth,Zuko Alone,"('gansu', 'lee')",2
 Earth,Zuko Alone,"('ursa', 'zuko')",8
 Earth,Zuko Alone,"('azula', 'zuko')",8
 Earth,Zuko Alone,"('azula', 'ursa')",4
 Earth,Zuko Alone,"('earth kingdom soldier', 'gansu')",1
 Earth,Zuko Alone,"('gansu', 'gow')",1
-Earth,Zuko Alone,"('azula', 'ozai')",2
 Earth,Zuko Alone,"('ozai', 'zuko')",2
+Earth,Zuko Alone,"('azula', 'ozai')",2
 Earth,Zuko Alone,"('azulon', 'zuko')",1
 Earth,Zuko Alone,"('azulon', 'ursa')",1
 Earth,Zuko Alone,"('azulon', 'ozai')",1
@@ -525,10 +525,10 @@ Earth,Zuko Alone,"('old man', 'zuko')",1
 Earth,Zuko Alone,"('gow', 'old man')",1
 Earth,Zuko Alone,"('lee', 'sela')",1
 Fire,Nightmares and Daydreams,"('sokka', 'toph')",3
-Fire,Nightmares and Daydreams,"('aang', 'toph')",6
-Fire,Nightmares and Daydreams,"('katara', 'toph')",4
 Fire,Nightmares and Daydreams,"('aang', 'sokka')",12
 Fire,Nightmares and Daydreams,"('katara', 'sokka')",6
+Fire,Nightmares and Daydreams,"('aang', 'toph')",6
+Fire,Nightmares and Daydreams,"('katara', 'toph')",4
 Fire,Nightmares and Daydreams,"('aang', 'katara')",11
 Fire,Nightmares and Daydreams,"('servant #1', 'zuko')",1
 Fire,Nightmares and Daydreams,"('servant', 'zuko')",2
@@ -537,112 +537,112 @@ Fire,Nightmares and Daydreams,"('mai', 'servant')",1
 Fire,Nightmares and Daydreams,"('azula', 'zuko')",1
 Fire,Nightmares and Daydreams,"('aang', 'momo')",2
 Fire,Nightmares and Daydreams,"('aang', 'appa')",1
-Fire,Nightmares and Daydreams,"('appa', 'toph')",1
-Fire,Nightmares and Daydreams,"('appa', 'sokka')",1
-Fire,Nightmares and Daydreams,"('appa', 'katara')",1
-Fire,Nightmares and Daydreams,"('appa', 'momo')",1
-Fire,Nightmares and Daydreams,"('momo', 'toph')",1
-Fire,Nightmares and Daydreams,"('momo', 'sokka')",1
 Fire,Nightmares and Daydreams,"('katara', 'momo')",1
+Fire,Nightmares and Daydreams,"('appa', 'katara')",1
+Fire,Nightmares and Daydreams,"('momo', 'toph')",1
+Fire,Nightmares and Daydreams,"('appa', 'toph')",1
+Fire,Nightmares and Daydreams,"('momo', 'sokka')",1
+Fire,Nightmares and Daydreams,"('appa', 'sokka')",1
+Fire,Nightmares and Daydreams,"('appa', 'momo')",1
 Fire,Nightmares and Daydreams,"('aang', 'ozai')",1
+Fire,Nightmares and Daydreams,"('katara', 'ozai')",1
 Fire,Nightmares and Daydreams,"('ozai', 'toph')",1
 Fire,Nightmares and Daydreams,"('ozai', 'sokka')",1
-Fire,Nightmares and Daydreams,"('katara', 'ozai')",1
 Fire,Sokka's Master,"('sokka', 'toph')",7
 Fire,Sokka's Master,"('aang', 'katara')",9
 Fire,Sokka's Master,"('aang', 'sokka')",6
 Fire,Sokka's Master,"('aang', 'toph')",7
 Fire,Sokka's Master,"('katara', 'sokka')",6
 Fire,Sokka's Master,"('katara', 'toph')",6
-Fire,Sokka's Master,"('sokka', 'weapons store shopkeeper')",1
+Fire,Sokka's Master,"('katara', 'weapons store shopkeeper')",1
 Fire,Sokka's Master,"('aang', 'weapons store shopkeeper')",1
 Fire,Sokka's Master,"('toph', 'weapons store shopkeeper')",1
-Fire,Sokka's Master,"('katara', 'weapons store shopkeeper')",1
+Fire,Sokka's Master,"('sokka', 'weapons store shopkeeper')",1
 Fire,Sokka's Master,"('fat', 'sokka')",1
 Fire,Sokka's Master,"('piandao', 'sokka')",9
 Fire,Sokka's Master,"('katara', 'piandao')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'zuko')",8
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('sokka', 'zuko')",9
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('suki', 'zuko')",4
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'zuko')",9
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'sokka')",6
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('sokka', 'suki')",4
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'sokka')",7
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'suki')",2
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'katara')",4
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'suki')",3
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'zuko')",9
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'sokka')",7
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'suki')",2
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'sokka')",6
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('suki', 'zuko')",4
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('sokka', 'suki')",4
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('sokka', 'zuko')",9
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'toph')",4
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('sokka', 'toph')",9
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('suki', 'toph')",2
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'zuko')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('toph', 'zuko')",6
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'zuko')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'zuko')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'shinu')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'toph')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'shinu')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'shinu')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'sokka')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'toph')",6
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'ozai')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'shinu')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'katara')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'ozai')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'shinu')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('aang', 'azula')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'toph')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'toph')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('toph', 'zuko')",6
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'toph')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'toph')",6
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'ozai')",2
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'shinu')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'zuko')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('ozai', 'sokka')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('katara', 'ozai')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'ozai')",2
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'zuko')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('shinu', 'sokka')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'shinu')",1
+Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'zuko')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'sokka')",1
-Fire,"Sozin's Comet, Part 1: The Phoenix King","('azula', 'katara')",1
 Fire,"Sozin's Comet, Part 1: The Phoenix King","('actress aang', 'crowd')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('sokka', 'zuko')",5
 Fire,"Sozin's Comet, Part 2: The Old Masters","('june', 'zuko')",6
-Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'zuko')",4
 Fire,"Sozin's Comet, Part 2: The Old Masters","('june', 'katara')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'zuko')",4
 Fire,"Sozin's Comet, Part 2: The Old Masters","('toph', 'zuko')",4
 Fire,"Sozin's Comet, Part 2: The Old Masters","('june', 'toph')",2
 Fire,"Sozin's Comet, Part 2: The Old Masters","('june', 'sokka')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('sokka', 'toph')",4
 Fire,"Sozin's Comet, Part 2: The Old Masters","('aang', 'roku')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'suki')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'zuko')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'piandao')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'piandao')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'toph')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'piandao')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'sokka')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'piandao')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('suki', 'zuko')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'suki')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'suki')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('suki', 'toph')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'suki')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('sokka', 'suki')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'suki')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'zuko')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'zuko')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'zuko')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'jeong jeong')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'toph')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'pakku')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'sokka')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'katara')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'toph')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'pakku')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'sokka')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'katara')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'toph')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'toph')",2
-Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'sokka')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'suki')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'katara')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'katara')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'pakku')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'piandao')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('katara', 'sokka')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('suki', 'toph')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'toph')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'toph')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'toph')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'toph')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'suki')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'suki')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'suki')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'suki')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('suki', 'zuko')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('sokka', 'suki')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'jeong jeong')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'pakku')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'piandao')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'zuko')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('jeong jeong', 'sokka')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'pakku')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'piandao')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'zuko')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('bumi', 'sokka')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'piandao')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'zuko')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('pakku', 'sokka')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'zuko')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('piandao', 'sokka')",2
 Fire,"Sozin's Comet, Part 2: The Old Masters","('aang', 'kyoshi')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('aang', 'yangchen')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'zuko')",3
-Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'sokka')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'toph')",1
-Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'suki')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'katara')",2
+Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'suki')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'toph')",1
+Fire,"Sozin's Comet, Part 2: The Old Masters","('iroh', 'sokka')",1
 Fire,"Sozin's Comet, Part 2: The Old Masters","('aang', 'lion turtle')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('katara', 'zuko')",3
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'banished servant')",1
@@ -652,11 +652,11 @@ Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'head of dai li')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('sokka', 'suki')",6
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('engineer', 'qin lee')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'li')",2
-Fire,"Sozin's Comet, Part 3: Into the Inferno","('li', 'lo')",2
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'lo')",2
+Fire,"Sozin's Comet, Part 3: Into the Inferno","('li', 'lo')",2
+Fire,"Sozin's Comet, Part 3: Into the Inferno","('bumi', 'pakku')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('bumi', 'iroh')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('iroh', 'pakku')",1
-Fire,"Sozin's Comet, Part 3: Into the Inferno","('bumi', 'pakku')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'ursa')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('aang', 'ozai')",1
 Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'zuko')",4
@@ -664,111 +664,111 @@ Fire,"Sozin's Comet, Part 3: Into the Inferno","('azula', 'katara')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'toph')",5
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'zuko')",2
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'ozai')",3
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'sokka')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'sokka')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'suki')",3
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'toph')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'suki')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'toph')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'sokka')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('suki', 'toph')",2
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'toph')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'suki')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'suki')",3
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'sokka')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'zuko')",2
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('hakoda', 'sokka')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('hakoda', 'katara')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'sokka')",2
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('suki', 'ty lee')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('hakoda', 'sokka')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'ty lee')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('suki', 'ty lee')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('aang', 'zuko')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('ozai', 'zuko')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('suki', 'zuko')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'zuko')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('toph', 'zuko')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'zuko')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'suki')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'suki')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'suki')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'mai')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'toph')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'sokka')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'katara')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'toph')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'sokka')",1
-Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'mai')",1
 Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'toph')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('katara', 'mai')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'katara')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'suki')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'suki')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('suki', 'zuko')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'toph')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'toph')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('toph', 'zuko')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'mai')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('mai', 'sokka')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'zuko')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('iroh', 'sokka')",1
+Fire,"Sozin's Comet, Part 4: Avatar Aang","('sokka', 'zuko')",1
 Fire,The Avatar and the Fire Lord,"('azula', 'zuko')",1
 Fire,The Avatar and the Fire Lord,"('aang', 'roku')",10
 Fire,The Avatar and the Fire Lord,"('aang', 'sozin')",1
 Fire,The Avatar and the Fire Lord,"('roku', 'sozin')",7
 Fire,The Avatar and the Fire Lord,"('fire sage', 'sozin')",1
 Fire,The Avatar and the Fire Lord,"('katara', 'sokka')",3
-Fire,The Avatar and the Fire Lord,"('aang', 'gyatso')",1
 Fire,The Avatar and the Fire Lord,"('gyatso', 'roku')",1
+Fire,The Avatar and the Fire Lord,"('aang', 'gyatso')",1
 Fire,The Avatar and the Fire Lord,"('sozin', 'ta min')",1
 Fire,The Avatar and the Fire Lord,"('iroh', 'zuko')",1
-Fire,The Avatar and the Fire Lord,"('sokka', 'toph')",1
-Fire,The Avatar and the Fire Lord,"('aang', 'toph')",1
 Fire,The Avatar and the Fire Lord,"('katara', 'toph')",1
-Fire,The Avatar and the Fire Lord,"('aang', 'sokka')",1
 Fire,The Avatar and the Fire Lord,"('aang', 'katara')",1
-Fire,The Awakening,"('sokka', 'toph')",4
-Fire,The Awakening,"('aang', 'toph')",4
-Fire,The Awakening,"('katara', 'toph')",3
-Fire,The Awakening,"('aang', 'sokka')",6
+Fire,The Avatar and the Fire Lord,"('sokka', 'toph')",1
+Fire,The Avatar and the Fire Lord,"('aang', 'sokka')",1
+Fire,The Avatar and the Fire Lord,"('aang', 'toph')",1
 Fire,The Awakening,"('katara', 'sokka')",4
+Fire,The Awakening,"('katara', 'toph')",3
 Fire,The Awakening,"('aang', 'katara')",9
+Fire,The Awakening,"('sokka', 'toph')",4
+Fire,The Awakening,"('aang', 'sokka')",6
+Fire,The Awakening,"('aang', 'toph')",4
 Fire,The Awakening,"('mai', 'zuko')",1
 Fire,The Awakening,"('aang', 'hakoda')",2
 Fire,The Awakening,"('hakoda', 'katara')",4
 Fire,The Awakening,"('li', 'lo')",2
 Fire,The Awakening,"('aang', 'pipsqueak')",1
-Fire,The Awakening,"('hakoda', 'pipsqueak')",1
-Fire,The Awakening,"('pipsqueak', 'sokka')",1
 Fire,The Awakening,"('katara', 'pipsqueak')",1
+Fire,The Awakening,"('hakoda', 'pipsqueak')",1
 Fire,The Awakening,"('hakoda', 'sokka')",1
-Fire,The Awakening,"('bato', 'hakoda')",2
+Fire,The Awakening,"('pipsqueak', 'sokka')",1
 Fire,The Awakening,"('fire navy officer', 'hakoda')",1
 Fire,The Awakening,"('bato', 'fire navy officer')",1
+Fire,The Awakening,"('bato', 'hakoda')",2
 Fire,The Awakening,"('fire navy officer', 'guard')",1
 Fire,The Awakening,"('azula', 'zuko')",3
 Fire,The Awakening,"('bato', 'katara')",1
 Fire,The Awakening,"('ozai', 'zuko')",1
 Fire,The Awakening,"('aang', 'roku')",1
 Fire,The Beach,"('azula', 'zuko')",6
-Fire,The Beach,"('azula', 'ty lee')",6
 Fire,The Beach,"('ty lee', 'zuko')",6
+Fire,The Beach,"('azula', 'ty lee')",6
 Fire,The Beach,"('li', 'lo')",5
-Fire,The Beach,"('mai', 'zuko')",9
-Fire,The Beach,"('lo', 'zuko')",2
-Fire,The Beach,"('li', 'zuko')",2
 Fire,The Beach,"('lo', 'mai')",2
-Fire,The Beach,"('mai', 'ty lee')",5
 Fire,The Beach,"('li', 'mai')",2
+Fire,The Beach,"('mai', 'zuko')",9
+Fire,The Beach,"('mai', 'ty lee')",5
+Fire,The Beach,"('lo', 'zuko')",2
 Fire,The Beach,"('lo', 'ty lee')",3
+Fire,The Beach,"('li', 'zuko')",2
 Fire,The Beach,"('li', 'ty lee')",3
 Fire,The Beach,"('aang', 'toph')",2
-Fire,The Beach,"('katara', 'toph')",2
 Fire,The Beach,"('aang', 'katara')",2
+Fire,The Beach,"('katara', 'toph')",2
 Fire,The Beach,"('aang', 'fire nation watchman #2')",1
-Fire,The Beach,"('fire nation watchman #1', 'fire nation watchman #2')",1
 Fire,The Beach,"('aang', 'fire nation watchman #1')",1
+Fire,The Beach,"('fire nation watchman #1', 'fire nation watchman #2')",1
 Fire,The Beach,"('ember island teenager #1', 'ty lee')",3
 Fire,The Beach,"('ember island teenager #1', 'ember island teenager #2')",3
 Fire,The Beach,"('ember island teenager #2', 'ty lee')",2
-Fire,The Beach,"('azula', 'chan')",6
-Fire,The Beach,"('azula', 'ruon-jian')",1
 Fire,The Beach,"('chan', 'ruon-jian')",2
+Fire,The Beach,"('azula', 'chan')",6
 Fire,The Beach,"('chan', 'ty lee')",1
+Fire,The Beach,"('azula', 'ruon-jian')",1
 Fire,The Beach,"('ruon-jian', 'ty lee')",1
 Fire,The Beach,"('azula', 'lo')",1
 Fire,The Beach,"('azula', 'li')",1
 Fire,The Beach,"('ruon-jian', 'zuko')",3
 Fire,The Beach,"('mai', 'ruon-jian')",2
-Fire,The Beach,"('ember island teenager #2', 'ember island teenager #3')",2
 Fire,The Beach,"('ember island teenager #1', 'ember island teenager #3')",2
+Fire,The Beach,"('ember island teenager #2', 'ember island teenager #3')",2
 Fire,The Beach,"('azula', 'ember island teenager #2')",1
 Fire,The Beach,"('azula', 'ember island teenager #1')",1
-Fire,The Beach,"('ember island teenager #3', 'ty lee')",1
 Fire,The Beach,"('azula', 'ember island teenager #3')",1
+Fire,The Beach,"('ember island teenager #3', 'ty lee')",1
 Fire,The Beach,"('chan', 'zuko')",1
 Fire,The Beach,"('chan', 'mai')",1
 Fire,The Beach,"('aang', 'sokka')",1
@@ -781,13 +781,13 @@ Fire,"The Boiling Rock, Part 1","('katara', 'toph')",2
 Fire,"The Boiling Rock, Part 1","('aang', 'katara')",1
 Fire,"The Boiling Rock, Part 1","('sokka', 'zuko')",14
 Fire,"The Boiling Rock, Part 1","('bully guard', 'chit sang')",3
-Fire,"The Boiling Rock, Part 1","('chit sang', 'zuko')",4
-Fire,"The Boiling Rock, Part 1","('bully guard', 'zuko')",1
 Fire,"The Boiling Rock, Part 1","('chit sang', 'sokka')",5
 Fire,"The Boiling Rock, Part 1","('bully guard', 'sokka')",4
+Fire,"The Boiling Rock, Part 1","('chit sang', 'zuko')",4
+Fire,"The Boiling Rock, Part 1","('bully guard', 'zuko')",1
 Fire,"The Boiling Rock, Part 1","('male guard', 'zuko')",4
-Fire,"The Boiling Rock, Part 1","('female guard', 'male guard')",2
 Fire,"The Boiling Rock, Part 1","('female guard', 'zuko')",3
+Fire,"The Boiling Rock, Part 1","('female guard', 'male guard')",2
 Fire,"The Boiling Rock, Part 1","('sokka', 'warden')",1
 Fire,"The Boiling Rock, Part 1","('chit sang', 'warden')",1
 Fire,"The Boiling Rock, Part 1","('bully guard', 'warden')",1
@@ -803,92 +803,92 @@ Fire,"The Boiling Rock, Part 2","('hakoda', 'warden')",2
 Fire,"The Boiling Rock, Part 2","('bogyguard #2', 'warden')",1
 Fire,"The Boiling Rock, Part 2","('hakoda', 'sokka')",6
 Fire,"The Boiling Rock, Part 2","('chit sang', 'warden')",3
+Fire,"The Boiling Rock, Part 2","('male guard', 'sokka')",4
 Fire,"The Boiling Rock, Part 2","('sokka', 'zuko')",5
 Fire,"The Boiling Rock, Part 2","('male guard', 'zuko')",1
-Fire,"The Boiling Rock, Part 2","('male guard', 'sokka')",4
 Fire,"The Boiling Rock, Part 2","('female guard', 'sokka')",1
 Fire,"The Boiling Rock, Part 2","('female guard', 'male guard')",1
 Fire,"The Boiling Rock, Part 2","('mai', 'zuko')",3
-Fire,"The Boiling Rock, Part 2","('male guard', 'suki')",1
 Fire,"The Boiling Rock, Part 2","('sokka', 'suki')",3
+Fire,"The Boiling Rock, Part 2","('male guard', 'suki')",1
 Fire,"The Boiling Rock, Part 2","('bully guard', 'chit sang')",1
 Fire,"The Boiling Rock, Part 2","('bully guard', 'warden')",2
 Fire,"The Boiling Rock, Part 2","('bodyguard #2', 'warden')",1
 Fire,"The Boiling Rock, Part 2","('azula', 'warden')",2
 Fire,"The Boiling Rock, Part 2","('azula', 'bully guard')",1
 Fire,"The Boiling Rock, Part 2","('door guard', 'sokka')",1
-Fire,"The Boiling Rock, Part 2","('suki', 'tough prisoner')",1
 Fire,"The Boiling Rock, Part 2","('sokka', 'tough prisoner')",1
 Fire,"The Boiling Rock, Part 2","('hakoda', 'tough prisoner')",2
 Fire,"The Boiling Rock, Part 2","('hakoda', 'suki')",2
+Fire,"The Boiling Rock, Part 2","('suki', 'tough prisoner')",1
 Fire,"The Boiling Rock, Part 2","('chit sang', 'sokka')",3
 Fire,"The Boiling Rock, Part 2","('tough prisoner', 'warden')",1
-Fire,"The Boiling Rock, Part 2","('male guard #2', 'zuko')",1
 Fire,"The Boiling Rock, Part 2","('mai', 'male guard #2')",1
+Fire,"The Boiling Rock, Part 2","('male guard #2', 'zuko')",1
 Fire,"The Boiling Rock, Part 2","('chit sang', 'zuko')",1
 Fire,"The Boiling Rock, Part 2","('suki', 'warden')",1
-Fire,"The Boiling Rock, Part 2","('hakoda', 'zuko')",2
 Fire,"The Boiling Rock, Part 2","('suki', 'zuko')",2
+Fire,"The Boiling Rock, Part 2","('hakoda', 'zuko')",2
 Fire,"The Boiling Rock, Part 2","('gondola guard #2', 'warden')",1
-Fire,"The Boiling Rock, Part 2","('gondola guard', 'gondola guard #2')",1
 Fire,"The Boiling Rock, Part 2","('gondola guard', 'warden')",1
+Fire,"The Boiling Rock, Part 2","('gondola guard', 'gondola guard #2')",1
 Fire,"The Boiling Rock, Part 2","('azula', 'zuko')",1
 Fire,"The Boiling Rock, Part 2","('azula', 'mai')",1
 Fire,"The Boiling Rock, Part 2","('azula', 'gondola guard #4')",1
-Fire,"The Boiling Rock, Part 2","('aang', 'zuko')",1
-Fire,"The Boiling Rock, Part 2","('toph', 'zuko')",1
-Fire,"The Boiling Rock, Part 2","('katara', 'zuko')",1
-Fire,"The Boiling Rock, Part 2","('aang', 'toph')",1
-Fire,"The Boiling Rock, Part 2","('aang', 'sokka')",1
 Fire,"The Boiling Rock, Part 2","('aang', 'katara')",1
-Fire,"The Boiling Rock, Part 2","('sokka', 'toph')",1
 Fire,"The Boiling Rock, Part 2","('katara', 'toph')",1
+Fire,"The Boiling Rock, Part 2","('katara', 'zuko')",1
 Fire,"The Boiling Rock, Part 2","('katara', 'sokka')",2
-Fire,"The Boiling Rock, Part 2","('chit sang', 'hakoda')",1
-Fire,"The Boiling Rock, Part 2","('hakoda', 'katara')",1
+Fire,"The Boiling Rock, Part 2","('aang', 'toph')",1
+Fire,"The Boiling Rock, Part 2","('aang', 'zuko')",1
+Fire,"The Boiling Rock, Part 2","('aang', 'sokka')",1
+Fire,"The Boiling Rock, Part 2","('toph', 'zuko')",1
+Fire,"The Boiling Rock, Part 2","('sokka', 'toph')",1
 Fire,"The Boiling Rock, Part 2","('chit sang', 'katara')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'toph')",2
-Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'toph')",2
-Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'toph')",2
+Fire,"The Boiling Rock, Part 2","('hakoda', 'katara')",1
+Fire,"The Boiling Rock, Part 2","('chit sang', 'hakoda')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'sokka')",3
-Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'sokka')",6
+Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'toph')",2
 Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'katara')",3
-Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'sokka')",6
+Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'toph')",2
+Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'sokka')",6
+Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'toph')",2
 Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'katara')",6
+Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'sokka')",6
+Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'hakoda')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('due', 'hakoda')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'tho')",2
+Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'huu')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'due')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'tho')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'huu')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('due', 'tho')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('due', 'huu')",2
 Fire,"The Day of Black Sun, Part 1: The Invasion","('huu', 'tho')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'huu')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'huu')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('due', 'tho')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'due')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('due', 'hakoda')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'tho')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'tho')",2
-Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'hakoda')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'tyro')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('haru', 'tyro')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'tyro')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'haru')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('haru', 'katara')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('big bad hippo', 'toph')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('the boulder', 'toph')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'tyro')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('haru', 'tyro')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'haru')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'tyro')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('big bad hippo', 'the boulder')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('teo', 'the duke')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('the boulder', 'toph')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('big bad hippo', 'toph')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'the duke')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('pipsqueak', 'the duke')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'the duke')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'the duke')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('pipsqueak', 'teo')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'teo')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'teo')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('pipsqueak', 'sokka')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('teo', 'the duke')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'pipsqueak')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'sokka')",2
+Fire,"The Day of Black Sun, Part 1: The Invasion","('mechanist', 'teo')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('pipsqueak', 'sokka')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('pipsqueak', 'teo')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'teo')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'mechanist')",1
-Fire,"The Day of Black Sun, Part 1: The Invasion","('iroh', 'warden poon')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('ming', 'warden poon')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('iroh', 'warden poon')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('iroh', 'ming')",2
-Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'the boulder')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('sokka', 'the boulder')",1
+Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'the boulder')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('katara', 'the boulder')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('female fire nation soldier', 'male fire nation soldier')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('the duke', 'toph')",1
@@ -896,79 +896,79 @@ Fire,"The Day of Black Sun, Part 1: The Invasion","('aang', 'hakoda')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('hakoda', 'toph')",1
 Fire,"The Day of Black Sun, Part 1: The Invasion","('bato', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('hakoda', 'sokka')",4
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'hakoda')",3
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('hakoda', 'katara')",6
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'sokka')",11
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('katara', 'sokka')",5
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'hakoda')",3
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('hakoda', 'katara')",6
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'katara')",5
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'toph')",5
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('katara', 'toph')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('hakoda', 'toph')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('sokka', 'toph')",8
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('katara', 'toph')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'qin')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('ozai', 'zuko')",6
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'azula')",3
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('azula', 'sokka')",3
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('azula', 'toph')",2
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'azula')",3
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('fire nation soldier', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'hakoda')",2
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('warden poon', 'zuko')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'katara')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('katara', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'bato')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'tyro')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'sokka')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'tyro')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'katara')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('hakoda', 'tyro')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'tyro')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('bato', 'sokka')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('sokka', 'tyro')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('katara', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('mechanist', 'teo')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('pipsqueak', 'the duke')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('the duke', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('haru', 'the duke')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('pipsqueak', 'tyro')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('haru', 'pipsqueak')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('the duke', 'tyro')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('pipsqueak', 'the duke')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('haru', 'tyro')",1
-Fire,"The Day of Black Sun, Part 2: The Eclipse","('azula', 'fire nation soldier')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('haru', 'pipsqueak')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('pipsqueak', 'tyro')",1
 Fire,"The Day of Black Sun, Part 2: The Eclipse","('aang', 'fire nation soldier')",1
+Fire,"The Day of Black Sun, Part 2: The Eclipse","('azula', 'fire nation soldier')",1
 Fire,The Ember Island Players,"('katara', 'zuko')",6
 Fire,The Ember Island Players,"('sokka', 'suki')",7
-Fire,The Ember Island Players,"('katara', 'suki')",4
-Fire,The Ember Island Players,"('suki', 'zuko')",4
-Fire,The Ember Island Players,"('katara', 'sokka')",4
 Fire,The Ember Island Players,"('sokka', 'zuko')",5
+Fire,The Ember Island Players,"('katara', 'sokka')",4
+Fire,The Ember Island Players,"('suki', 'zuko')",4
+Fire,The Ember Island Players,"('katara', 'suki')",4
 Fire,The Ember Island Players,"('aang', 'zuko')",3
 Fire,The Ember Island Players,"('katara', 'toph')",5
 Fire,The Ember Island Players,"('actor sokka', 'actress katara')",5
-Fire,The Ember Island Players,"('actress katara', 'sokka')",2
 Fire,The Ember Island Players,"('actress katara', 'toph')",2
+Fire,The Ember Island Players,"('actress katara', 'sokka')",2
 Fire,The Ember Island Players,"('sokka', 'toph')",4
-Fire,The Ember Island Players,"('actor sokka', 'sokka')",6
 Fire,The Ember Island Players,"('actor sokka', 'toph')",2
-Fire,The Ember Island Players,"('aang', 'actress katara')",1
+Fire,The Ember Island Players,"('actor sokka', 'sokka')",6
 Fire,The Ember Island Players,"('actress aang', 'actress katara')",4
+Fire,The Ember Island Players,"('aang', 'actress katara')",1
 Fire,The Ember Island Players,"('aang', 'actress aang')",3
 Fire,The Ember Island Players,"('actor sokka', 'actress aang')",3
 Fire,The Ember Island Players,"('aang', 'toph')",3
-Fire,The Ember Island Players,"('actress aang', 'toph')",4
 Fire,The Ember Island Players,"('aang', 'actor sokka')",1
+Fire,The Ember Island Players,"('actress aang', 'toph')",4
 Fire,The Ember Island Players,"('actor iroh', 'actor zuko')",3
 Fire,The Ember Island Players,"('actor zuko', 'blue spirit')",1
-Fire,The Ember Island Players,"('actor sokka', 'suki')",2
-Fire,The Ember Island Players,"('actress yue', 'suki')",1
 Fire,The Ember Island Players,"('actress yue', 'sokka')",1
+Fire,The Ember Island Players,"('actress yue', 'suki')",1
+Fire,The Ember Island Players,"('actor sokka', 'suki')",2
 Fire,The Ember Island Players,"('actor sokka', 'actress yue')",1
-Fire,The Ember Island Players,"('toph', 'zuko')",3
-Fire,The Ember Island Players,"('aang', 'suki')",2
-Fire,The Ember Island Players,"('suki', 'toph')",3
-Fire,The Ember Island Players,"('aang', 'sokka')",2
 Fire,The Ember Island Players,"('aang', 'katara')",5
-Fire,The Ember Island Players,"('actor toph', 'toph')",2
+Fire,The Ember Island Players,"('aang', 'suki')",2
+Fire,The Ember Island Players,"('aang', 'sokka')",2
+Fire,The Ember Island Players,"('suki', 'toph')",3
+Fire,The Ember Island Players,"('toph', 'zuko')",3
 Fire,The Ember Island Players,"('actor toph', 'actress aang')",2
-Fire,The Ember Island Players,"('actor toph', 'katara')",1
+Fire,The Ember Island Players,"('actor toph', 'toph')",2
 Fire,The Ember Island Players,"('actress aang', 'katara')",1
+Fire,The Ember Island Players,"('actor toph', 'katara')",1
 Fire,The Ember Island Players,"('actress azula', 'actress katara')",1
-Fire,The Ember Island Players,"('actor zuko', 'actress azula')",3
 Fire,The Ember Island Players,"('actor zuko', 'actress katara')",2
+Fire,The Ember Island Players,"('actor zuko', 'actress azula')",3
 Fire,The Ember Island Players,"('actor jet', 'actress aang')",1
 Fire,The Ember Island Players,"('actor zuko', 'sokka')",2
 Fire,The Ember Island Players,"('actor iroh', 'actress azula')",1
@@ -981,58 +981,58 @@ Fire,The Ember Island Players,"('actress aang', 'actress azula')",1
 Fire,The Firebending Masters,"('aang', 'zuko')",31
 Fire,The Firebending Masters,"('sokka', 'zuko')",5
 Fire,The Firebending Masters,"('toph', 'zuko')",3
+Fire,The Firebending Masters,"('aang', 'katara')",1
+Fire,The Firebending Masters,"('katara', 'toph')",1
 Fire,The Firebending Masters,"('katara', 'zuko')",2
+Fire,The Firebending Masters,"('katara', 'sokka')",2
 Fire,The Firebending Masters,"('aang', 'toph')",1
 Fire,The Firebending Masters,"('aang', 'sokka')",2
-Fire,The Firebending Masters,"('aang', 'katara')",1
 Fire,The Firebending Masters,"('sokka', 'toph')",2
-Fire,The Firebending Masters,"('katara', 'toph')",1
-Fire,The Firebending Masters,"('katara', 'sokka')",2
 Fire,The Firebending Masters,"('sun warrior chief', 'zuko')",5
-Fire,The Firebending Masters,"('ham ghao', 'zuko')",1
-Fire,The Firebending Masters,"('aang', 'sun warrior chief')",5
 Fire,The Firebending Masters,"('ham ghao', 'sun warrior chief')",3
+Fire,The Firebending Masters,"('ham ghao', 'zuko')",1
 Fire,The Firebending Masters,"('aang', 'ham ghao')",2
+Fire,The Firebending Masters,"('aang', 'sun warrior chief')",5
 Fire,The Headband,"('aang', 'sokka')",9
 Fire,The Headband,"('sokka', 'toph')",5
 Fire,The Headband,"('katara', 'sokka')",5
 Fire,The Headband,"('aang', 'toph')",6
 Fire,The Headband,"('katara', 'toph')",3
 Fire,The Headband,"('aang', 'katara')",8
-Fire,The Headband,"('fire nation man', 'sokka')",1
 Fire,The Headband,"('aang', 'fire nation man')",1
+Fire,The Headband,"('fire nation man', 'sokka')",1
 Fire,The Headband,"('aang', 'male soldier')",1
 Fire,The Headband,"('aang', 'kwan')",3
-Fire,The Headband,"('hide', 'on ji')",2
 Fire,The Headband,"('aang', 'on ji')",2
 Fire,The Headband,"('aang', 'hide')",2
+Fire,The Headband,"('hide', 'on ji')",2
 Fire,The Headband,"('aang', 'shoji')",4
-Fire,The Headband,"('class', 'kwan')",1
 Fire,The Headband,"('aang', 'class')",1
-Fire,The Headband,"('music teacher', 'shoji')",1
+Fire,The Headband,"('class', 'kwan')",1
 Fire,The Headband,"('aang', 'music teacher')",1
+Fire,The Headband,"('music teacher', 'shoji')",1
 Fire,The Headband,"('aang', 'headmaster')",2
 Fire,The Headband,"('headmaster', 'sokka')",1
 Fire,The Headband,"('headmaster', 'katara')",1
 Fire,The Headband,"('azula', 'zuko')",1
-Fire,The Headband,"('azula', 'mai')",1
 Fire,The Headband,"('mai', 'zuko')",1
-Fire,The Headband,"('male student #2', 'shoji')",1
-Fire,The Headband,"('male student #1', 'shoji')",1
-Fire,The Headband,"('male student #1', 'male student #2')",2
-Fire,The Headband,"('aang', 'male student #2')",1
+Fire,The Headband,"('azula', 'mai')",1
 Fire,The Headband,"('aang', 'male student #1')",1
+Fire,The Headband,"('aang', 'male student #2')",1
+Fire,The Headband,"('male student #1', 'male student #2')",2
+Fire,The Headband,"('male student #1', 'shoji')",1
+Fire,The Headband,"('male student #2', 'shoji')",1
 Fire,The Headband,"('headmaster', 'hide')",1
-Fire,The Headband,"('male soldier #1', 'shoji')",1
-Fire,The Headband,"('headmaster', 'male soldier #1')",1
 Fire,The Headband,"('aang', 'male soldier #1')",1
+Fire,The Headband,"('headmaster', 'male soldier #1')",1
 Fire,The Headband,"('headmaster', 'shoji')",1
+Fire,The Headband,"('male soldier #1', 'shoji')",1
 Fire,The Headband,"('female student #1', 'on ji')",1
 Fire,The Headband,"('female student #1', 'student')",1
 Fire,The Headband,"('on ji', 'student')",1
-Fire,The Painted Lady,"('sokka', 'toph')",8
-Fire,The Painted Lady,"('aang', 'toph')",7
 Fire,The Painted Lady,"('aang', 'sokka')",11
+Fire,The Painted Lady,"('aang', 'toph')",7
+Fire,The Painted Lady,"('sokka', 'toph')",8
 Fire,The Painted Lady,"('katara', 'sokka')",10
 Fire,The Painted Lady,"('aang', 'katara')",10
 Fire,The Painted Lady,"('dock', 'katara')",4
@@ -1048,83 +1048,83 @@ Fire,The Painted Lady,"('aang', 'dock')",2
 Fire,The Painted Lady,"('dock/xu', 'mung')",1
 Fire,The Painted Lady,"('little boy', 'mung')",1
 Fire,The Painted Lady,"('female fire nation soldier', 'male fire nation soldier')",1
+Fire,The Painted Lady,"('dock', 'little boy')",2
 Fire,The Painted Lady,"('little boy', 'villager #2')",1
 Fire,The Painted Lady,"('little boy', 'villager #1')",1
-Fire,The Painted Lady,"('dock', 'little boy')",2
-Fire,The Painted Lady,"('villager #1', 'villager #2')",1
 Fire,The Painted Lady,"('dock', 'villager #2')",1
 Fire,The Painted Lady,"('dock', 'villager #1')",1
+Fire,The Painted Lady,"('villager #1', 'villager #2')",1
+Fire,The Painted Lady,"('little boy', 'villager #4')",1
 Fire,The Painted Lady,"('little boy', 'villager #3')",1
 Fire,The Painted Lady,"('villager #3', 'villager #4')",1
-Fire,The Painted Lady,"('dock', 'villager #3')",1
-Fire,The Painted Lady,"('little boy', 'villager #4')",1
 Fire,The Painted Lady,"('dock', 'villager #4')",1
+Fire,The Painted Lady,"('dock', 'villager #3')",1
 Fire,The Painted Lady,"('dock', 'toph')",1
-Fire,The Puppetmaster,"('toph', 'yue')",1
-Fire,The Puppetmaster,"('katara', 'toph')",5
-Fire,The Puppetmaster,"('roku', 'toph')",1
-Fire,The Puppetmaster,"('katara', 'yue')",1
-Fire,The Puppetmaster,"('roku', 'yue')",1
 Fire,The Puppetmaster,"('katara', 'roku')",1
-Fire,The Puppetmaster,"('sokka', 'toph')",9
-Fire,The Puppetmaster,"('aang', 'toph')",8
+Fire,The Puppetmaster,"('katara', 'toph')",5
+Fire,The Puppetmaster,"('katara', 'yue')",1
+Fire,The Puppetmaster,"('roku', 'toph')",1
+Fire,The Puppetmaster,"('roku', 'yue')",1
+Fire,The Puppetmaster,"('toph', 'yue')",1
 Fire,The Puppetmaster,"('aang', 'sokka')",11
-Fire,The Puppetmaster,"('katara', 'sokka')",10
+Fire,The Puppetmaster,"('aang', 'toph')",8
 Fire,The Puppetmaster,"('aang', 'katara')",7
+Fire,The Puppetmaster,"('sokka', 'toph')",9
+Fire,The Puppetmaster,"('katara', 'sokka')",10
 Fire,The Puppetmaster,"('aang', 'hama')",4
+Fire,The Puppetmaster,"('hama', 'katara')",11
 Fire,The Puppetmaster,"('hama', 'toph')",2
 Fire,The Puppetmaster,"('hama', 'sokka')",9
-Fire,The Puppetmaster,"('hama', 'katara')",11
 Fire,The Puppetmaster,"('shop owner', 'villager')",1
-Fire,The Puppetmaster,"('toph', 'villager')",1
 Fire,The Puppetmaster,"('sokka', 'villager')",1
+Fire,The Puppetmaster,"('toph', 'villager')",1
 Fire,The Puppetmaster,"('aang', 'villager')",1
 Fire,The Puppetmaster,"('aang', 'ding')",2
 Fire,The Puppetmaster,"('ding', 'sokka')",1
 Fire,The Puppetmaster,"('ding', 'toph')",1
-Fire,The Puppetmaster,"('male prisoner #1', 'male prisoner #2')",1
-Fire,The Puppetmaster,"('aang', 'male prisoner #1')",1
-Fire,The Puppetmaster,"('female prisoner', 'male prisoner #1')",1
-Fire,The Puppetmaster,"('male prisoner #1', 'toph')",1
-Fire,The Puppetmaster,"('male prisoner #1', 'sokka')",1
 Fire,The Puppetmaster,"('aang', 'male prisoner #2')",1
-Fire,The Puppetmaster,"('female prisoner', 'male prisoner #2')",1
-Fire,The Puppetmaster,"('male prisoner #2', 'toph')",1
-Fire,The Puppetmaster,"('male prisoner #2', 'sokka')",1
 Fire,The Puppetmaster,"('aang', 'female prisoner')",1
+Fire,The Puppetmaster,"('aang', 'male prisoner #1')",1
+Fire,The Puppetmaster,"('male prisoner #2', 'toph')",1
 Fire,The Puppetmaster,"('female prisoner', 'toph')",1
+Fire,The Puppetmaster,"('male prisoner #1', 'toph')",1
+Fire,The Puppetmaster,"('male prisoner #2', 'sokka')",1
 Fire,The Puppetmaster,"('female prisoner', 'sokka')",1
+Fire,The Puppetmaster,"('male prisoner #1', 'sokka')",1
+Fire,The Puppetmaster,"('female prisoner', 'male prisoner #2')",1
+Fire,The Puppetmaster,"('male prisoner #1', 'male prisoner #2')",1
+Fire,The Puppetmaster,"('female prisoner', 'male prisoner #1')",1
 Fire,The Puppetmaster,"('hama', 'male prisoner #1')",1
 Fire,The Runaway,"('katara', 'toph')",13
-Fire,The Runaway,"('sokka', 'toph')",8
-Fire,The Runaway,"('aang', 'toph')",5
 Fire,The Runaway,"('aang', 'sokka')",10
-Fire,The Runaway,"('katara', 'sokka')",6
+Fire,The Runaway,"('aang', 'toph')",5
 Fire,The Runaway,"('aang', 'katara')",5
+Fire,The Runaway,"('sokka', 'toph')",8
+Fire,The Runaway,"('katara', 'sokka')",6
 Fire,The Runaway,"('dealer', 'toph')",3
 Fire,The Runaway,"('aang', 'dealer')",1
 Fire,The Runaway,"('katara', 'town authority')",1
 Fire,The Runaway,"('female guard', 'toph')",1
 Fire,The Southern Raiders,"('katara', 'zuko')",12
-Fire,The Southern Raiders,"('sokka', 'zuko')",6
-Fire,The Southern Raiders,"('aang', 'zuko')",5
 Fire,The Southern Raiders,"('aang', 'sokka')",5
+Fire,The Southern Raiders,"('aang', 'zuko')",5
+Fire,The Southern Raiders,"('sokka', 'zuko')",6
 Fire,The Southern Raiders,"('azula', 'zuko')",1
-Fire,The Southern Raiders,"('hakoda', 'sokka')",1
 Fire,The Southern Raiders,"('aang', 'hakoda')",1
+Fire,The Southern Raiders,"('aang', 'katara')",6
+Fire,The Southern Raiders,"('hakoda', 'sokka')",1
 Fire,The Southern Raiders,"('hakoda', 'katara')",2
 Fire,The Southern Raiders,"('katara', 'sokka')",5
-Fire,The Southern Raiders,"('aang', 'katara')",6
-Fire,The Southern Raiders,"('suki', 'toph')",1
 Fire,The Southern Raiders,"('aang', 'suki')",1
 Fire,The Southern Raiders,"('aang', 'toph')",2
+Fire,The Southern Raiders,"('suki', 'toph')",1
+Fire,The Southern Raiders,"('katara', 'toph')",1
 Fire,The Southern Raiders,"('toph', 'zuko')",1
 Fire,The Southern Raiders,"('sokka', 'toph')",1
-Fire,The Southern Raiders,"('katara', 'toph')",1
 Fire,The Southern Raiders,"('suki', 'zuko')",1
-Fire,The Southern Raiders,"('kya', 'yon rha')",3
-Fire,The Southern Raiders,"('katara', 'kya')",2
 Fire,The Southern Raiders,"('katara', 'yon rha')",5
+Fire,The Southern Raiders,"('katara', 'kya')",2
+Fire,The Southern Raiders,"('kya', 'yon rha')",3
 Fire,The Southern Raiders,"('southern raiders commander', 'zuko')",3
 Fire,The Southern Raiders,"('yon rha', ""yon rha's mother"")",1
 Fire,The Southern Raiders,"('yon rha', 'zuko')",1
@@ -1132,66 +1132,66 @@ Fire,The Western Air Temple,"('katara', 'sokka')",9
 Fire,The Western Air Temple,"('haru', 'teo')",3
 Fire,The Western Air Temple,"('sokka', 'the duke')",2
 Fire,The Western Air Temple,"('iroh', 'zuko')",2
-Fire,The Western Air Temple,"('teo', 'the duke')",2
 Fire,The Western Air Temple,"('katara', 'the duke')",2
 Fire,The Western Air Temple,"('katara', 'teo')",2
-Fire,The Western Air Temple,"('sokka', 'toph')",6
+Fire,The Western Air Temple,"('teo', 'the duke')",2
 Fire,The Western Air Temple,"('aang', 'sokka')",6
 Fire,The Western Air Temple,"('aang', 'toph')",5
-Fire,The Western Air Temple,"('katara', 'toph')",5
 Fire,The Western Air Temple,"('aang', 'katara')",6
+Fire,The Western Air Temple,"('sokka', 'toph')",6
+Fire,The Western Air Temple,"('katara', 'toph')",5
 Fire,The Western Air Temple,"('sokka', 'zuko')",3
 Fire,The Western Air Temple,"('toph', 'zuko')",3
 Fire,The Western Air Temple,"('katara', 'zuko')",3
 Fire,The Western Air Temple,"('aang', 'zuko')",2
+Fire,The Western Air Temple,"('haru', 'katara')",1
 Fire,The Western Air Temple,"('haru', 'the duke')",1
 Fire,The Western Air Temple,"('haru', 'sokka')",1
-Fire,The Western Air Temple,"('haru', 'katara')",1
 Fire,The Western Air Temple,"('sokka', 'teo')",1
 Water,Bato of the Water Tribe,"('aang', 'katara')",11
 Water,Bato of the Water Tribe,"('aang', 'sokka')",10
 Water,Bato of the Water Tribe,"('katara', 'sokka')",15
-Water,Bato of the Water Tribe,"('firebenders', 'june')",1
-Water,Bato of the Water Tribe,"('firebenders', 'zuko')",1
 Water,Bato of the Water Tribe,"('june', 'zuko')",10
+Water,Bato of the Water Tribe,"('firebenders', 'zuko')",1
+Water,Bato of the Water Tribe,"('firebenders', 'june')",1
 Water,Bato of the Water Tribe,"('iroh', 'zuko')",4
 Water,Bato of the Water Tribe,"('iroh', 'june')",2
 Water,Bato of the Water Tribe,"('hakoda', 'sokka')",1
 Water,Bato of the Water Tribe,"('bato', 'sokka')",13
 Water,Bato of the Water Tribe,"('aang', 'bato')",6
 Water,Bato of the Water Tribe,"('bato', 'katara')",11
-Water,Bato of the Water Tribe,"('mother superior', 'sokka')",2
 Water,Bato of the Water Tribe,"('aang', 'mother superior')",4
 Water,Bato of the Water Tribe,"('bato', 'mother superior')",1
+Water,Bato of the Water Tribe,"('mother superior', 'sokka')",2
 Water,Bato of the Water Tribe,"('aang', 'messenger')",1
 Water,Bato of the Water Tribe,"('herbalist', 'june')",1
 Water,Bato of the Water Tribe,"('herbalist', 'zuko')",1
 Water,Bato of the Water Tribe,"('aunt wu', 'iroh')",1
-Water,Bato of the Water Tribe,"('june', 'sokka')",1
 Water,Bato of the Water Tribe,"('sokka', 'zuko')",1
+Water,Bato of the Water Tribe,"('june', 'sokka')",1
 Water,Bato of the Water Tribe,"('june', 'katara')",1
 Water,Imprisoned,"('aang', 'sokka')",11
-Water,Imprisoned,"('katara', 'sokka')",12
 Water,Imprisoned,"('aang', 'katara')",11
-Water,Imprisoned,"('aang', ""haru's mother"")",1
-Water,Imprisoned,"('haru', ""haru's mother"")",3
+Water,Imprisoned,"('katara', 'sokka')",12
 Water,Imprisoned,"(""haru's mother"", 'katara')",2
-Water,Imprisoned,"('aang', 'haru')",2
 Water,Imprisoned,"('haru', 'katara')",8
+Water,Imprisoned,"('haru', ""haru's mother"")",3
+Water,Imprisoned,"('aang', ""haru's mother"")",1
+Water,Imprisoned,"('aang', 'haru')",2
 Water,Imprisoned,"(""haru's mother"", 'sokka')",2
-Water,Imprisoned,"(""haru's mother"", 'tax collector')",3
 Water,Imprisoned,"('sokka', 'tax collector')",2
+Water,Imprisoned,"(""haru's mother"", 'tax collector')",3
+Water,Imprisoned,"('katara', 'tax collector')",1
 Water,Imprisoned,"('haru', 'tax collector')",1
 Water,Imprisoned,"('haru', 'sokka')",1
-Water,Imprisoned,"('katara', 'tax collector')",1
 Water,Imprisoned,"('haru', 'old man')",2
 Water,Imprisoned,"('katara', 'old man')",1
 Water,Imprisoned,"('guard', 'sokka')",2
-Water,Imprisoned,"('prisoner', 'tyro')",1
-Water,Imprisoned,"('haru', 'prisoner')",1
+Water,Imprisoned,"('katara', 'tyro')",2
 Water,Imprisoned,"('katara', 'prisoner')",1
 Water,Imprisoned,"('haru', 'tyro')",2
-Water,Imprisoned,"('katara', 'tyro')",2
+Water,Imprisoned,"('haru', 'prisoner')",1
+Water,Imprisoned,"('prisoner', 'tyro')",1
 Water,Imprisoned,"('captain', 'sokka')",1
 Water,Imprisoned,"('aang', 'captain')",1
 Water,Imprisoned,"('captain', 'katara')",1
@@ -1200,8 +1200,8 @@ Water,Imprisoned,"('guard', 'warden')",2
 Water,Imprisoned,"('captain', 'guard')",1
 Water,Imprisoned,"('guard', 'katara')",1
 Water,Imprisoned,"('sokka', 'warden')",1
-Water,Imprisoned,"('tyro', 'warden')",4
 Water,Imprisoned,"('sokka', 'tyro')",1
+Water,Imprisoned,"('tyro', 'warden')",4
 Water,Imprisoned,"('aang', 'warden')",1
 Water,Imprisoned,"('aang', 'tyro')",1
 Water,Jet,"('aang', 'sokka')",12
@@ -1212,31 +1212,31 @@ Water,Jet,"('aang', 'eye-patch soldier')",1
 Water,Jet,"('eye-patch soldier', 'katara')",1
 Water,Jet,"('jet', 'sokka')",13
 Water,Jet,"('jet', 'katara')",14
-Water,Jet,"('pipsqueak', 'sokka')",3
-Water,Jet,"('jet', 'pipsqueak')",3
-Water,Jet,"('aang', 'pipsqueak')",3
 Water,Jet,"('aang', 'jet')",12
+Water,Jet,"('aang', 'pipsqueak')",3
+Water,Jet,"('jet', 'pipsqueak')",3
+Water,Jet,"('pipsqueak', 'sokka')",3
 Water,Jet,"('aang', 'the duke')",1
-Water,Jet,"('jet', 'the duke')",2
-Water,Jet,"('pipsqueak', 'the duke')",1
 Water,Jet,"('katara', 'the duke')",1
+Water,Jet,"('pipsqueak', 'the duke')",1
+Water,Jet,"('jet', 'the duke')",2
 Water,Jet,"('katara', 'pipsqueak')",2
 Water,Jet,"('aang', 'smellerbee')",1
-Water,Jet,"('jet', 'smellerbee')",2
-Water,Jet,"('pipsqueak', 'smellerbee')",2
-Water,Jet,"('smellerbee', 'sokka')",3
 Water,Jet,"('katara', 'smellerbee')",1
+Water,Jet,"('pipsqueak', 'smellerbee')",2
+Water,Jet,"('jet', 'smellerbee')",2
+Water,Jet,"('smellerbee', 'sokka')",3
 Water,Jet,"('jet', 'old fire nation civilian')",2
 Water,Jet,"('aang', 'little girl')",1
+Water,Jet,"('katara', 'little girl')",1
 Water,Jet,"('jet', 'little girl')",1
 Water,Jet,"('little girl', 'sokka')",1
-Water,Jet,"('katara', 'little girl')",1
+Water,The Avatar Returns,"('kanna', 'sokka')",3
 Water,The Avatar Returns,"('aang', 'sokka')",6
 Water,The Avatar Returns,"('katara', 'sokka')",11
-Water,The Avatar Returns,"('kanna', 'sokka')",3
-Water,The Avatar Returns,"('aang', 'katara')",6
 Water,The Avatar Returns,"('aang', 'kanna')",1
 Water,The Avatar Returns,"('kanna', 'katara')",3
+Water,The Avatar Returns,"('aang', 'katara')",6
 Water,The Avatar Returns,"('sokka', 'southern water tribe girl')",1
 Water,The Avatar Returns,"('aang', 'southern water tribe girl')",1
 Water,The Avatar Returns,"('sokka', 'southern water tribe boy')",1
@@ -1248,8 +1248,8 @@ Water,The Blue Spirit,"('katara', 'sokka')",6
 Water,The Blue Spirit,"('aang', 'sokka')",3
 Water,The Blue Spirit,"('aang', 'katara')",2
 Water,The Blue Spirit,"('captain', 'zuko')",1
-Water,The Blue Spirit,"('iroh', 'zuko')",4
 Water,The Blue Spirit,"('captain', 'iroh')",1
+Water,The Blue Spirit,"('iroh', 'zuko')",4
 Water,The Blue Spirit,"('soldier', 'zuko')",1
 Water,The Blue Spirit,"('iroh', 'soldier')",1
 Water,The Blue Spirit,"('scout #1', 'scout #2')",1
@@ -1266,107 +1266,107 @@ Water,The Boy in the Iceberg,"('sokka', 'village girl')",1
 Water,The Boy in the Iceberg,"('aang', 'village girl')",1
 Water,The Boy in the Iceberg,"('kanna', 'sokka')",1
 Water,The Boy in the Iceberg,"('sokka', 'southern water tribe boy')",1
-Water,The Deserter,"('aang', 'sokka')",12
 Water,The Deserter,"('katara', 'sokka')",6
 Water,The Deserter,"('aang', 'katara')",8
-Water,The Deserter,"('mask dealer', 'sokka')",1
+Water,The Deserter,"('aang', 'sokka')",12
 Water,The Deserter,"('katara', 'mask dealer')",1
-Water,The Deserter,"('shop keeper', 'sokka')",1
+Water,The Deserter,"('mask dealer', 'sokka')",1
 Water,The Deserter,"('aang', 'shop keeper')",1
+Water,The Deserter,"('shop keeper', 'sokka')",1
 Water,The Deserter,"('aang', 'malu')",1
-Water,The Deserter,"('fire nation kids', 'malu')",1
-Water,The Deserter,"('malu', 'puppet fire lord')",1
-Water,The Deserter,"('malu', 'sokka')",1
-Water,The Deserter,"('katara', 'malu')",1
 Water,The Deserter,"('aang', 'fire nation kids')",1
 Water,The Deserter,"('aang', 'puppet fire lord')",1
-Water,The Deserter,"('fire nation kids', 'puppet fire lord')",1
-Water,The Deserter,"('fire nation kids', 'sokka')",1
+Water,The Deserter,"('katara', 'malu')",1
 Water,The Deserter,"('fire nation kids', 'katara')",1
-Water,The Deserter,"('puppet fire lord', 'sokka')",1
 Water,The Deserter,"('katara', 'puppet fire lord')",1
-Water,The Deserter,"('citizen', 'sokka')",1
+Water,The Deserter,"('fire nation kids', 'malu')",1
+Water,The Deserter,"('malu', 'sokka')",1
+Water,The Deserter,"('malu', 'puppet fire lord')",1
+Water,The Deserter,"('fire nation kids', 'sokka')",1
+Water,The Deserter,"('fire nation kids', 'puppet fire lord')",1
+Water,The Deserter,"('puppet fire lord', 'sokka')",1
 Water,The Deserter,"('guard', 'sokka')",2
+Water,The Deserter,"('citizen', 'sokka')",1
 Water,The Deserter,"('chey', 'sokka')",7
 Water,The Deserter,"('citizen', 'guard')",1
-Water,The Deserter,"('chey', 'citizen')",1
 Water,The Deserter,"('chey', 'guard')",2
-Water,The Deserter,"('aang', 'chey')",6
+Water,The Deserter,"('chey', 'citizen')",1
 Water,The Deserter,"('aang', 'guard')",1
+Water,The Deserter,"('aang', 'chey')",6
 Water,The Deserter,"('chey', 'katara')",2
 Water,The Deserter,"('lin yee', 'sokka')",1
 Water,The Deserter,"('chey', 'lin yee')",3
 Water,The Deserter,"('aang', 'lin yee')",1
 Water,The Deserter,"('guard captain', 'zhao')",1
 Water,The Deserter,"('aang', 'jeong jeong')",9
-Water,The Deserter,"('jeong jeong', 'roku')",1
 Water,The Deserter,"('aang', 'roku')",1
+Water,The Deserter,"('jeong jeong', 'roku')",1
 Water,The Deserter,"('jeong jeong', 'sokka')",2
-Water,The Deserter,"('jeong jeong', 'katara')",2
-Water,The Deserter,"('jeong jeong', 'tribal man')",1
 Water,The Deserter,"('aang', 'tribal man')",1
+Water,The Deserter,"('jeong jeong', 'tribal man')",1
 Water,The Deserter,"('katara', 'tribal man')",1
-Water,The Deserter,"('jeong jeong', 'zhao')",1
+Water,The Deserter,"('jeong jeong', 'katara')",2
 Water,The Deserter,"('aang', 'zhao')",5
+Water,The Deserter,"('jeong jeong', 'zhao')",1
 Water,The Deserter,"('sokka', 'zhao')",1
 Water,The Fortuneteller,"('aang', 'sokka')",22
 Water,The Fortuneteller,"('katara', 'sokka')",16
 Water,The Fortuneteller,"('aang', 'katara')",14
 Water,The Fortuneteller,"('aang', 'calm man')",5
-Water,The Fortuneteller,"('calm man', 'sokka')",5
 Water,The Fortuneteller,"('calm man', 'katara')",5
+Water,The Fortuneteller,"('calm man', 'sokka')",5
 Water,The Fortuneteller,"('katara', 'strange man')",1
 Water,The Fortuneteller,"('meng', 'sokka')",2
 Water,The Fortuneteller,"('aang', 'meng')",6
 Water,The Fortuneteller,"('katara', 'meng')",3
-Water,The Fortuneteller,"('aang', 'woman')",1
 Water,The Fortuneteller,"('meng', 'woman')",1
+Water,The Fortuneteller,"('aang', 'woman')",1
 Water,The Fortuneteller,"('katara', 'wu')",5
 Water,The Fortuneteller,"('sokka', 'wu')",3
 Water,The Fortuneteller,"('aang', 'wu')",6
-Water,The Fortuneteller,"('calm man', 'village woman')",2
+Water,The Fortuneteller,"('katara', 'village woman')",2
 Water,The Fortuneteller,"('aang', 'village woman')",2
 Water,The Fortuneteller,"('sokka', 'village woman')",2
-Water,The Fortuneteller,"('katara', 'village woman')",2
-Water,The Fortuneteller,"('poi', 'wu')",1
-Water,The Fortuneteller,"('farmer', 'wu')",1
-Water,The Fortuneteller,"('ping', 'wu')",1
-Water,The Fortuneteller,"('farmer', 'poi')",1
-Water,The Fortuneteller,"('ping', 'poi')",2
+Water,The Fortuneteller,"('calm man', 'village woman')",2
 Water,The Fortuneteller,"('farmer', 'ping')",1
+Water,The Fortuneteller,"('ping', 'wu')",1
+Water,The Fortuneteller,"('ping', 'poi')",2
+Water,The Fortuneteller,"('farmer', 'wu')",1
+Water,The Fortuneteller,"('farmer', 'poi')",1
+Water,The Fortuneteller,"('poi', 'wu')",1
 Water,The Fortuneteller,"('man', 'sokka')",1
 Water,The Fortuneteller,"('aang', 'man')",1
 Water,The Fortuneteller,"('man with red shoes', 'sokka')",1
-Water,The Fortuneteller,"('poi', 'sokka')",1
 Water,The Fortuneteller,"('ping', 'sokka')",1
+Water,The Fortuneteller,"('poi', 'sokka')",1
 Water,The Fortuneteller,"('calm man', 'wu')",1
-Water,The Great Divide,"('aang', 'sokka')",8
 Water,The Great Divide,"('katara', 'sokka')",7
 Water,The Great Divide,"('aang', 'katara')",7
-Water,The Great Divide,"('gan jin tribesman', 'sokka')",2
+Water,The Great Divide,"('aang', 'sokka')",8
 Water,The Great Divide,"('aang', 'gan jin tribesman')",2
+Water,The Great Divide,"('gan jin tribesman', 'sokka')",2
 Water,The Great Divide,"('gan jin tribesman', 'katara')",3
-Water,The Great Divide,"('canyon guide', 'gan jin tribesman')",2
+Water,The Great Divide,"('katara', 'zhang leader')",4
 Water,The Great Divide,"('canyon guide', 'katara')",6
 Water,The Great Divide,"('canyon guide', 'zhang leader')",5
 Water,The Great Divide,"('gan jin tribesman', 'zhang leader')",2
-Water,The Great Divide,"('katara', 'zhang leader')",4
+Water,The Great Divide,"('canyon guide', 'gan jin tribesman')",2
+Water,The Great Divide,"('gan jin leader', 'katara')",4
 Water,The Great Divide,"('aang', 'canyon guide')",8
+Water,The Great Divide,"('aang', 'gan jin leader')",7
+Water,The Great Divide,"('aang', 'zhang leader')",7
 Water,The Great Divide,"('canyon guide', 'gan jin leader')",3
 Water,The Great Divide,"('canyon guide', 'sokka')",6
-Water,The Great Divide,"('aang', 'zhang leader')",7
 Water,The Great Divide,"('gan jin leader', 'zhang leader')",5
-Water,The Great Divide,"('sokka', 'zhang leader')",6
 Water,The Great Divide,"('gan jin leader', 'gan jin tribesman')",1
-Water,The Great Divide,"('aang', 'gan jin leader')",7
 Water,The Great Divide,"('gan jin leader', 'sokka')",3
-Water,The Great Divide,"('gan jin leader', 'katara')",4
-Water,The Great Divide,"('gan jin leader', 'gan jin man')",1
+Water,The Great Divide,"('sokka', 'zhang leader')",6
 Water,The Great Divide,"('aang', 'gan jin man')",1
 Water,The Great Divide,"('gan jin man', 'zhang leader')",1
+Water,The Great Divide,"('gan jin leader', 'gan jin man')",1
 Water,The King of Omashu,"('aang', 'sokka')",9
-Water,The King of Omashu,"('katara', 'sokka')",7
 Water,The King of Omashu,"('aang', 'katara')",10
+Water,The King of Omashu,"('katara', 'sokka')",7
 Water,The King of Omashu,"('aang', 'gate guard')",1
 Water,The King of Omashu,"('gate guard', 'katara')",1
 Water,The King of Omashu,"('aang', 'bumi')",13
@@ -1377,8 +1377,8 @@ Water,The King of Omashu,"('chamberlain', 'sokka')",1
 Water,The King of Omashu,"('bumi', 'chamberlain')",1
 Water,The King of Omashu,"('aang', 'guard')",1
 Water,The Northern Air Temple,"('aang', 'storyteller')",4
-Water,The Northern Air Temple,"('katara', 'storyteller')",1
 Water,The Northern Air Temple,"('aang', 'katara')",12
+Water,The Northern Air Temple,"('katara', 'storyteller')",1
 Water,The Northern Air Temple,"('sokka', 'storyteller')",1
 Water,The Northern Air Temple,"('aang', 'sokka')",9
 Water,The Northern Air Temple,"('katara', 'sokka')",6
@@ -1389,13 +1389,13 @@ Water,The Northern Air Temple,"('katara', 'teo')",10
 Water,The Northern Air Temple,"('aang', 'mechanist')",7
 Water,The Northern Air Temple,"('mechanist', 'teo')",5
 Water,The Northern Air Temple,"('mechanist', 'sokka')",11
-Water,The Northern Air Temple,"('qin', 'teo')",1
-Water,The Northern Air Temple,"('mechanist', 'qin')",2
 Water,The Northern Air Temple,"('aang', 'qin')",2
+Water,The Northern Air Temple,"('mechanist', 'qin')",2
+Water,The Northern Air Temple,"('qin', 'teo')",1
 Water,The Northern Air Temple,"('katara', 'mechanist')",2
+Water,The Northern Air Temple,"('girl', 'katara')",1
 Water,The Northern Air Temple,"('girl', 'teo')",1
 Water,The Northern Air Temple,"('aang', 'girl')",1
-Water,The Northern Air Temple,"('girl', 'katara')",1
 Water,"The Siege of the North, Part 1","('aang', 'pakku')",1
 Water,"The Siege of the North, Part 1","('sokka', 'yue')",7
 Water,"The Siege of the North, Part 1","('iroh', 'zhao')",2
@@ -1406,17 +1406,17 @@ Water,"The Siege of the North, Part 1","('arnook', 'katara')",1
 Water,"The Siege of the North, Part 1","('hahn', 'sokka')",4
 Water,"The Siege of the North, Part 1","('arnook', 'hahn')",2
 Water,"The Siege of the North, Part 1","('aang', 'yue')",5
-Water,"The Siege of the North, Part 1","('katara', 'yue')",5
 Water,"The Siege of the North, Part 1","('aang', 'katara')",4
-Water,"The Siege of the North, Part 1","('yue', 'zuko')",1
+Water,"The Siege of the North, Part 1","('katara', 'yue')",5
 Water,"The Siege of the North, Part 1","('katara', 'zuko')",1
+Water,"The Siege of the North, Part 1","('yue', 'zuko')",1
 Water,"The Siege of the North, Part 2","('katara', 'sokka')",3
 Water,"The Siege of the North, Part 2","('aang', 'baboon spirit')",1
 Water,"The Siege of the North, Part 2","('aang', 'roku')",3
 Water,"The Siege of the North, Part 2","('iroh', 'zhao')",3
 Water,"The Siege of the North, Part 2","('aang', 'koh')",3
-Water,"The Siege of the North, Part 2","('sokka', 'yue')",3
 Water,"The Siege of the North, Part 2","('katara', 'yue')",2
+Water,"The Siege of the North, Part 2","('sokka', 'yue')",3
 Water,"The Siege of the North, Part 2","('aang', 'zuko')",2
 Water,"The Siege of the North, Part 2","('katara', 'zuko')",1
 Water,"The Siege of the North, Part 2","('aang', 'sokka')",3
@@ -1426,9 +1426,9 @@ Water,"The Siege of the North, Part 2","('yue', 'zhao')",1
 Water,"The Siege of the North, Part 2","('aang', 'yue')",2
 Water,"The Siege of the North, Part 2","('aang', 'iroh')",1
 Water,"The Siege of the North, Part 2","('zhao', 'zuko')",1
+Water,"The Siege of the North, Part 2","('iroh', 'katara')",1
 Water,"The Siege of the North, Part 2","('iroh', 'sokka')",1
 Water,"The Siege of the North, Part 2","('iroh', 'yue')",1
-Water,"The Siege of the North, Part 2","('iroh', 'katara')",1
 Water,"The Siege of the North, Part 2","('katara', 'pakku')",1
 Water,"The Siege of the North, Part 2","('arnook', 'sokka')",1
 Water,"The Siege of the North, Part 2","('iroh', 'zuko')",1
@@ -1436,8 +1436,8 @@ Water,"The Siege of the North, Part 2","('aang', 'katara')",1
 Water,The Southern Air Temple,"('aang', 'katara')",16
 Water,The Southern Air Temple,"('aang', 'sokka')",13
 Water,The Southern Air Temple,"('zhao', 'zuko')",10
-Water,The Southern Air Temple,"('iroh', 'zhao')",4
 Water,The Southern Air Temple,"('iroh', 'zuko')",7
+Water,The Southern Air Temple,"('iroh', 'zhao')",4
 Water,The Southern Air Temple,"('soldier', 'zhao')",1
 Water,The Southern Air Temple,"('katara', 'sokka')",7
 Water,The Southern Air Temple,"('aang', 'gyatso')",3
@@ -1447,45 +1447,45 @@ Water,The Storm,"('gyatso', 'katara')",1
 Water,The Storm,"('aang', 'sokka')",5
 Water,The Storm,"('katara', 'sokka')",5
 Water,The Storm,"('iroh', 'zuko')",7
+Water,The Storm,"('katara', 'merchant woman')",1
+Water,The Storm,"('katara', 'shopkeeper')",1
 Water,The Storm,"('merchant woman', 'shopkeeper')",1
 Water,The Storm,"('aang', 'merchant woman')",1
-Water,The Storm,"('katara', 'merchant woman')",1
 Water,The Storm,"('aang', 'shopkeeper')",1
-Water,The Storm,"('katara', 'shopkeeper')",1
+Water,The Storm,"('aang', ""fisherman's wife"")",4
+Water,The Storm,"('aang', 'fisherman')",4
 Water,The Storm,"(""fisherman's wife"", 'sokka')",3
 Water,The Storm,"('fisherman', ""fisherman's wife"")",3
-Water,The Storm,"('aang', ""fisherman's wife"")",4
 Water,The Storm,"('fisherman', 'sokka')",6
-Water,The Storm,"('aang', 'fisherman')",4
-Water,The Storm,"('jee', 'zuko')",3
-Water,The Storm,"('lieutenant jee', 'zuko')",1
-Water,The Storm,"('iroh', 'jee')",7
-Water,The Storm,"('iroh', 'lieutenant jee')",1
 Water,The Storm,"('jee', 'lieutenant jee')",1
-Water,The Storm,"(""fisherman's wife"", 'katara')",2
+Water,The Storm,"('lieutenant jee', 'zuko')",1
+Water,The Storm,"('iroh', 'lieutenant jee')",1
+Water,The Storm,"('jee', 'zuko')",3
+Water,The Storm,"('iroh', 'jee')",7
 Water,The Storm,"('fisherman', 'katara')",3
+Water,The Storm,"(""fisherman's wife"", 'katara')",2
 Water,The Storm,"('aang', 'air nomad boy #2')",2
-Water,The Storm,"('air nomad boy #1', 'air nomad boy #2')",2
 Water,The Storm,"('aang', 'air nomad boy #1')",2
+Water,The Storm,"('air nomad boy #1', 'air nomad boy #2')",2
 Water,The Storm,"('aang', 'tashi')",2
+Water,The Storm,"('gyatso', 'tashi')",3
 Water,The Storm,"('gyatso', 'pasang')",2
 Water,The Storm,"('pasang', 'tashi')",2
-Water,The Storm,"('gyatso', 'tashi')",3
-Water,The Storm,"('bujing', 'zuko')",1
 Water,The Storm,"('elder soldier', 'zuko')",1
+Water,The Storm,"('bujing', 'zuko')",1
 Water,The Storm,"('bujing', 'elder soldier')",1
 Water,The Storm,"('ozai', 'zuko')",2
 Water,The Warriors of Kyoshi,"('iroh', 'zuko')",3
-Water,The Warriors of Kyoshi,"('aang', 'sokka')",8
 Water,The Warriors of Kyoshi,"('katara', 'sokka')",7
 Water,The Warriors of Kyoshi,"('aang', 'katara')",16
+Water,The Warriors of Kyoshi,"('aang', 'sokka')",8
 Water,The Warriors of Kyoshi,"('sokka', 'suki')",9
-Water,The Warriors of Kyoshi,"('oyaji', 'sokka')",2
-Water,The Warriors of Kyoshi,"('aang', 'oyaji')",5
-Water,The Warriors of Kyoshi,"('oyaji', 'suki')",2
-Water,The Warriors of Kyoshi,"('katara', 'oyaji')",2
 Water,The Warriors of Kyoshi,"('aang', 'suki')",2
+Water,The Warriors of Kyoshi,"('aang', 'oyaji')",5
 Water,The Warriors of Kyoshi,"('katara', 'suki')",1
+Water,The Warriors of Kyoshi,"('katara', 'oyaji')",2
+Water,The Warriors of Kyoshi,"('oyaji', 'suki')",2
+Water,The Warriors of Kyoshi,"('oyaji', 'sokka')",2
 Water,The Warriors of Kyoshi,"('fisherman', 'little girl')",1
 Water,The Warriors of Kyoshi,"('fangirls', 'koko')",1
 Water,The Warriors of Kyoshi,"('aang', 'koko')",2
@@ -1507,8 +1507,8 @@ Water,The Waterbending Master,"('zhao', 'zuko')",2
 Water,The Waterbending Master,"('iroh', 'zhao')",3
 Water,The Waterbending Master,"('katara', 'pakku')",7
 Water,The Waterbending Master,"('pirate captain', 'zhao')",1
-Water,The Waterbending Master,"('oh', 'zhao')",1
 Water,The Waterbending Master,"('oh', 'pirate captain')",1
+Water,The Waterbending Master,"('oh', 'zhao')",1
 Water,The Waterbending Master,"('katara', 'yugoda')",2
 Water,The Waterbending Master,"('oh', 'zuko')",1
 Water,The Waterbending Master,"('arnook', 'katara')",1
@@ -1519,82 +1519,82 @@ Water,The Waterbending Scroll,"('aang', 'katara')",15
 Water,The Waterbending Scroll,"('iroh', 'zuko')",5
 Water,The Waterbending Scroll,"('aang', 'oh')",5
 Water,The Waterbending Scroll,"('aang', 'pirate captain')",5
-Water,The Waterbending Scroll,"('pirate captain', 'sokka')",3
 Water,The Waterbending Scroll,"('katara', 'pirate captain')",4
-Water,The Waterbending Scroll,"('oh', 'pirate captain')",1
-Water,The Waterbending Scroll,"('oh', 'sokka')",2
 Water,The Waterbending Scroll,"('katara', 'oh')",4
-Water,The Waterbending Scroll,"('oh', 'pirate')",1
+Water,The Waterbending Scroll,"('oh', 'pirate captain')",1
+Water,The Waterbending Scroll,"('pirate captain', 'sokka')",3
+Water,The Waterbending Scroll,"('oh', 'sokka')",2
 Water,The Waterbending Scroll,"('aang', 'pirate')",2
+Water,The Waterbending Scroll,"('oh', 'pirate')",1
 Water,The Waterbending Scroll,"('katara', 'pirate')",1
 Water,The Waterbending Scroll,"('oh', 'zuko')",1
 Water,The Waterbending Scroll,"('iroh', 'oh')",1
 Water,The Waterbending Scroll,"('pirate captain', 'zuko')",4
 Water,The Waterbending Scroll,"('katara', 'zuko')",4
 Water,The Waterbending Scroll,"('pirate', 'sokka')",1
-Water,The Waterbending Scroll,"('aang', 'zuko')",3
-Water,The Waterbending Scroll,"('sokka', 'zuko')",3
 Water,The Waterbending Scroll,"('aang', 'iroh')",3
+Water,The Waterbending Scroll,"('aang', 'zuko')",3
+Water,The Waterbending Scroll,"('iroh', 'katara')",2
 Water,The Waterbending Scroll,"('iroh', 'pirate captain')",2
 Water,The Waterbending Scroll,"('iroh', 'sokka')",3
-Water,The Waterbending Scroll,"('iroh', 'katara')",2
-Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'sokka')",8
+Water,The Waterbending Scroll,"('sokka', 'zuko')",3
 Water,"Winter Solstice, Part 1: The Spirit World","('katara', 'sokka')",8
 Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'katara')",10
+Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'sokka')",8
 Water,"Winter Solstice, Part 1: The Spirit World","('iroh', 'zuko')",2
 Water,"Winter Solstice, Part 1: The Spirit World","('old wanderer', 'sokka')",4
-Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'old wanderer')",4
-Water,"Winter Solstice, Part 1: The Spirit World","('old wanderer', 'senlin village leader')",2
-Water,"Winter Solstice, Part 1: The Spirit World","('katara', 'old wanderer')",3
 Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'senlin village leader')",4
-Water,"Winter Solstice, Part 1: The Spirit World","('senlin village leader', 'sokka')",4
+Water,"Winter Solstice, Part 1: The Spirit World","('aang', 'old wanderer')",4
 Water,"Winter Solstice, Part 1: The Spirit World","('katara', 'senlin village leader')",4
+Water,"Winter Solstice, Part 1: The Spirit World","('katara', 'old wanderer')",3
+Water,"Winter Solstice, Part 1: The Spirit World","('old wanderer', 'senlin village leader')",2
+Water,"Winter Solstice, Part 1: The Spirit World","('senlin village leader', 'sokka')",4
 Water,"Winter Solstice, Part 1: The Spirit World","('earthbender captain', 'soldier')",2
 Water,"Winter Solstice, Part 1: The Spirit World","('fire nation soldier', 'zuko')",1
 Water,"Winter Solstice, Part 1: The Spirit World","('earthbender captain', 'iroh')",3
 Water,"Winter Solstice, Part 1: The Spirit World","('earthbender captain', 'zuko')",1
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'katara')",13
-Water,"Winter Solstice, Part 2: Avatar Roku","('senlin village leader', 'sokka')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'sokka')",15
 Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'sokka')",12
-Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'senlin village leader')",1
 Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'senlin village leader')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'zuko')",5
-Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'zuko')",6
-Water,"Winter Solstice, Part 2: Avatar Roku","('sokka', 'zuko')",4
-Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'zuko')",5
+Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'sokka')",15
+Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'senlin village leader')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('senlin village leader', 'sokka')",1
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'iroh')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'sokka')",3
+Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'zuko')",6
 Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'katara')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('zhao', 'zuko')",4
-Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'zuko')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'zhao')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'zhao')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'zhao')",4
-Water,"Winter Solstice, Part 2: Avatar Roku","('sokka', 'zhao')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'zhao')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'iroh')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'zuko')",5
+Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'zuko')",5
+Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'sokka')",3
+Water,"Winter Solstice, Part 2: Avatar Roku","('sokka', 'zuko')",4
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'captain')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'sokka')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'zhao')",4
 Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'katara')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('engineer', 'zhao')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'zhao')",3
+Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'zhao')",3
+Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'iroh')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'zuko')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('captain', 'sokka')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'zhao')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('zhao', 'zuko')",4
+Water,"Winter Solstice, Part 2: Avatar Roku","('sokka', 'zhao')",3
 Water,"Winter Solstice, Part 2: Avatar Roku","('engineer', 'zuko')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('engineer', 'zhao')",1
 Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'sokka')",4
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'great fire sage')",6
 Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'katara')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'shyu')",4
-Water,"Winter Solstice, Part 2: Avatar Roku","('shyu', 'sokka')",6
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'shyu')",7
-Water,"Winter Solstice, Part 2: Avatar Roku","('shyu', 'zuko')",3
-Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'shyu')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('shyu', 'sokka')",6
+Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'shyu')",4
 Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'shyu')",6
+Water,"Winter Solstice, Part 2: Avatar Roku","('iroh', 'shyu')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('shyu', 'zuko')",3
 Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'zuko')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'zuko')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'roku')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'zhao')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'zhao')",2
 Water,"Winter Solstice, Part 2: Avatar Roku","('aang', 'roku')",2
-Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'shyu')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'zhao')",2
 Water,"Winter Solstice, Part 2: Avatar Roku","('shyu', 'zhao')",1
-Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'sokka')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'zhao')",2
+Water,"Winter Solstice, Part 2: Avatar Roku","('great fire sage', 'roku')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'shyu')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'zuko')",1
 Water,"Winter Solstice, Part 2: Avatar Roku","('katara', 'roku')",1
+Water,"Winter Solstice, Part 2: Avatar Roku","('roku', 'sokka')",1

@@ -1,0 +1,1077 @@
+book,pair,count,average_sentiment_between_characters
+Earth,"('aang', 'katara')",113,-0.09610255171753272
+Earth,"('katara', 'pakku')",1,0.9043632566928863
+Earth,"('aang', 'pakku')",1,0.9043632566928863
+Earth,"('iroh', 'zuko')",55,-0.00950761190160011
+Earth,"('azula', 'captain')",2,-0.07458372685042297
+Earth,"('fong', 'katara')",3,0.5354780506056088
+Earth,"('aang', 'sokka')",126,-0.05295818168997998
+Earth,"('aang', 'fong')",7,0.11411515201677333
+Earth,"('fong', 'sokka')",1,0.12357307626650883
+Earth,"('katara', 'sokka')",124,-0.161891186613386
+Earth,"('azula', 'li')",2,-0.6127125695347786
+Earth,"('azula', 'lo')",2,-0.6127125695347786
+Earth,"('li', 'lo')",2,-0.6127125695347786
+Earth,"('aang', 'soldier')",2,1.344508346915245
+Earth,"('aang', 'oracle')",1,-1.4915862679481506
+Earth,"('azula', 'zuko')",16,0.031996731772752744
+Earth,"('azula', 'iroh')",3,-0.03171943731251218
+Earth,"('captain', 'zuko')",1,0.7986172735691071
+Earth,"('aang', 'roku')",1,-0.49064338207244873
+Earth,"('katara', 'soldier')",2,0.5981554135680198
+Earth,"('chong', 'katara')",8,-0.23793808228590269
+Earth,"('chong', 'sokka')",13,0.15411615917732668
+Earth,"('aang', 'chong')",4,0.1819678528742357
+Earth,"('aang', 'moku')",3,0.2942523409019817
+Earth,"('chong', 'moku')",3,0.31632157157767904
+Earth,"('moku', 'sokka')",2,0.5692424996332689
+Earth,"('lily', 'sokka')",4,-0.336813478239558
+Earth,"('chong', 'lily')",4,-0.336813478239558
+Earth,"('katara', 'lily')",3,-0.326235834847797
+Earth,"('sokka', 'toph')",74,-0.25494753502515144
+Earth,"('aang', 'toph')",61,-0.30482968852001585
+Earth,"('katara', 'toph')",69,-0.24697040718848004
+Earth,"('katara', 'moku')",1,-0.34511774507435883
+Earth,"('aang', 'lily')",1,-0.34511774507435883
+Earth,"('lily', 'moku')",1,-0.34511774507435883
+Earth,"('song', 'zuko')",4,0.12355130990701063
+Earth,"('iroh', 'song')",3,0.18202839153153558
+Earth,"('song', ""song's mother"")",1,-0.05187993496656418
+Earth,"(""song's mother"", 'zuko')",1,-0.05187993496656418
+Earth,"('iroh', ""song's mother"")",1,1.497302383184433
+Earth,"('guard one', 'katara')",2,-0.5747962519526482
+Earth,"('guard two', 'katara')",1,-1.0874091535806656
+Earth,"('guard two', 'sokka')",1,-1.0874091535806656
+Earth,"('guard one', 'guard two')",1,-1.0874091535806656
+Earth,"('guard one', 'sokka')",1,-1.0874091535806656
+Earth,"('azula', 'ty lee')",7,0.1600558108517102
+Earth,"('aang', 'resistance fighter #1')",1,0.050751931965351105
+Earth,"('aang', 'resistance fighter #2')",1,0.050751931965351105
+Earth,"('aang', 'yung')",1,0.050751931965351105
+Earth,"('resistance fighter #1', 'resistance fighter #2')",1,0.050751931965351105
+Earth,"('resistance fighter #1', 'yung')",1,0.050751931965351105
+Earth,"('resistance fighter #2', 'yung')",1,0.050751931965351105
+Earth,"('old man', 'sokka')",1,-0.0026318728923797607
+Earth,"('guard', 'ukano')",1,-0.9864658415317535
+Earth,"('michi', 'ukano')",1,-0.9864658415317535
+Earth,"('guard', 'michi')",1,-0.9864658415317535
+Earth,"('mai', 'michi')",1,-1.4958178997039795
+Earth,"('azula', 'shuzumu')",3,0.49983616173267365
+Earth,"('katara', 'yung')",1,-1.4888166189193726
+Earth,"('mai', 'ty lee')",8,-0.2717471830546856
+Earth,"('azula', 'mai')",7,0.3374522232583591
+Earth,"('azula', 'ukano')",1,-1.4940638691186905
+Earth,"('aang', 'azula')",3,0.3642656217018763
+Earth,"('aang', 'mai')",1,0.48643362522125244
+Earth,"('azula', 'bumi')",1,-0.1149311363697052
+Earth,"('bumi', 'mai')",1,-0.1149311363697052
+Earth,"('aang', 'bumi')",6,-0.3260787023852269
+Earth,"('peasant girl', 'zuko')",1,-0.748510368168354
+Earth,"('iroh', 'peasant girl')",1,-0.748510368168354
+Earth,"('broadsword man', 'zuko')",1,0.0013449043035507202
+Earth,"('broadsword man', 'iroh')",2,0.28321167081594467
+Earth,"('due', 'tho')",5,-0.25967322468757625
+Earth,"('princess yue', 'sokka')",1,-1.4987771809101105
+Earth,"('aang', 'huu')",3,-0.23545634643389626
+Earth,"('huu', 'sokka')",4,-0.13857608769948665
+Earth,"('huu', 'katara')",2,0.06261210745343795
+Earth,"('due', 'katara')",2,-0.4992285631597042
+Earth,"('due', 'sokka')",3,-0.48252201825380325
+Earth,"('due', 'huu')",1,0.15206468850374222
+Earth,"('katara', 'tho')",1,-1.1505218148231506
+Earth,"('sokka', 'tho')",1,-1.1505218148231506
+Earth,"('merchant', 'sokka')",1,-0.1970953345298767
+Earth,"('katara', 'merchant')",1,0.9098182082176208
+Earth,"('aang', 'merchant')",1,0.9098182082176208
+Earth,"('aang', 'villager')",1,0.7500060349702835
+Earth,"('aang', 'tong')",7,-0.2122304597071239
+Earth,"('tong', 'villager')",1,0.7500060349702835
+Earth,"('aang', 'villager #2')",1,-0.4957180321216583
+Earth,"('tong', 'villager #2')",1,-0.4957180321216583
+Earth,"('aang', 'villager #3')",1,0.4305571913719177
+Earth,"('katara', 'villager #3')",2,-0.4709678664803505
+Earth,"('katara', 'koko')",1,-1.4841527044773102
+Earth,"('katara', 'oyaji')",5,-0.03776318516050066
+Earth,"('oyaji', 'sokka')",4,0.20171514047043665
+Earth,"('aang', 'sensitive ruffian')",2,0.9491706609725952
+Earth,"('aang', 'prisoner #2')",1,0.3987165927886963
+Earth,"('aang', 'scary prisoner')",2,0.9491706609725952
+Earth,"('prisoner #2', 'sensitive ruffian')",1,0.3987165927886963
+Earth,"('scary prisoner', 'sensitive ruffian')",2,0.9491706609725952
+Earth,"('prisoner #2', 'scary prisoner')",1,0.3987165927886963
+Earth,"('guard', 'sokka')",1,1.4745254337787628
+Earth,"('aang', 'guard')",1,1.4745254337787628
+Earth,"('katara', 'tong')",3,-0.49505773186683655
+Earth,"('sokka', 'tong')",2,-0.14503920078277588
+Earth,"('katara', 'villager')",1,-1.3724929243326187
+Earth,"('katara', 'villager #2')",1,-1.3724929243326187
+Earth,"('villager', 'villager #3')",1,-1.3724929243326187
+Earth,"('villager', 'villager #2')",1,-1.3724929243326187
+Earth,"('villager #2', 'villager #3')",1,-1.3724929243326187
+Earth,"('mongke', 'villager')",1,0.0059769898653030396
+Earth,"('aang', 'male student')",3,-0.3723510354757309
+Earth,"('aang', 'male student #2')",2,0.18632787466049194
+Earth,"('male student', 'male student #2')",2,0.18632787466049194
+Earth,"('katara', 'the boulder')",1,0.49783729016780853
+Earth,"('katara', 'xin fu')",4,0.04437728226184845
+Earth,"('katara', 'the hippo')",1,0.49783729016780853
+Earth,"('the boulder', 'xin fu')",2,0.24642224609851837
+Earth,"('sokka', 'the boulder')",1,0.49783729016780853
+Earth,"('the boulder', 'the hippo')",1,0.49783729016780853
+Earth,"('sokka', 'xin fu')",2,-0.13829730823636055
+Earth,"('the hippo', 'xin fu')",1,0.49783729016780853
+Earth,"('sokka', 'the hippo')",1,0.49783729016780853
+Earth,"('aang', 'xin fu')",3,0.39269531269868213
+Earth,"('the boulder', 'toph')",2,0.6875057592988014
+Earth,"('audience', 'sokka')",1,-0.6692555844783783
+Earth,"('audience', 'toph')",1,-0.6692555844783783
+Earth,"('aang', 'audience')",1,-0.6692555844783783
+Earth,"('katara', 'male student')",1,-0.11146152019500732
+Earth,"('katara', 'male student #2')",1,-0.11146152019500732
+Earth,"('male student', 'sokka')",1,-0.11146152019500732
+Earth,"('male student #2', 'sokka')",1,-0.11146152019500732
+Earth,"('guard', 'toph')",3,0.4505201478799184
+Earth,"('lao', 'yu')",2,0.26526449620723724
+Earth,"('servant', 'yu')",1,0.03229936957359314
+Earth,"('lao', 'servant')",1,0.03229936957359314
+Earth,"('aang', 'lao')",4,0.1412486435756797
+Earth,"('aang', 'poppy')",2,0.03250005131676084
+Earth,"('lao', 'poppy')",3,0.17427858237236268
+Earth,"('aang', 'yu')",1,0.49822962284088135
+Earth,"('katara', 'lao')",2,0.229800246655941
+Earth,"('katara', 'poppy')",1,0.4578356444835663
+Earth,"('lao', 'sokka')",1,-0.7744319066405296
+Earth,"('lao', 'toph')",3,-0.30854595286978614
+Earth,"('lao', 'xin fu')",1,-0.7744319066405296
+Earth,"('toph', 'xin fu')",4,-0.4652640776087841
+Earth,"('poppy', 'toph')",1,-0.15297080079714456
+Earth,"('store owner', 'zuko')",1,-1.4932862967252731
+Earth,"('earth kingdom soldier', 'zuko')",1,-1.1280644621167863
+Earth,"('gow', 'zuko')",3,-0.8083941716523397
+Earth,"('earth kingdom soldier', 'gow')",2,-0.9051204366343362
+Earth,"('lee', 'zuko')",5,-0.3832533621362277
+Earth,"('sela', 'zuko')",3,-0.8133962204058965
+Earth,"('gansu', 'zuko')",3,-1.0829600507304782
+Earth,"('gansu', 'sela')",1,-0.4932703673839569
+Earth,"('gansu', 'lee')",2,-0.6877018607088498
+Earth,"('ursa', 'zuko')",8,-0.29072865191847086
+Earth,"('azula', 'ursa')",4,-0.6359405051916838
+Earth,"('earth kingdom soldier', 'gansu')",1,-0.682176411151886
+Earth,"('gansu', 'gow')",1,-0.682176411151886
+Earth,"('ozai', 'zuko')",2,0.24826044216752052
+Earth,"('azula', 'ozai')",2,0.24826044216752052
+Earth,"('azulon', 'zuko')",1,-0.49646201729774475
+Earth,"('azulon', 'ursa')",1,-0.49646201729774475
+Earth,"('azulon', 'ozai')",1,0.7493115440011024
+Earth,"('old man', 'old woman')",1,-0.5083540380001068
+Earth,"('lee', 'old man')",1,1.4994681179523468
+Earth,"('old man', 'zuko')",1,-0.49895787239074707
+Earth,"('gow', 'old man')",1,-0.49895787239074707
+Earth,"('lee', 'sela')",1,-0.4587968587875366
+Earth,"('mai', 'sokka')",1,-0.4937165677547455
+Earth,"('katara', 'mai')",1,-0.4937165677547455
+Earth,"('iroh', 'toph')",3,0.011780853569507607
+Earth,"('aang', 'zuko')",2,0.4464806094765663
+Earth,"('katara', 'zuko')",6,-0.1740018121446624
+Earth,"('aang', 'zei')",4,1.0155619723624305
+Earth,"('sokka', 'zei')",7,0.08358804949356204
+Earth,"('toph', 'zei')",3,-0.5638091605352727
+Earth,"('katara', 'zei')",4,-0.12126165584317948
+Earth,"('wan shi tong', 'zei')",2,0.10084871908551768
+Earth,"('katara', 'wan shi tong')",2,-0.34575872013443393
+Earth,"('aang', 'wan shi tong')",2,-0.34575872013443393
+Earth,"('sokka', 'wan shi tong')",2,-0.34575872013443393
+Earth,"('iroh', 'mongke')",2,-0.2470567598938942
+Earth,"('man', 'yu')",1,-1.4951436817646027
+Earth,"('man', 'xin fu')",1,-0.00179193913936615
+Earth,"('xin fu', 'yu')",6,-0.20855858011378184
+Earth,"('fung', 'iroh')",5,0.09275720119476319
+Earth,"('fung', 'zuko')",4,-0.011947095394134521
+Earth,"('fung', 'xin fu')",1,0.4481271803379059
+Earth,"('fung', 'man in the bar')",1,0.4481271803379059
+Earth,"('iroh', 'xin fu')",1,0.4481271803379059
+Earth,"('iroh', 'man in the bar')",1,0.4481271803379059
+Earth,"('xin fu', 'zuko')",1,0.4481271803379059
+Earth,"('man in the bar', 'xin fu')",1,0.4481271803379059
+Earth,"('man in the bar', 'zuko')",1,0.4481271803379059
+Earth,"('florist', 'iroh')",1,-6.522238254547119e-05
+Earth,"('katara', 'sha-mo')",1,-1.4931644350290298
+Earth,"('ghashiun', 'sha-mo')",2,-0.7518181130290031
+Earth,"('florist', 'yu')",2,-0.7307410091161728
+Earth,"('florist', 'xin fu')",1,-1.4614267647266388
+Earth,"('aang', 'ghashiun')",2,-0.595269501209259
+Earth,"('aang', 'sha-mo')",1,-1.4910500943660736
+Earth,"('ghashiun', 'toph')",2,-1.4850938469171524
+Earth,"('sha-mo', 'toph')",1,-1.4910500943660736
+Earth,"('aang', 'than')",2,0.8370448797941208
+Earth,"('katara', 'than')",3,-0.40471408267815906
+Earth,"('katara', 'ying')",4,-0.2657358977322777
+Earth,"('than', 'toph')",1,-0.49459001421928406
+Earth,"('than', 'ying')",2,0.2023661583662033
+Earth,"('sokka', 'than')",2,0.5022469833493233
+Earth,"('toph', 'ying')",2,-0.5068024496237438
+Earth,"('sokka', 'ying')",4,-0.2657358977322777
+Earth,"('smellerbee', 'zuko')",1,0.17739697297414145
+Earth,"('jet', 'zuko')",4,-0.6081011685232321
+Earth,"('jet', 'smellerbee')",8,-0.06170058858891328
+Earth,"('iroh', 'smellerbee')",2,0.3358553449312846
+Earth,"('iroh', 'jet')",6,0.002185664905442123
+Earth,"('sokka', 'ticket lady')",2,-0.08665602973529274
+Earth,"('cabbage merchant', 'ticket lady')",1,-1.0118286226476942
+Earth,"('aang', 'ticket lady')",3,-0.3033022752829961
+Earth,"('cabbage merchant', 'sokka')",1,-1.0118286226476942
+Earth,"('aang', 'cabbage merchant')",1,-1.0118286226476942
+Earth,"('ticket lady', 'toph')",1,0.8385165631771088
+Earth,"('sokka', 'suki')",8,-0.06434059306713084
+Earth,"('katara', 'suki')",2,0.11870200037956238
+Earth,"('aang', 'suki')",2,0.11870200037956238
+Earth,"('aang', 'ying')",4,-0.061668657263120014
+Earth,"('suki', 'ying')",1,-0.06834678053855896
+Earth,"('suki', 'toph')",2,0.4223496448248625
+Earth,"('qin', 'ty lee')",2,-0.74589903652668
+Earth,"('azula', 'qin')",1,1.4828772842884064
+Earth,"('mai', 'qin')",1,1.4828772842884064
+Earth,"('aang', 'earthbender guard')",1,-0.5586352944374084
+Earth,"('earthbender guard', 'ying')",1,-0.5586352944374084
+Earth,"('aang', 'general sung')",3,0.38787685748603606
+Earth,"('general sung', 'sokka')",3,-0.21306878808471888
+Earth,"('general sung', 'toph')",3,-0.21306878808471888
+Earth,"('ticket woman', 'zuko')",1,-0.06813864409923553
+Earth,"('iroh', 'ticket woman')",1,-0.06813864409923553
+Earth,"('general sung', 'katara')",1,0.046463449796040855
+Earth,"('katara', 'terra team member')",1,0.046463449796040855
+Earth,"('aang', 'terra team member')",1,0.046463449796040855
+Earth,"('terra team member', 'toph')",1,0.046463449796040855
+Earth,"('general sung', 'terra team member')",1,0.046463449796040855
+Earth,"('sokka', 'terra team member')",1,0.046463449796040855
+Earth,"('jet', 'tea seller')",1,0.5120195746421814
+Earth,"('iroh', 'tea seller')",1,0.5120195746421814
+Earth,"('azula', 'second engineer')",1,0.0007459670305252075
+Earth,"('aang', 'ty lee')",1,1.4837047755718231
+Earth,"('sokka', 'ty lee')",2,0.8893484383821487
+Earth,"('iroh', 'ying')",1,1.4997284263372421
+Earth,"('joo dee', 'sokka')",7,0.5132588193352733
+Earth,"('joo dee', 'katara')",3,-0.19003946768740812
+Earth,"('aang', 'joo dee')",4,0.1860976335592568
+Earth,"('joo dee', 'toph')",2,-0.23695447575300932
+Earth,"('aang', 'pet store owner')",1,-1.497256301343441
+Earth,"('pet store owner', 'sokka')",1,-1.497256301343441
+Earth,"('sokka', 'university student')",1,-0.5298905670642853
+Earth,"('aang', 'pong')",1,-0.760002963244915
+Earth,"('katara', 'pong')",1,-0.760002963244915
+Earth,"('pong', 'toph')",1,-0.760002963244915
+Earth,"('pong', 'sokka')",1,-0.760002963244915
+Earth,"('customer', 'pao')",2,0.3134741872549057
+Earth,"('customer', 'iroh')",2,0.3134741872549057
+Earth,"('iroh', 'pao')",3,0.3210644655155413
+Earth,"('customer', 'jet')",2,0.027022781968116805
+Earth,"('katara', 'long feng')",6,-0.03274040470520656
+Earth,"('older guest', 'younger guest')",1,0.0009282231330871582
+Earth,"('aang', 'guest')",1,-0.2891610413789749
+Earth,"('jet', 'pao')",1,-0.8650165021419525
+Earth,"('long feng', 'sokka')",8,-0.2012988429516554
+Earth,"('aang', 'long feng')",9,-0.17368201102529252
+Earth,"('jet', 'katara')",8,-0.11363334058964754
+Earth,"('long feng', 'toph')",2,0.21032841503620148
+Earth,"('jet', 'toph')",6,-0.3065871866112882
+Earth,"('jet', 'long feng')",3,-0.5640990698621386
+Earth,"('jet', 'sokka')",7,-0.32881217598057366
+Earth,"('dai li agent', 'jet')",1,0.041139811277389526
+Earth,"('joo dee replacement', 'katara')",1,-0.001325950026512146
+Earth,"('girl with umbrella', 'toph')",1,0.6404452621936798
+Earth,"('star', 'third girl')",1,1.456532174348831
+Earth,"('third girl', 'toph')",1,1.456532174348831
+Earth,"('katara', 'third girl')",1,1.456532174348831
+Earth,"('star', 'toph')",1,1.456532174348831
+Earth,"('katara', 'star')",1,1.456532174348831
+Earth,"('iroh', 'shop owner')",1,1.1653261184692383
+Earth,"(""boy's mother"", 'iroh')",1,1.492189809679985
+Earth,"('huge round angry face', 'iroh')",2,-0.03605910390615463
+Earth,"('iroh', 'tycho')",3,0.15863882218088424
+Earth,"('aang', 'kenji')",2,0.7523308899253607
+Earth,"('guard', 'kenji')",1,0.2894924581050873
+Earth,"('lady on stage', 'sokka')",1,0.028108075261116028
+Earth,"('macmu-ling', 'sokka')",1,0.7269809246063232
+Earth,"('ladies', 'sokka')",1,0.7269809246063232
+Earth,"('ladies', 'macmu-ling')",1,0.7269809246063232
+Earth,"('jin', 'zuko')",8,0.1587540116161108
+Earth,"('iroh', 'jin')",1,1.1105687990784645
+Earth,"('waiter', 'zuko')",1,0.002933710813522339
+Earth,"('jin', 'waiter')",1,0.002933710813522339
+Earth,"('ghashiun', 'sandbender #1')",1,-1.300039142370224
+Earth,"('ghashiun', 'sandbender #2')",1,-1.300039142370224
+Earth,"('sandbender #1', 'sandbender #2')",1,-1.300039142370224
+Earth,"('ghashiun', 'merchant #1')",1,0.003093726933002472
+Earth,"('merchant #1', 'merchant #2')",3,-0.984187938272953
+Earth,"('ghashiun', 'merchant #2')",2,-0.7436702661216259
+Earth,"('merchant #1', 'trainer')",1,-1.4883023500442505
+Earth,"('merchant #2', 'trainer')",1,-1.4883023500442505
+Earth,"('shuzumu', 'trainer')",1,-1.4918710589408875
+Earth,"('fire nation man', 'unnamed fire nation boy')",1,1.4984377473592758
+Earth,"('trainer', 'unnamed fire nation boy')",1,-1.4892342388629913
+Earth,"('kyoshi warrior #1', 'suki')",2,-0.2540585622191429
+Earth,"('azula', 'suki')",2,-0.02522285282611847
+Earth,"('mai', 'suki')",1,-0.08564938604831696
+Earth,"('suki', 'ty lee')",1,-0.08564938604831696
+Earth,"('kyoshi warrior #2', 'mai')",1,-1.4294500797986984
+Earth,"('pao', 'quon')",1,0.3362450220368125
+Earth,"('iroh', 'quon')",2,0.34618560563434253
+Earth,"('quon', 'zuko')",1,0.35612618923187256
+Earth,"('dai li agent', 'long feng')",1,-0.6422331205436161
+Earth,"('dai li agent', 'joo dee')",1,-0.6422331205436161
+Earth,"('joo dee', 'long feng')",1,-0.6422331205436161
+Earth,"('aang', 'jet')",5,-0.4649297875471604
+Earth,"('aang', 'old sweepy')",1,-0.06345900893211365
+Earth,"('katara', 'old sweepy')",1,-0.06345900893211365
+Earth,"('old sweepy', 'toph')",1,-0.06345900893211365
+Earth,"('jet', 'old sweepy')",1,-0.06345900893211365
+Earth,"('old sweepy', 'sokka')",1,-0.06345900893211365
+Earth,"('katara', 'smellerbee')",3,-0.15220802028973898
+Earth,"('smellerbee', 'toph')",2,-0.2453182302415371
+Earth,"('smellerbee', 'sokka')",1,-1.2355766966938972
+Earth,"('brainwasher', 'joo dees')",1,1.428083449602127
+Earth,"('jet', 'joo dees')",1,1.428083449602127
+Earth,"('brainwasher', 'jet')",1,1.428083449602127
+Earth,"('katara', 'longshot')",1,0.03401239961385727
+Earth,"('longshot', 'smellerbee')",1,0.03401239961385727
+Earth,"('palace woman', 'sokka')",1,-1.4894628077745438
+Earth,"('aang', 'kuei')",11,0.13619995128798792
+Earth,"('katara', 'kuei')",7,0.10107868481047298
+Earth,"('kuei', 'toph')",5,0.07787148024354659
+Earth,"('kuei', 'long feng')",4,-0.267456223496369
+Earth,"('kuei', 'sokka')",13,0.32604432860901067
+Earth,"('blue dragon', 'zuko')",1,0.25406643748283386
+Earth,"('blue dragon', 'red dragon')",1,-1.468548059463501
+Earth,"('general how', 'kuei')",2,0.17100057601928711
+Earth,"('aang', 'general how')",1,-0.1593446910381317
+Earth,"('general how', 'katara')",2,-0.32830105125904085
+Earth,"('general how', 'toph')",1,-0.1593446910381317
+Earth,"('general how', 'sokka')",1,-0.1593446910381317
+Earth,"('soldier', 'toph')",1,1.1911680042743682
+Earth,"('sokka', 'soldier')",1,1.1911680042743682
+Earth,"('kuei', 'soldier')",1,1.1911680042743682
+Earth,"('hakoda', 'sokka')",4,-0.3934817148372531
+Earth,"('azula', 'kuei')",1,0.29382264614105225
+Earth,"('aang', 'pathik')",12,0.02123763921360174
+Earth,"('toph', 'yu')",3,-0.3622081345982022
+Earth,"('bato', 'sokka')",1,0.025621388107538223
+Earth,"('sokka', 'warrior')",1,0.025621388107538223
+Earth,"('bato', 'hakoda')",1,0.025621388107538223
+Earth,"('hakoda', 'warrior')",1,0.025621388107538223
+Earth,"('bato', 'warrior')",1,0.025621388107538223
+Earth,"('iroh', 'katara')",1,-0.34532320499420166
+Earth,"('azula', 'katara')",1,1.4372123032808304
+Earth,"('azula', 'long feng')",2,-0.1813977112372716
+Earth,"('royal messenger', 'zuko')",1,0.003891080617904663
+Earth,"('iroh', 'royal messenger')",1,0.003891080617904663
+Earth,"('aang', 'iroh')",4,-0.21648586727678776
+Earth,"('iroh', 'sokka')",3,-0.4702754368384679
+Earth,"('captured agent', 'sokka')",1,-0.4305802583694458
+Earth,"('head of the dai li', 'long feng')",1,0.5048412680625916
+Earth,"('how', 'sokka')",1,-1.4892728626728058
+Earth,"('dai li agent', 'sokka')",1,-1.4892728626728058
+Earth,"('dai li agent', 'how')",1,-1.4892728626728058
+Earth,"('kuei', 'ty lee')",1,0.2949921011924744
+Fire,"('katara', 'sokka')",94,-0.19175905454870362
+Fire,"('katara', 'toph')",69,-0.2739411619970925
+Fire,"('aang', 'katara')",94,-0.1791064500589415
+Fire,"('sokka', 'toph')",91,-0.14756598841958085
+Fire,"('aang', 'sokka')",104,-0.2662992414823577
+Fire,"('aang', 'toph')",71,-0.248681485609487
+Fire,"('mai', 'zuko')",19,-0.012967623514589239
+Fire,"('aang', 'hakoda')",7,-0.25388634006182353
+Fire,"('hakoda', 'katara')",20,-0.06181090367691857
+Fire,"('li', 'lo')",9,0.569992099469774
+Fire,"('aang', 'pipsqueak')",1,-0.8920229941606521
+Fire,"('katara', 'pipsqueak')",1,-0.8920229941606521
+Fire,"('hakoda', 'pipsqueak')",1,-0.8920229941606521
+Fire,"('hakoda', 'sokka')",19,0.13508630232852803
+Fire,"('pipsqueak', 'sokka')",2,-0.6229491423815489
+Fire,"('fire navy officer', 'hakoda')",1,-0.3162413239479065
+Fire,"('bato', 'fire navy officer')",1,-0.3162413239479065
+Fire,"('bato', 'hakoda')",5,-0.3629222462574641
+Fire,"('fire navy officer', 'guard')",1,-1.1863678693771362
+Fire,"('azula', 'zuko')",19,-0.11164364895799053
+Fire,"('bato', 'katara')",2,-0.4924322764078776
+Fire,"('ozai', 'zuko')",9,-0.047182038634949346
+Fire,"('aang', 'roku')",13,0.3686989282186215
+Fire,"('aang', 'fire nation man')",1,-0.8220334053039551
+Fire,"('fire nation man', 'sokka')",1,-0.8220334053039551
+Fire,"('aang', 'male soldier')",1,-0.5011056959629059
+Fire,"('aang', 'kwan')",3,-0.44395150368412334
+Fire,"('aang', 'on ji')",2,0.44228108908448904
+Fire,"('aang', 'hide')",2,0.44228108908448904
+Fire,"('hide', 'on ji')",2,0.44228108908448904
+Fire,"('aang', 'shoji')",4,0.04998939614742995
+Fire,"('aang', 'class')",1,-0.054586831480264664
+Fire,"('class', 'kwan')",1,-0.054586831480264664
+Fire,"('aang', 'music teacher')",1,-0.7287046238780022
+Fire,"('music teacher', 'shoji')",1,-0.7287046238780022
+Fire,"('aang', 'headmaster')",2,-0.21969319507479668
+Fire,"('headmaster', 'sokka')",1,0.6728338859975338
+Fire,"('headmaster', 'katara')",1,0.6728338859975338
+Fire,"('azula', 'mai')",4,-0.22611437678597238
+Fire,"('aang', 'male student #1')",1,-0.006189409643411636
+Fire,"('aang', 'male student #2')",1,-0.006189409643411636
+Fire,"('male student #1', 'male student #2')",2,0.012234946712851524
+Fire,"('male student #1', 'shoji')",1,-0.006189409643411636
+Fire,"('male student #2', 'shoji')",1,-0.006189409643411636
+Fire,"('headmaster', 'hide')",1,1.4941538125276566
+Fire,"('aang', 'male soldier #1')",1,0.015822865068912506
+Fire,"('headmaster', 'male soldier #1')",1,0.015822865068912506
+Fire,"('headmaster', 'shoji')",1,0.015822865068912506
+Fire,"('male soldier #1', 'shoji')",1,0.015822865068912506
+Fire,"('female student #1', 'on ji')",1,-0.4746275544166565
+Fire,"('female student #1', 'student')",1,-0.4746275544166565
+Fire,"('on ji', 'student')",1,-0.4746275544166565
+Fire,"('dock', 'katara')",4,-0.5907605712476013
+Fire,"('sokka', 'xu')",3,0.3116084232926369
+Fire,"('aang', 'xu')",2,-0.7164821773767471
+Fire,"('dock', 'sokka')",3,-0.45296938881114296
+Fire,"('katara', 'little boy')",1,-1.496462658047676
+Fire,"('katara', 'xu')",1,-0.5876159012317658
+Fire,"('dock/xu', 'sokka')",1,0.37534451484680176
+Fire,"('dock/xu', 'toph')",1,0.37534451484680176
+Fire,"('aang', 'dock')",2,-0.6830432141547675
+Fire,"('dock/xu', 'mung')",1,-1.4935753345489502
+Fire,"('little boy', 'mung')",1,0.0010924190282821655
+Fire,"('female fire nation soldier', 'male fire nation soldier')",2,-1.4161729216575623
+Fire,"('dock', 'little boy')",2,1.069001242518425
+Fire,"('little boy', 'villager #2')",1,1.3936588615179062
+Fire,"('little boy', 'villager #1')",1,1.3936588615179062
+Fire,"('dock', 'villager #2')",1,1.3936588615179062
+Fire,"('dock', 'villager #1')",1,1.3936588615179062
+Fire,"('villager #1', 'villager #2')",1,1.3936588615179062
+Fire,"('little boy', 'villager #4')",1,0.7443436235189438
+Fire,"('little boy', 'villager #3')",1,0.7443436235189438
+Fire,"('villager #3', 'villager #4')",1,0.7443436235189438
+Fire,"('dock', 'villager #4')",1,0.7443436235189438
+Fire,"('dock', 'villager #3')",1,0.7443436235189438
+Fire,"('dock', 'toph')",1,-0.3782345446256491
+Fire,"('katara', 'weapons store shopkeeper')",1,0.7774641886353493
+Fire,"('aang', 'weapons store shopkeeper')",1,0.7774641886353493
+Fire,"('toph', 'weapons store shopkeeper')",1,0.7774641886353493
+Fire,"('sokka', 'weapons store shopkeeper')",1,0.7774641886353493
+Fire,"('fat', 'sokka')",1,-0.6044537723064423
+Fire,"('piandao', 'sokka')",11,-0.2801001000223738
+Fire,"('katara', 'piandao')",2,0.22034404098987578
+Fire,"('ty lee', 'zuko')",6,0.042867923858086444
+Fire,"('azula', 'ty lee')",6,0.355632429389739
+Fire,"('lo', 'mai')",2,0.19823884032666683
+Fire,"('li', 'mai')",2,0.19823884032666683
+Fire,"('mai', 'ty lee')",5,-0.11719410824754559
+Fire,"('lo', 'zuko')",2,0.543690742126533
+Fire,"('lo', 'ty lee')",3,0.48840715434579623
+Fire,"('li', 'zuko')",2,0.543690742126533
+Fire,"('li', 'ty lee')",3,0.48840715434579623
+Fire,"('aang', 'fire nation watchman #2')",1,0.7306536957621574
+Fire,"('aang', 'fire nation watchman #1')",1,0.7306536957621574
+Fire,"('fire nation watchman #1', 'fire nation watchman #2')",1,0.7306536957621574
+Fire,"('ember island teenager #1', 'ty lee')",3,-0.053776222352798185
+Fire,"('ember island teenager #1', 'ember island teenager #2')",3,0.11084576161243975
+Fire,"('ember island teenager #2', 'ty lee')",2,-0.08447063399048954
+Fire,"('chan', 'ruon-jian')",2,0.033273288891429
+Fire,"('azula', 'chan')",6,0.6620920451269263
+Fire,"('chan', 'ty lee')",1,0.6434039558683123
+Fire,"('azula', 'ruon-jian')",1,0.6434039558683123
+Fire,"('ruon-jian', 'ty lee')",1,0.6434039558683123
+Fire,"('azula', 'lo')",3,-0.008204769047479762
+Fire,"('azula', 'li')",3,-0.008204769047479762
+Fire,"('ruon-jian', 'zuko')",3,-0.1119359475043085
+Fire,"('mai', 'ruon-jian')",2,0.08539778863390285
+Fire,"('ember island teenager #1', 'ember island teenager #3')",2,0.5366180607905755
+Fire,"('ember island teenager #2', 'ember island teenager #3')",2,0.5366180607905755
+Fire,"('azula', 'ember island teenager #2')",1,0.5717575687628526
+Fire,"('azula', 'ember island teenager #1')",1,0.5717575687628526
+Fire,"('azula', 'ember island teenager #3')",1,0.5717575687628526
+Fire,"('ember island teenager #3', 'ty lee')",1,0.5717575687628526
+Fire,"('chan', 'zuko')",1,-0.5768573780854543
+Fire,"('chan', 'mai')",1,-0.5768573780854543
+Fire,"('aang', 'sozin')",1,0.8592286258935928
+Fire,"('roku', 'sozin')",7,0.07322383459125247
+Fire,"('fire sage', 'sozin')",1,0.0014232248067855835
+Fire,"('gyatso', 'roku')",1,1.483736276626587
+Fire,"('aang', 'gyatso')",1,1.483736276626587
+Fire,"('sozin', 'ta min')",1,-0.0013064593076705933
+Fire,"('iroh', 'zuko')",7,0.14268706892217908
+Fire,"('dealer', 'toph')",3,0.22998310128847757
+Fire,"('aang', 'dealer')",1,0.990935817360878
+Fire,"('katara', 'town authority')",1,1.4993689477443695
+Fire,"('female guard', 'toph')",1,-1.4090271592140198
+Fire,"('katara', 'roku')",1,0.047454968094825745
+Fire,"('katara', 'yue')",1,0.047454968094825745
+Fire,"('roku', 'toph')",1,0.047454968094825745
+Fire,"('roku', 'yue')",1,0.047454968094825745
+Fire,"('toph', 'yue')",1,0.047454968094825745
+Fire,"('aang', 'hama')",4,-0.1297213990241289
+Fire,"('hama', 'katara')",11,0.21493135997743318
+Fire,"('hama', 'toph')",2,0.0286528579890728
+Fire,"('hama', 'sokka')",9,-0.36855637911293243
+Fire,"('shop owner', 'villager')",1,0.026209071278572083
+Fire,"('sokka', 'villager')",1,-0.8967067301273346
+Fire,"('toph', 'villager')",1,-0.8967067301273346
+Fire,"('aang', 'villager')",1,-0.8967067301273346
+Fire,"('aang', 'ding')",2,-0.24726666510105133
+Fire,"('ding', 'sokka')",1,-0.48853568732738495
+Fire,"('ding', 'toph')",1,-0.48853568732738495
+Fire,"('aang', 'male prisoner #2')",1,-0.57134730219841
+Fire,"('aang', 'female prisoner')",1,-0.57134730219841
+Fire,"('aang', 'male prisoner #1')",1,-0.57134730219841
+Fire,"('male prisoner #2', 'toph')",1,-0.57134730219841
+Fire,"('female prisoner', 'toph')",1,-0.57134730219841
+Fire,"('male prisoner #1', 'toph')",1,-0.57134730219841
+Fire,"('male prisoner #2', 'sokka')",1,-0.57134730219841
+Fire,"('female prisoner', 'sokka')",1,-0.57134730219841
+Fire,"('male prisoner #1', 'sokka')",1,-0.57134730219841
+Fire,"('female prisoner', 'male prisoner #2')",1,-0.57134730219841
+Fire,"('male prisoner #1', 'male prisoner #2')",1,-0.57134730219841
+Fire,"('female prisoner', 'male prisoner #1')",1,-0.57134730219841
+Fire,"('hama', 'male prisoner #1')",1,0.012265339493751526
+Fire,"('servant #1', 'zuko')",1,-1.4924376010894775
+Fire,"('servant', 'zuko')",2,-0.706672228127718
+Fire,"('mai', 'servant')",1,0.019164615869522096
+Fire,"('aang', 'momo')",2,-1.0406421967423878
+Fire,"('aang', 'appa')",1,-0.6013973401143
+Fire,"('katara', 'momo')",1,-0.6013973401143
+Fire,"('appa', 'katara')",1,-0.6013973401143
+Fire,"('momo', 'toph')",1,-0.6013973401143
+Fire,"('appa', 'toph')",1,-0.6013973401143
+Fire,"('momo', 'sokka')",1,-0.6013973401143
+Fire,"('appa', 'sokka')",1,-0.6013973401143
+Fire,"('appa', 'momo')",1,-0.6013973401143
+Fire,"('aang', 'ozai')",6,-0.06324072077458355
+Fire,"('katara', 'ozai')",2,-0.322640672909774
+Fire,"('ozai', 'toph')",3,-0.12984773307214684
+Fire,"('ozai', 'sokka')",3,-0.12984773307214684
+Fire,"('due', 'hakoda')",1,-0.49616706371307373
+Fire,"('hakoda', 'tho')",2,-0.37279031425714493
+Fire,"('hakoda', 'huu')",1,-0.49616706371307373
+Fire,"('bato', 'due')",1,-0.49616706371307373
+Fire,"('bato', 'tho')",1,-0.49616706371307373
+Fire,"('bato', 'huu')",1,-0.49616706371307373
+Fire,"('due', 'tho')",1,-0.49616706371307373
+Fire,"('due', 'huu')",2,-0.24379052221775055
+Fire,"('huu', 'tho')",1,-0.49616706371307373
+Fire,"('haru', 'katara')",2,0.5614326340811593
+Fire,"('katara', 'tyro')",2,0.2422066479921341
+Fire,"('haru', 'tyro')",2,0.8263427875936031
+Fire,"('aang', 'haru')",1,0.9008816778659821
+Fire,"('aang', 'tyro')",2,0.2422066479921341
+Fire,"('big bad hippo', 'the boulder')",1,1.3604694530367851
+Fire,"('the boulder', 'toph')",1,1.3604694530367851
+Fire,"('big bad hippo', 'toph')",1,1.3604694530367851
+Fire,"('mechanist', 'the duke')",1,-0.3538752906024456
+Fire,"('pipsqueak', 'the duke')",2,0.1989643033593893
+Fire,"('sokka', 'the duke')",3,-0.03779924501265799
+Fire,"('teo', 'the duke')",3,0.17309587111785296
+Fire,"('mechanist', 'pipsqueak')",1,-0.3538752906024456
+Fire,"('mechanist', 'sokka')",2,-0.896385608240962
+Fire,"('mechanist', 'teo')",2,0.5610227901488543
+Fire,"('pipsqueak', 'teo')",1,-0.3538752906024456
+Fire,"('sokka', 'teo')",2,-0.06594585015305451
+Fire,"('aang', 'mechanist')",1,1.4903746247291565
+Fire,"('ming', 'warden poon')",1,0.8967035293579102
+Fire,"('iroh', 'warden poon')",1,0.8967035293579102
+Fire,"('iroh', 'ming')",2,0.4473529323935509
+Fire,"('sokka', 'the boulder')",1,0.17062388573374068
+Fire,"('hakoda', 'the boulder')",1,0.17062388573374068
+Fire,"('katara', 'the boulder')",1,0.17062388573374068
+Fire,"('the duke', 'toph')",1,0.02947479486465454
+Fire,"('hakoda', 'toph')",2,0.07044085363547008
+Fire,"('bato', 'tyro')",2,-0.20778176933526993
+Fire,"('aang', 'qin')",1,1.4995116144418716
+Fire,"('aang', 'azula')",4,-0.48540241806016815
+Fire,"('azula', 'sokka')",4,-0.7179175929556931
+Fire,"('azula', 'toph')",3,-0.463068571862995
+Fire,"('fire nation soldier', 'tyro')",1,1.4921032190322876
+Fire,"('warden poon', 'zuko')",1,-1.4932379722595215
+Fire,"('aang', 'bato')",1,-0.41646838188171387
+Fire,"('hakoda', 'tyro')",1,-0.41646838188171387
+Fire,"('bato', 'sokka')",1,-0.41646838188171387
+Fire,"('sokka', 'tyro')",1,-0.41646838188171387
+Fire,"('haru', 'the duke')",2,0.48689374380878037
+Fire,"('the duke', 'tyro')",1,0.7518038973212242
+Fire,"('haru', 'pipsqueak')",1,0.7518038973212242
+Fire,"('pipsqueak', 'tyro')",1,0.7518038973212242
+Fire,"('aang', 'fire nation soldier')",1,-0.5524039566516876
+Fire,"('azula', 'fire nation soldier')",1,-0.5524039566516876
+Fire,"('haru', 'teo')",3,0.15172448541436875
+Fire,"('katara', 'the duke')",2,0.43658145197800224
+Fire,"('katara', 'teo')",2,0.43658145197800224
+Fire,"('sokka', 'zuko')",53,-0.31161455811218863
+Fire,"('toph', 'zuko')",23,-0.4113166359619495
+Fire,"('katara', 'zuko')",43,-0.054860516608224164
+Fire,"('aang', 'zuko')",52,-0.0036090104329275442
+Fire,"('haru', 'sokka')",1,0.22198359029633657
+Fire,"('sun warrior chief', 'zuko')",5,0.5101465931263837
+Fire,"('ham ghao', 'sun warrior chief')",3,-0.08161281545956929
+Fire,"('ham ghao', 'zuko')",1,0.9752796739339828
+Fire,"('aang', 'ham ghao')",2,0.11489394307136536
+Fire,"('aang', 'sun warrior chief')",5,0.1279689570990476
+Fire,"('bully guard', 'chit sang')",4,-0.3443786531686783
+Fire,"('chit sang', 'sokka')",8,0.028995035202907665
+Fire,"('bully guard', 'sokka')",4,-0.08985444828867911
+Fire,"('chit sang', 'zuko')",5,0.015220700481108263
+Fire,"('bully guard', 'zuko')",1,0.6388195484876633
+Fire,"('male guard', 'zuko')",5,-0.4323486550266926
+Fire,"('female guard', 'zuko')",3,-0.5936402209294148
+Fire,"('female guard', 'male guard')",3,-0.6058262266409703
+Fire,"('sokka', 'warden')",1,-0.49465033411979675
+Fire,"('chit sang', 'warden')",4,-0.19028125330805779
+Fire,"('bully guard', 'warden')",3,-0.5376839424882617
+Fire,"('sokka', 'suki')",33,-0.13268419909494888
+Fire,"('female guard', 'sokka')",3,-0.14447936492088512
+Fire,"('warden', 'zuko')",1,0.2090965850012643
+Fire,"('suki', 'zuko')",18,-0.15486250367603804
+Fire,"('chit sang', 'suki')",3,-0.2144194282591343
+Fire,"('male guard', 'sokka')",6,-0.026342371736581504
+Fire,"('male guard #2', 'warden')",1,-1.4813055098056793
+Fire,"('male guard', 'suki')",2,-0.6136545479297638
+Fire,"('hakoda', 'warden')",2,-0.4906626045703888
+Fire,"('bogyguard #2', 'warden')",1,1.4977446645498276
+Fire,"('bodyguard #2', 'warden')",1,0.0015323460102081299
+Fire,"('azula', 'warden')",2,-0.3098643549851009
+Fire,"('azula', 'bully guard')",1,-0.630290802036013
+Fire,"('door guard', 'sokka')",1,-0.4958731681108475
+Fire,"('sokka', 'tough prisoner')",1,-0.21087362510817392
+Fire,"('hakoda', 'tough prisoner')",2,-0.3550669955355781
+Fire,"('hakoda', 'suki')",2,0.04675812848976679
+Fire,"('suki', 'tough prisoner')",1,-0.21087362510817392
+Fire,"('tough prisoner', 'warden')",1,-0.4992603659629822
+Fire,"('mai', 'male guard #2')",1,-0.7388733923435211
+Fire,"('male guard #2', 'zuko')",1,-0.7388733923435211
+Fire,"('suki', 'warden')",1,-1.4784640967845917
+Fire,"('hakoda', 'zuko')",2,0.16205424964427947
+Fire,"('gondola guard #2', 'warden')",1,-0.29197710156440737
+Fire,"('gondola guard', 'warden')",1,-0.29197710156440737
+Fire,"('gondola guard', 'gondola guard #2')",1,-0.29197710156440737
+Fire,"('azula', 'gondola guard #4')",1,-1.4676888138055801
+Fire,"('chit sang', 'katara')",1,-0.29626362919807436
+Fire,"('chit sang', 'hakoda')",1,-0.29626362919807436
+Fire,"('aang', 'suki')",6,0.09838352962805515
+Fire,"('suki', 'toph')",14,0.12087448036488221
+Fire,"('katara', 'yon rha')",5,0.10803510397672653
+Fire,"('katara', 'kya')",2,0.6136156618595123
+Fire,"('kya', 'yon rha')",3,0.11639606356620787
+Fire,"('southern raiders commander', 'zuko')",3,-0.9844291061162949
+Fire,"('yon rha', ""yon rha's mother"")",1,-0.440501457452774
+Fire,"('yon rha', 'zuko')",1,0.03835652768611908
+Fire,"('katara', 'suki')",10,-0.12213086740986297
+Fire,"('actor sokka', 'actress katara')",5,-0.7640146386623383
+Fire,"('actress katara', 'toph')",2,0.052293312549591076
+Fire,"('actress katara', 'sokka')",2,0.06815210431814195
+Fire,"('actor sokka', 'toph')",2,-0.5528471276164055
+Fire,"('actor sokka', 'sokka')",6,0.23517457693815227
+Fire,"('actress aang', 'actress katara')",4,-0.13179641216993332
+Fire,"('aang', 'actress katara')",1,-0.49576687812805176
+Fire,"('aang', 'actress aang')",3,-0.4142160614331563
+Fire,"('actor sokka', 'actress aang')",3,0.07932016253471375
+Fire,"('aang', 'actor sokka')",1,-0.7468017786741257
+Fire,"('actress aang', 'toph')",4,-0.22512735266770634
+Fire,"('actor iroh', 'actor zuko')",3,-0.8374917457501093
+Fire,"('actor zuko', 'blue spirit')",1,-0.0006507039070129395
+Fire,"('actress yue', 'sokka')",1,0.6870277225971222
+Fire,"('actress yue', 'suki')",1,0.6870277225971222
+Fire,"('actor sokka', 'suki')",2,0.1951096773147583
+Fire,"('actor sokka', 'actress yue')",1,0.6870277225971222
+Fire,"('actor toph', 'actress aang')",2,-0.30859336682728356
+Fire,"('actor toph', 'toph')",2,-0.30859336682728356
+Fire,"('actress aang', 'katara')",1,-0.21765164392335073
+Fire,"('actor toph', 'katara')",1,-0.21765164392335073
+Fire,"('actress azula', 'actress katara')",1,-1.4286870807409286
+Fire,"('actor zuko', 'actress katara')",2,-0.46674519777297974
+Fire,"('actor zuko', 'actress azula')",3,-1.073073963324229
+Fire,"('actor jet', 'actress aang')",1,-1.496157467365265
+Fire,"('actor zuko', 'sokka')",2,0.0991941586136818
+Fire,"('actor iroh', 'actress azula')",1,0.02224011719226837
+Fire,"('young boy', 'zuko')",1,0.004849657416343689
+Fire,"('actor zuko', 'suki')",1,-0.29680836796760557
+Fire,"('actor sokka', 'actor zuko')",1,-0.29680836796760557
+Fire,"('actor ozai', 'actress azula')",2,0.20809535682201385
+Fire,"('actor ozai', 'actress aang')",2,0.0029192715883255005
+Fire,"('actress aang', 'actress azula')",1,0.4113249182701111
+Fire,"('katara', 'shinu')",1,-0.7194610228461604
+Fire,"('azula', 'katara')",2,-0.11245420527073646
+Fire,"('aang', 'shinu')",1,-0.7194610228461604
+Fire,"('shinu', 'toph')",1,-0.7194610228461604
+Fire,"('ozai', 'shinu')",1,-0.7194610228461604
+Fire,"('azula', 'ozai')",2,-0.4522293886418716
+Fire,"('shinu', 'zuko')",1,-0.7194610228461604
+Fire,"('shinu', 'sokka')",1,-0.7194610228461604
+Fire,"('azula', 'shinu')",1,-0.7194610228461604
+Fire,"('actress aang', 'crowd')",1,-1.461975708603859
+Fire,"('june', 'zuko')",6,0.044712567081054054
+Fire,"('june', 'katara')",1,-0.20451954007148743
+Fire,"('june', 'toph')",2,-0.7481219954788685
+Fire,"('june', 'sokka')",1,-0.0010614395141601562
+Fire,"('jeong jeong', 'katara')",1,0.44007948875427244
+Fire,"('bumi', 'katara')",1,0.44007948875427244
+Fire,"('katara', 'pakku')",1,0.44007948875427244
+Fire,"('jeong jeong', 'toph')",1,0.44007948875427244
+Fire,"('bumi', 'toph')",1,0.44007948875427244
+Fire,"('pakku', 'toph')",1,0.44007948875427244
+Fire,"('piandao', 'toph')",1,0.44007948875427244
+Fire,"('jeong jeong', 'suki')",1,0.44007948875427244
+Fire,"('bumi', 'suki')",2,0.22035161823034285
+Fire,"('pakku', 'suki')",1,0.44007948875427244
+Fire,"('piandao', 'suki')",1,0.44007948875427244
+Fire,"('bumi', 'jeong jeong')",1,0.44007948875427244
+Fire,"('jeong jeong', 'pakku')",1,0.44007948875427244
+Fire,"('jeong jeong', 'piandao')",1,0.44007948875427244
+Fire,"('jeong jeong', 'zuko')",1,0.44007948875427244
+Fire,"('jeong jeong', 'sokka')",1,0.44007948875427244
+Fire,"('bumi', 'pakku')",2,0.967962611913681
+Fire,"('bumi', 'piandao')",2,0.47009252429008486
+Fire,"('bumi', 'zuko')",2,0.47009252429008486
+Fire,"('bumi', 'sokka')",2,0.218029987514019
+Fire,"('pakku', 'piandao')",1,0.44007948875427244
+Fire,"('pakku', 'zuko')",1,0.44007948875427244
+Fire,"('pakku', 'sokka')",1,0.44007948875427244
+Fire,"('piandao', 'zuko')",2,0.47009252429008486
+Fire,"('aang', 'kyoshi')",1,-0.0016696304082870483
+Fire,"('aang', 'yangchen')",1,0.3202171102166176
+Fire,"('iroh', 'katara')",3,0.05428557356198629
+Fire,"('iroh', 'suki')",2,0.08112147092819214
+Fire,"('iroh', 'toph')",2,0.08112147092819214
+Fire,"('iroh', 'sokka')",2,0.08112147092819214
+Fire,"('aang', 'lion turtle')",1,0.0011099427938461304
+Fire,"('azula', 'banished servant')",1,-0.38910177079114044
+Fire,"('azula', 'head of dai li')",1,-0.8388839274644851
+Fire,"('engineer', 'qin lee')",1,0.704617828130722
+Fire,"('bumi', 'iroh')",1,1.4958457350730896
+Fire,"('iroh', 'pakku')",1,1.4958457350730896
+Fire,"('azula', 'ursa')",1,0.20908812965665544
+Fire,"('ozai', 'suki')",1,0.25573814660310745
+Fire,"('sokka', 'ty lee')",1,0.3016162633895874
+Fire,"('suki', 'ty lee')",1,0.3016162633895874
+Fire,"('katara', 'mai')",1,-0.1582629680633545
+Fire,"('mai', 'suki')",1,-0.1582629680633545
+Fire,"('mai', 'toph')",1,-0.1582629680633545
+Fire,"('iroh', 'mai')",1,-0.1582629680633545
+Fire,"('mai', 'sokka')",1,-0.1582629680633545
+Water,"('katara', 'sokka')",168,-0.14143977540908775
+Water,"('iroh', 'zuko')",50,-0.11031578301754784
+Water,"('aang', 'katara')",204,-0.03508247050468196
+Water,"('aang', 'sokka')",179,-0.06809126536178957
+Water,"('aang', 'kanna')",3,0.1788297475952851
+Water,"('kanna', 'katara')",6,0.46053257989778856
+Water,"('sokka', 'village girl')",1,-0.04775778949260712
+Water,"('aang', 'village girl')",1,-0.04775778949260712
+Water,"('kanna', 'sokka')",4,0.5669181128277591
+Water,"('sokka', 'southern water tribe boy')",2,0.06734922155737877
+Water,"('sokka', 'southern water tribe girl')",1,1.49892920255661
+Water,"('aang', 'southern water tribe girl')",1,1.49892920255661
+Water,"('aang', 'zuko')",15,0.07362072941097293
+Water,"('katara', 'zuko')",12,-0.08402162935803766
+Water,"('aang', 'firebender')",1,-0.015753641724586487
+Water,"('zhao', 'zuko')",17,-0.18762723092864647
+Water,"('iroh', 'zhao')",14,-0.16403394078417696
+Water,"('soldier', 'zhao')",1,-1.3130401521921158
+Water,"('aang', 'gyatso')",6,-0.20995474606752396
+Water,"('sokka', 'suki')",9,-0.16621010154485705
+Water,"('aang', 'suki')",2,-0.5001806914806366
+Water,"('aang', 'oyaji')",5,0.2011318862438202
+Water,"('katara', 'suki')",1,-0.5040346384048462
+Water,"('katara', 'oyaji')",2,-0.002156361937522888
+Water,"('oyaji', 'suki')",2,-0.5001806914806366
+Water,"('oyaji', 'sokka')",2,-0.25209948420524597
+Water,"('fisherman', 'little girl')",1,-0.02333611249923706
+Water,"('fangirls', 'koko')",1,0.06930939853191376
+Water,"('aang', 'koko')",2,-0.3946496732532978
+Water,"('koko', 'little girl')",1,-0.7796464785933495
+Water,"('aang', 'little girl')",2,-0.5034510735422373
+Water,"('aang', 'gate guard')",1,0.29384604692459104
+Water,"('gate guard', 'katara')",1,0.29384604692459104
+Water,"('aang', 'bumi')",13,0.26585757285356515
+Water,"('cabbage merchant', 'guard')",1,-1.4908029437065125
+Water,"('bumi', 'katara')",4,0.49279274977743626
+Water,"('bumi', 'sokka')",5,-0.060714277029037464
+Water,"('chamberlain', 'sokka')",1,-0.49695537984371185
+Water,"('bumi', 'chamberlain')",1,-0.49695537984371185
+Water,"('aang', 'guard')",2,-0.3352181687951088
+Water,"(""haru's mother"", 'katara')",2,0.1783284837549383
+Water,"('haru', 'katara')",8,-0.12693305332455543
+Water,"('haru', ""haru's mother"")",3,0.11491506262259049
+Water,"('aang', ""haru's mother"")",1,0.28450130224227904
+Water,"('aang', 'haru')",2,0.142989644408226
+Water,"(""haru's mother"", 'sokka')",2,0.28621808236295526
+Water,"('sokka', 'tax collector')",2,0.28621808236295526
+Water,"(""haru's mother"", 'tax collector')",3,-0.306837540232774
+Water,"('katara', 'tax collector')",1,0.07215566526759755
+Water,"('haru', 'tax collector')",1,0.07215566526759755
+Water,"('haru', 'sokka')",1,0.07215566526759755
+Water,"('haru', 'old man')",2,-0.5774834677577019
+Water,"('katara', 'old man')",1,-1.2761913388967514
+Water,"('guard', 'sokka')",4,0.5579407308250666
+Water,"('katara', 'tyro')",2,-0.06718260943889617
+Water,"('katara', 'prisoner')",1,-0.4847954958677292
+Water,"('haru', 'tyro')",2,-0.06718260943889617
+Water,"('haru', 'prisoner')",1,-0.4847954958677292
+Water,"('prisoner', 'tyro')",1,-0.4847954958677292
+Water,"('captain', 'sokka')",3,-0.33548119092981016
+Water,"('aang', 'captain')",3,-0.33548119092981016
+Water,"('captain', 'katara')",2,-0.54165302477777
+Water,"('captain', 'warden')",1,-1.0570346883365087
+Water,"('guard', 'warden')",2,-1.0039564605270113
+Water,"('captain', 'guard')",1,-1.0570346883365087
+Water,"('guard', 'katara')",1,0.3117086589336395
+Water,"('sokka', 'warden')",1,-0.5017378330230713
+Water,"('sokka', 'tyro')",1,-0.5017378330230713
+Water,"('tyro', 'warden')",4,-1.1429970487952232
+Water,"('aang', 'warden')",1,-1.3594105541706085
+Water,"('aang', 'tyro')",1,-1.3594105541706085
+Water,"('old wanderer', 'sokka')",4,-0.24782651051094656
+Water,"('aang', 'senlin village leader')",5,0.29250116069065896
+Water,"('aang', 'old wanderer')",4,0.5730985240716683
+Water,"('katara', 'senlin village leader')",5,0.29250116069065896
+Water,"('katara', 'old wanderer')",3,0.26809562564941875
+Water,"('old wanderer', 'senlin village leader')",2,0.1525299522437547
+Water,"('senlin village leader', 'sokka')",5,0.29250116069065896
+Water,"('earthbender captain', 'soldier')",2,0.07957396656274796
+Water,"('fire nation soldier', 'zuko')",1,-1.4891793251037597
+Water,"('earthbender captain', 'iroh')",3,-0.0978628354413169
+Water,"('earthbender captain', 'zuko')",1,0.3119929611682892
+Water,"('aang', 'iroh')",7,-0.21407924689879967
+Water,"('iroh', 'katara')",6,0.09895371555725813
+Water,"('iroh', 'sokka')",7,-0.03627801799115612
+Water,"('sokka', 'zuko')",8,-0.36027539133023584
+Water,"('aang', 'zhao')",13,0.004598152727974574
+Water,"('katara', 'zhao')",3,-0.17261488040288286
+Water,"('captain', 'zhao')",3,-0.12653640757004422
+Water,"('captain', 'iroh')",3,-0.601678466796875
+Water,"('captain', 'zuko')",3,-0.601678466796875
+Water,"('sokka', 'zhao')",5,-0.21494778679949897
+Water,"('engineer', 'zuko')",1,0.4960973560810089
+Water,"('engineer', 'zhao')",1,0.4960973560810089
+Water,"('great fire sage', 'sokka')",4,-0.0030045115078488963
+Water,"('aang', 'great fire sage')",6,-0.1188878872437261
+Water,"('great fire sage', 'katara')",2,-0.14423674605786801
+Water,"('aang', 'shyu')",7,0.19716621052677538
+Water,"('shyu', 'sokka')",6,0.22157658456392537
+Water,"('great fire sage', 'shyu')",4,0.10244245421991012
+Water,"('katara', 'shyu')",6,0.24857801283691447
+Water,"('iroh', 'shyu')",1,0.40078817220295176
+Water,"('shyu', 'zuko')",3,0.29825526734254676
+Water,"('great fire sage', 'zuko')",2,-0.3506546387154805
+Water,"('aang', 'roku')",6,0.18943848107990466
+Water,"('great fire sage', 'zhao')",2,-0.27130480424353953
+Water,"('shyu', 'zhao')",1,0.050703966303875574
+Water,"('roku', 'zhao')",2,-0.1475364150185334
+Water,"('great fire sage', 'roku')",1,0.050703966303875574
+Water,"('roku', 'shyu')",1,0.050703966303875574
+Water,"('roku', 'zuko')",1,0.050703966303875574
+Water,"('katara', 'roku')",1,-0.3457767963409424
+Water,"('roku', 'sokka')",1,-0.3457767963409424
+Water,"('aang', 'oh')",5,0.5660607850551606
+Water,"('aang', 'pirate captain')",5,-0.7514420460337313
+Water,"('katara', 'pirate captain')",4,-0.42800293995364425
+Water,"('katara', 'oh')",4,-0.15674510896205907
+Water,"('oh', 'pirate captain')",2,-0.18112986683845522
+Water,"('pirate captain', 'sokka')",3,-0.6840299348324393
+Water,"('oh', 'sokka')",2,-0.6957528084516525
+Water,"('aang', 'pirate')",2,-0.31534827053546904
+Water,"('oh', 'pirate')",1,0.26842541098594663
+Water,"('katara', 'pirate')",1,0.26842541098594663
+Water,"('oh', 'zuko')",2,-1.247654918049063
+Water,"('iroh', 'oh')",1,-1.0655708823885237
+Water,"('pirate captain', 'zuko')",4,-0.49424651105874684
+Water,"('pirate', 'sokka')",1,-0.8991219520568847
+Water,"('iroh', 'pirate captain')",2,-0.5860820591881655
+Water,"('eye-patch soldier', 'sokka')",1,0.1383825937906901
+Water,"('aang', 'eye-patch soldier')",1,0.1383825937906901
+Water,"('eye-patch soldier', 'katara')",1,0.1383825937906901
+Water,"('jet', 'sokka')",13,-0.005749560164747559
+Water,"('jet', 'katara')",14,-0.1981535451380549
+Water,"('aang', 'jet')",12,-0.15170636995831832
+Water,"('aang', 'pipsqueak')",3,0.3478033134158243
+Water,"('jet', 'pipsqueak')",3,0.3478033134158243
+Water,"('pipsqueak', 'sokka')",3,0.4525705098284217
+Water,"('aang', 'the duke')",1,0.376311007887125
+Water,"('katara', 'the duke')",1,0.376311007887125
+Water,"('pipsqueak', 'the duke')",1,0.376311007887125
+Water,"('jet', 'the duke')",2,-0.5522899609059095
+Water,"('katara', 'pipsqueak')",2,0.07688810509678565
+Water,"('aang', 'smellerbee')",1,-0.22253479769355372
+Water,"('katara', 'smellerbee')",1,-0.22253479769355372
+Water,"('pipsqueak', 'smellerbee')",2,0.23403889971568173
+Water,"('jet', 'smellerbee')",2,0.16119028807134558
+Water,"('smellerbee', 'sokka')",3,0.33766439108920276
+Water,"('jet', 'old fire nation civilian')",2,-0.32593458890914917
+Water,"('katara', 'little girl')",1,-0.2272556684911251
+Water,"('jet', 'little girl')",1,-0.2272556684911251
+Water,"('little girl', 'sokka')",1,-0.2272556684911251
+Water,"('aang', 'gan jin tribesman')",2,0.031406433744864015
+Water,"('gan jin tribesman', 'sokka')",2,0.031406433744864015
+Water,"('gan jin tribesman', 'katara')",3,-0.11754578261664421
+Water,"('katara', 'zhang leader')",4,-0.5513919978825883
+Water,"('canyon guide', 'katara')",6,-0.7147884088747127
+Water,"('canyon guide', 'zhang leader')",5,-0.5542405186825758
+Water,"('gan jin tribesman', 'zhang leader')",2,-0.5608827905221418
+Water,"('canyon guide', 'gan jin tribesman')",2,-0.5608827905221418
+Water,"('gan jin leader', 'katara')",4,-0.429680422083898
+Water,"('aang', 'canyon guide')",8,-0.6580723352564974
+Water,"('aang', 'gan jin leader')",7,-0.2980538022927318
+Water,"('aang', 'zhang leader')",7,-0.31374703204891674
+Water,"('canyon guide', 'gan jin leader')",3,-0.6590844154744954
+Water,"('canyon guide', 'sokka')",6,-0.7398191399651903
+Water,"('gan jin leader', 'zhang leader')",5,-0.4173246847963953
+Water,"('gan jin leader', 'gan jin tribesman')",1,-0.7063153657046232
+Water,"('gan jin leader', 'sokka')",3,-0.6590844154744954
+Water,"('sokka', 'zhang leader')",6,-0.623063884694855
+Water,"('aang', 'gan jin man')",1,-0.407369607261249
+Water,"('gan jin man', 'zhang leader')",1,-0.407369607261249
+Water,"('gan jin leader', 'gan jin man')",1,-0.407369607261249
+Water,"('gyatso', 'katara')",1,1.4919885098934174
+Water,"('katara', 'merchant woman')",1,0.004848599433898926
+Water,"('katara', 'shopkeeper')",1,0.004848599433898926
+Water,"('merchant woman', 'shopkeeper')",1,0.004848599433898926
+Water,"('aang', 'merchant woman')",1,0.004848599433898926
+Water,"('aang', 'shopkeeper')",1,0.004848599433898926
+Water,"('aang', ""fisherman's wife"")",4,-0.05322579853236675
+Water,"('aang', 'fisherman')",4,-0.2578754182904959
+Water,"(""fisherman's wife"", 'sokka')",3,-0.1885875885685285
+Water,"('fisherman', ""fisherman's wife"")",3,-0.1885875885685285
+Water,"('fisherman', 'sokka')",6,-0.20416861648360887
+Water,"('jee', 'lieutenant jee')",1,-0.02738676220178604
+Water,"('lieutenant jee', 'zuko')",1,-0.02738676220178604
+Water,"('iroh', 'lieutenant jee')",1,-0.02738676220178604
+Water,"('jee', 'zuko')",3,0.2395884022116661
+Water,"('iroh', 'jee')",7,0.12040920768465314
+Water,"('fisherman', 'katara')",3,-0.10184893508752187
+Water,"(""fisherman's wife"", 'katara')",2,0.25615667551755905
+Water,"('aang', 'air nomad boy #2')",2,0.15575634576380254
+Water,"('aang', 'air nomad boy #1')",2,0.15575634576380254
+Water,"('air nomad boy #1', 'air nomad boy #2')",2,0.15575634576380254
+Water,"('aang', 'tashi')",2,0.15345555543899536
+Water,"('gyatso', 'tashi')",3,-0.9696376815438269
+Water,"('gyatso', 'pasang')",2,-0.7839843057096004
+Water,"('pasang', 'tashi')",2,-0.7839843057096004
+Water,"('elder soldier', 'zuko')",1,0.6574603691697121
+Water,"('bujing', 'zuko')",1,0.6574603691697121
+Water,"('bujing', 'elder soldier')",1,0.6574603691697121
+Water,"('ozai', 'zuko')",2,0.7541894987225533
+Water,"('shinu', 'zhao')",2,-0.20712438598275185
+Water,"('soldier', 'zuko')",1,0.002558663487434387
+Water,"('iroh', 'soldier')",1,0.002558663487434387
+Water,"('scout #1', 'scout #2')",1,3.737211227416992e-05
+Water,"('aang', 'herbalist')",3,0.4755876583930774
+Water,"('officer', 'zhao')",2,-0.97039395570755
+Water,"('aang', 'calm man')",5,-0.04953437944253285
+Water,"('calm man', 'katara')",5,0.1301888648668925
+Water,"('calm man', 'sokka')",5,0.1301888648668925
+Water,"('katara', 'strange man')",1,0.0812062919139862
+Water,"('meng', 'sokka')",2,0.04122929998806543
+Water,"('aang', 'meng')",6,0.5075037138447875
+Water,"('katara', 'meng')",3,0.8191551387310029
+Water,"('meng', 'woman')",1,0.7721500620245934
+Water,"('aang', 'woman')",1,0.7721500620245934
+Water,"('katara', 'wu')",5,0.49367309451103214
+Water,"('sokka', 'wu')",3,0.04149222895503043
+Water,"('aang', 'wu')",6,-0.05624508447945117
+Water,"('katara', 'village woman')",2,-0.2946893145640691
+Water,"('aang', 'village woman')",2,-0.2946893145640691
+Water,"('sokka', 'village woman')",2,-0.2946893145640691
+Water,"('calm man', 'village woman')",2,-0.2946893145640691
+Water,"('farmer', 'ping')",1,1.4755031526088715
+Water,"('ping', 'wu')",1,1.4755031526088715
+Water,"('ping', 'poi')",2,0.48872919678688054
+Water,"('farmer', 'wu')",1,1.4755031526088715
+Water,"('farmer', 'poi')",1,1.4755031526088715
+Water,"('poi', 'wu')",1,1.4755031526088715
+Water,"('man', 'sokka')",1,0.3757038563489914
+Water,"('aang', 'man')",1,0.3757038563489914
+Water,"('man with red shoes', 'sokka')",1,0.005106747150421143
+Water,"('ping', 'sokka')",1,-0.4980447590351105
+Water,"('poi', 'sokka')",1,-0.4980447590351105
+Water,"('calm man', 'wu')",1,0.8986573934555053
+Water,"('june', 'zuko')",10,-0.6259019368390243
+Water,"('firebenders', 'zuko')",1,-0.43718981742858887
+Water,"('firebenders', 'june')",1,-0.43718981742858887
+Water,"('iroh', 'june')",2,-0.40144259830315904
+Water,"('hakoda', 'sokka')",1,0.6218692149434771
+Water,"('bato', 'sokka')",13,-0.22171409737605313
+Water,"('aang', 'bato')",6,0.00684034029642742
+Water,"('bato', 'katara')",11,-0.3052086988633329
+Water,"('aang', 'mother superior')",4,0.25883136991234057
+Water,"('bato', 'mother superior')",1,1.0702750555106573
+Water,"('mother superior', 'sokka')",2,0.5388790081654277
+Water,"('aang', 'messenger')",1,0.5025455057621002
+Water,"('herbalist', 'june')",1,-0.7438760921359062
+Water,"('herbalist', 'zuko')",1,-0.7438760921359062
+Water,"('aunt wu', 'iroh')",1,1.489100530743599
+Water,"('june', 'sokka')",1,-1.4987261831760406
+Water,"('june', 'katara')",1,0.027357280254364014
+Water,"('katara', 'mask dealer')",1,-0.7461628541350365
+Water,"('mask dealer', 'sokka')",1,-0.7461628541350365
+Water,"('aang', 'shop keeper')",1,1.4988126754760742
+Water,"('shop keeper', 'sokka')",1,1.4988126754760742
+Water,"('aang', 'malu')",1,0.03604544699192047
+Water,"('aang', 'fire nation kids')",1,0.03604544699192047
+Water,"('aang', 'puppet fire lord')",1,0.03604544699192047
+Water,"('katara', 'malu')",1,0.03604544699192047
+Water,"('fire nation kids', 'katara')",1,0.03604544699192047
+Water,"('katara', 'puppet fire lord')",1,0.03604544699192047
+Water,"('fire nation kids', 'malu')",1,0.03604544699192047
+Water,"('malu', 'sokka')",1,0.03604544699192047
+Water,"('malu', 'puppet fire lord')",1,0.03604544699192047
+Water,"('fire nation kids', 'sokka')",1,0.03604544699192047
+Water,"('fire nation kids', 'puppet fire lord')",1,0.03604544699192047
+Water,"('puppet fire lord', 'sokka')",1,0.03604544699192047
+Water,"('citizen', 'sokka')",1,1.3759812489151955
+Water,"('chey', 'sokka')",7,0.24356967886159944
+Water,"('citizen', 'guard')",1,1.3759812489151955
+Water,"('chey', 'guard')",2,0.7124725766479969
+Water,"('chey', 'citizen')",1,1.3759812489151955
+Water,"('aang', 'chey')",6,0.11933042027733544
+Water,"('chey', 'katara')",2,-0.016539696807211096
+Water,"('lin yee', 'sokka')",1,0.1040751188993454
+Water,"('chey', 'lin yee')",3,0.20172564685344696
+Water,"('aang', 'lin yee')",1,0.4910511374473572
+Water,"('guard captain', 'zhao')",1,-0.3127501130104065
+Water,"('aang', 'jeong jeong')",9,0.30189585165371974
+Water,"('jeong jeong', 'roku')",1,0.30084800720214844
+Water,"('jeong jeong', 'sokka')",2,-0.7399281598627567
+Water,"('aang', 'tribal man')",1,0.20401160206113542
+Water,"('jeong jeong', 'tribal man')",1,0.20401160206113542
+Water,"('katara', 'tribal man')",1,0.20401160206113542
+Water,"('jeong jeong', 'katara')",2,0.7549104307379041
+Water,"('jeong jeong', 'zhao')",1,1.1200089678168297
+Water,"('aang', 'storyteller')",4,0.4028983414173126
+Water,"('katara', 'storyteller')",1,-0.38751479983329773
+Water,"('sokka', 'storyteller')",1,-1.4993554204702377
+Water,"('colonists', 'sokka')",1,-1.4900635331869125
+Water,"('aang', 'teo')",15,0.5713216418300793
+Water,"('sokka', 'teo')",6,0.5671866432159812
+Water,"('katara', 'teo')",10,0.2988831403000014
+Water,"('aang', 'mechanist')",7,-0.27029390785392826
+Water,"('mechanist', 'teo')",5,0.12138335640613851
+Water,"('mechanist', 'sokka')",11,-0.668088481573514
+Water,"('aang', 'qin')",2,-0.7975835248827934
+Water,"('mechanist', 'qin')",2,-0.7975835248827934
+Water,"('qin', 'teo')",1,-0.595674017071724
+Water,"('katara', 'mechanist')",2,-0.06941395501295726
+Water,"('girl', 'katara')",1,-0.015991710126399994
+Water,"('girl', 'teo')",1,-0.015991710126399994
+Water,"('aang', 'girl')",1,-0.015991710126399994
+Water,"('li', 'zhao')",1,-1.3778353929519653
+Water,"('arnook', 'yue')",1,1.4995284974575043
+Water,"('sokka', 'yue')",14,-0.3181612278353803
+Water,"('katara', 'yue')",8,0.419312395488045
+Water,"('aang', 'arnook')",2,0.567773200571537
+Water,"('aang', 'pakku')",9,-0.05684773077567416
+Water,"('arnook', 'pakku')",2,0.567773200571537
+Water,"('katara', 'pakku')",8,-0.254807573184371
+Water,"('pirate captain', 'zhao')",1,0.5176659524440765
+Water,"('oh', 'zhao')",1,0.5176659524440765
+Water,"('katara', 'yugoda')",2,0.8665500171482563
+Water,"('arnook', 'katara')",2,0.22262955084443092
+Water,"('pakku', 'sokka')",1,-0.38761605620384215
+Water,"('arnook', 'sokka')",5,0.563211098739079
+Water,"('hahn', 'sokka')",4,0.2857799386339528
+Water,"('arnook', 'hahn')",2,0.033743822148868015
+Water,"('aang', 'yue')",7,0.358979020039646
+Water,"('yue', 'zuko')",1,0.21331919942583358
+Water,"('aang', 'baboon spirit')",1,0.7449774295091629
+Water,"('aang', 'koh')",3,0.2595501783348265
+Water,"('yue', 'zhao')",1,-0.15977553810392106
+Water,"('iroh', 'yue')",1,0.6311772210257394
