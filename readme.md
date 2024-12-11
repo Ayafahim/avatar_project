@@ -1,4 +1,4 @@
-# Avatar: The Last Airbender Social Network Analysis
+# Avatar: The Last Airbender Social Network Analysis 
 
 ## Project Overview
 
@@ -22,27 +22,26 @@ As avid fans of Avatar: The Last Airbender, we are fascinated by its depth, comp
 - What emotional trends are present in dialogues and story arcs?
 - How do these patterns contribute to the show's lasting impact?
 
+Additionally, we have used **thread discussions** from Reddit to supplement our analysis with fan perspectives:
+
+- [Appa's Lost Days Will Always Be the Saddest](https://www.reddit.com/r/TheLastAirbender/comments/8ezr6b/appas_lost_days_will_always_be_the_saddest/)
+- [ATLA Rewatch Season 2 Episode 7: Zuko Alone](https://www.reddit.com/r/TheLastAirbender/comments/gy843t/atla_rewatch_season_2_episode_7_zuko_alone/)
+- [I Liked Zuko Alone, but Screw That Village](https://www.reddit.com/r/CharacterRant/comments/n16qvd/i_liked_zuko_alone_but_screw_that_village/)
+- [The Painted Lady Is Actually a Good Episode](https://www.reddit.com/r/TheLastAirbender/comments/1b56kmr/the_painted_lady_is_actually_a_good_episode_it_is/)
+- [ATLA: What's Wrong with The Great Divide?](https://www.reddit.com/r/TheLastAirbender/comments/44yb5v/atla_whats_wrong_with_the_great_divide/)
+- [Is The Episode "The Great Divide" the Worst Episode?](https://www.reddit.com/r/TheLastAirbender/comments/ociiu2/is_the_episode_the_great_divide_the_worst_episode/)
+- [The Headband](https://avatar.fandom.com/wiki/The_Headband)
+- [ATLA Rewatch S3E2: The Headband](https://www.reddit.com/r/TheLastAirbender/comments/ohxf2c/atla_rewatch_s3e2_the_headband/)
+- [Sokka's Master Is One of My Favorite Episodes](https://www.reddit.com/r/TheLastAirbender/comments/kjjguo/sokkas_master_is_one_of_my_favorite_episodes_what/)
+- [In Sokka's Master, Master Piandao Knew That Aang...](https://www.reddit.com/r/TheLastAirbender/comments/nsxe9n/in_sokkas_master_master_piandao_knew_that_aang/)
+
 ## Data Overview
 
 Our analysis utilizes the following datasets:
 
 ### Primary Datasets
 
-1. **Avatar: The Last Airbender Episode Scrape - IMDb**
-   - **Source**: Kaggle
-   - **Size**: 26.59 kB
-   - **Description**: Contains IMDb ratings and metadata for each episode.
-   - **Dataset Link**: [Avatar: The Last Airbender Episode Scrape - IMDb](https://www.kaggle.com/datasets/amiryusoff/avatar-the-last-airbender-episode-scrape-imdb)
-
-   **Columns**:
-   - `Season`: The season number (1, 2, or 3).
-   - `Episode`: The episode number within the season.
-   - `Title`: The title of the episode.
-   - `Rating`: The IMDb rating of the episode.
-   - `AirDate`: The original air date of the episode.
-   - `TotalVotes`: The total number of votes the episode received on IMDb.
-
-2. **Avatar: The Last Airbender**
+1. **Avatar: The Last Airbender**
    - **Source**: Kaggle
    - **Size**: 4.36 MB
    - **Description**: Provides transcripts of the show, metadata, and visualizations.
@@ -60,7 +59,7 @@ Our analysis utilizes the following datasets:
    - `scene_description`: Descriptive text of the scene's action or setting.
    - `writer`: The writer(s) of the episode.
    - `director`: The director of the episode.
-   - `imdb_rating`: The IMDb rating of the episode.
+   
 
 ### Supplementary Dataset
 
@@ -98,16 +97,4 @@ This project bridges the realms of storytelling and data analytics, offering a n
 
 1. **Explore the Data**: Familiarize yourself with the structure and content of the datasets.
 2. **Run the Analysis**: Utilize the provided scripts to generate social network graphs and sentiment visualizations.
-3. **Interpret the Insights**: Delve into the results to explore character dynamics and narrative evolution.
-
----
-
-### Authors
-
-This project is developed by a team of Avatar enthusiasts with a passion for data analysis and storytelling.
-
-### License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
+3. **Interpret the Insights**: Delve into the results to explore character dynamics and narrative evol
