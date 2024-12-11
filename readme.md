@@ -90,11 +90,3 @@ The primary text analyzed comprises the **transcripts of each episode**, enablin
 ## Significance
 
 This project bridges the realms of storytelling and data analytics, offering a novel perspective on one of the most celebrated animated series. By combining **data science** with **narrative analysis**, we aim to uncover the character dynamics, relationships, and themes that contribute to Avatar: The Last Airbender's timeless resonance.
-
----
-
-## How to Use This Repository
-
-1. **Explore the Data**: Familiarize yourself with the structure and content of the datasets.
-2. **Run the Analysis**: Utilize the provided scripts to generate social network graphs and sentiment visualizations.
-3. **Interpret the Insights**: Delve into the results to explore character dynamics and narrative evol
